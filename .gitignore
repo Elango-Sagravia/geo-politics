@@ -11,8 +11,8 @@
 
 # next.js
 /.next/
-/.trunk/
 /out/
+/.trunk/
 
 # production
 /build
