@@ -13,7 +13,7 @@ export default function Hero() {
 
   return (
     <div className="bg-nl_sec_background">
-      <div className="flex px-4 md:px-16 py-32 bg-nl_sec_background max-w-7xl mx-auto">
+      <div className="flex px-4 md:px-16 py-32 bg-nl_sec_background max-w-7xl mx-auto min-h-[600px]">
         <div className="flex-1">
           <h1
             className={`text-nl_background text-4xl sm:text-5xl ${libre.className} leading-tight`}
