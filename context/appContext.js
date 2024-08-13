@@ -6,7 +6,7 @@ import { createContext, useContext, useState } from "react";
 const AppContext = createContext();
 
 const AppProvider = ({ children }) => {
-  const [email, setEmail] = useState("3el");
+  const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
   const isSubscribed = email.length > 0;
 
