@@ -1,22 +1,24 @@
 const content = {
   homePage: {
     hero: {
-      title: "Grasp Geopolitics in No Time",
+      title: "Fact-checked geopolitics news that diplomats read",
       subTitle:
-        "Curious about global political dynamics and key events? Receive concise, expert analysis in our weekday newsletter.",
+        "The most impactful geopolitical and international relations stories and visuals delivered to your inbox six days a week. A brief 4-minute read.",
     },
   },
   subscribe: {
-    title: "Gain insights, stay informed.",
+    title: "Stay informed, widen your worldview.",
   },
   advertise: {
     hero: {
-      title: "Our mission: Quick and clear geopolitical news",
+      title:
+        "Our mission is to share fact-checked information and knowledge with the world.",
       subTitle:
-        "Connect with an international audience hungry for insightful geopolitical analysis.",
+        "To reach our engaged audience of 200,000 subscribers, contact us below",
+      buttonText: "Advertise with us",
     },
     statusSection: {
-      heading: "Reach new heights with Geopolitical World",
+      heading: "Reach new customers with Geopolitical World.",
       list: [
         {
           title: "54%",
@@ -34,9 +36,32 @@ const content = {
       ],
     },
     formSection: {
-      heading: "Take your brand global",
-      subHeading:
-        "Connect with over 100,000 engaged readers worldwide. Let’s discuss how we can help elevate your brand.",
+      left: [
+        {
+          title: "General Inquiries",
+          type: "email",
+          href: "contact@geopolitics.world",
+          content: "contact@geopolitics.world",
+        },
+        {
+          title: "Front desk",
+          type: "phone",
+          href: "+1 (307) 429-0673",
+          content: "(307) 429-0673",
+        },
+        {
+          title: "Advertise with us",
+          type: "email",
+          href: "contact@geopolitics.world",
+          content: "contact@geopolitics.world",
+        },
+        {
+          title: "Speak to sales",
+          type: "link",
+          href: "contact@geopolitics.world",
+          content: "contact@geopolitics.world",
+        },
+      ],
     },
   },
   archivePage: {
