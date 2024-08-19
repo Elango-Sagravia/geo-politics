@@ -3,7 +3,11 @@ import HeadingWithUnderline from "../headingWithUnderline/headingWithUnderline";
 import blogs from "@/blogs";
 
 export default function Latest() {
-  const post = blogs.find((blog) => blog.slug === "second-blog");
+  const post = blogs.find(
+    (blog) =>
+      blog.slug ===
+      "what-to-expect-if-trump-wins-2024-navigating-market-shifts-and-opportunities"
+  );
   return (
     <div>
       <div className="px-8 py-16 md:px-16 max-w-7xl mx-auto">
