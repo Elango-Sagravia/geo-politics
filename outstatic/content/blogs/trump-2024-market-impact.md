@@ -19,7 +19,7 @@ The "Trump Trade" has become synonymous with investor optimism around a potentia
 
 ### Trump Pledges Crypto Leadership
 
-![](/images/b18a-EyNj.webp)
+![United States Statue of Liberty](/images/b18a-EyNj.webp)
 
 At the Bitcoin 2024 conference, Trump made a bold promise to establish the U.S. as the "crypto capital of the planet" if re-elected. He outlined plans for a bitcoin strategic reserve and proposed regulatory changes aimed at fostering growth in the crypto industry. This stance marks a clear contrast to the current Biden administration’s more cautious regulatory approach. Trump’s commitment to supporting the crypto sector has energized the market, with industry leaders and investors seeing this as a potential catalyst for the expansion and legitimization of digital assets in the U.S. economy.
 
