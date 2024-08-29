@@ -18,7 +18,7 @@ publishedAt: '2024-08-01T12:10:28.000Z'
 
 Venezuela’s recent presidential election has thrown the nation into a deep political crisis. President Nicolás Maduro claimed victory in the July 28 vote, with the National Electoral Council (CNE) announcing he secured 52% of the vote. In contrast, opposition candidate Edmundo González Urrutia was reported to have received 43%. However, widespread allegations of fraud have surfaced, with opposition supporters and independent observers insisting that González won by a substantial margin. They point to significant discrepancies and a concerning lack of transparency in the official vote count.
 
-### **Global Reactions: A Divided Response**
+### Global Reactions: A Divided Response
 
 The international response has been swift but divided. The European Union has refused to recognize Maduro’s victory, expressing serious concerns about the election's credibility. The EU, alongside the United States and several South American nations like Argentina, has supported the opposition's claims, calling for an independent verification of the results and recognizing González as the rightful winner.
 
@@ -30,7 +30,7 @@ In contrast, left-leaning governments in Brazil, Colombia, and Mexico have adopt
 
 Maduro’s contested victory has ignited widespread protests across Venezuela, leading to violent clashes between demonstrators and security forces. The unrest has resulted in numerous deaths and arrests, further escalating tensions. Opposition leader María Corina Machado, a prominent supporter of González, has been forced into hiding due to threats of arrest. Despite the crackdown, she continues to demand the full disclosure of vote details and an end to the government's violent repression of peaceful protests.
 
-### **Diplomatic Efforts for Resolution**
+### Diplomatic Efforts for Resolution
 
 In the midst of the chaos, diplomatic efforts are being made to mediate the situation. Brazilian President Luiz Inácio Lula da Silva, along with leaders from Colombia and Mexico, is advocating for negotiations between the Venezuelan government and the opposition. Their approach seeks a peaceful resolution without taking a definitive side, contrasting sharply with the more confrontational stance of the US and European nations.
 
