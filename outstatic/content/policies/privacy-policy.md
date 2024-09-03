@@ -75,16 +75,16 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 We may send periodic promotional emails to you. You have the right to prevent us from contacting you for marketing purposes at any time. When we send a promotional communication, you can opt out of further communications by following the unsubscribe instructions provided in each email. It may take up to 10 business days for us to process unsubscribe requests.
 
-- Right to Know: You have the right to request information about our Personal Information collection practices over the past 12 months, including the categories of information collected, the sources, our business purposes for collecting or sharing it, and the categories of third parties with whom we shared it. You may also request a copy of the specific pieces of Personal Information we collected about you in the last 12 months.
-- Right to Delete: You may request that we delete your Personal Information, subject to certain exceptions.
-- Right to Opt Out: You have the right to opt out of any "sales" of your Personal Information if applicable. For clarity, we do not sell your Personal Information.
-- Non-Discrimination: You have the right to not be discriminated against for exercising these rights.
-- Access to Your Personal Information: You may request access to your Personal Information by contacting us. If required by law, we will provide reasonable access to the Personal Information we have about you.
-- Changes to Your Personal Information: We rely on you to update and correct your Personal Information.
-- Deletion of Your Personal Information: Typically, we retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice. You may request information about how long we keep a specific type of information or request that we delete your Personal Information. If required by law, we will grant such requests.
-- Objection to Certain Processing: You may object to our use or disclosure of your Personal Information by contacting us.
-- Promotional Emails: You may choose to provide us with your email address for sending free newsletters, surveys, offers, and other promotional materials. You can stop receiving promotional emails by following the unsubscribe instructions in those emails. Even if you opt-out of promotional emails, we may still send you service-related communications.
-- Revocation of Consent: If you revoke your consent for processing Personal Information, we may no longer be able to provide you with services. In some cases, we may limit or deny your request to revoke consent if permitted or required by law, or if we are unable to adequately verify your identity. You may revoke consent to processing by contacting us.
+- **Right to Know**: You have the right to request information about our Personal Information collection practices over the past 12 months, including the categories of information collected, the sources, our business purposes for collecting or sharing it, and the categories of third parties with whom we shared it. You may also request a copy of the specific pieces of Personal Information we collected about you in the last 12 months.
+- **Right to Delete**: You may request that we delete your Personal Information, subject to certain exceptions.
+- **Right to Opt Out**: You have the right to opt out of any "sales" of your Personal Information if applicable. For clarity, we do not sell your Personal Information.
+- **Non-Discrimination**: You have the right to not be discriminated against for exercising these rights.
+- **Access to Your Personal Information**: You may request access to your Personal Information by contacting us. If required by law, we will provide reasonable access to the Personal Information we have about you.
+- **Changes to Your Personal Information**: We rely on you to update and correct your Personal Information.
+- **Deletion of Your Personal Information**: Typically, we retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice. You may request information about how long we keep a specific type of information or request that we delete your Personal Information. If required by law, we will grant such requests.
+- **Objection to Certain Processing**: You may object to our use or disclosure of your Personal Information by contacting us.
+- **Promotional Emails**: You may choose to provide us with your email address for sending free newsletters, surveys, offers, and other promotional materials. You can stop receiving promotional emails by following the unsubscribe instructions in those emails. Even if you opt-out of promotional emails, we may still send you service-related communications.
+- **Revocation of Consent**: If you revoke your consent for processing Personal Information, we may no longer be able to provide you with services. In some cases, we may limit or deny your request to revoke consent if permitted or required by law, or if we are unable to adequately verify your identity. You may revoke consent to processing by contacting us.
 
 **9. CAN-SPAM Act Compliance**
 
@@ -105,12 +105,12 @@ If you are a resident of the European Economic Area (EEA), you have certain data
 
 As a resident of the EEA, you have the following data protection rights:
 
-- The right to access, update, or to delete the information we have on you.
-- The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
-- The right to object. You have the right to object to our processing of your Personal Data.
-- The right of restriction. You have the right to request that we restrict the processing of your personal information.
-- The right to data portability. You have the right to be provided with a copy of your information in a structured, machine-readable, and commonly used format.
-- The right to withdraw consent. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+- **The right to access**, update, or to delete the information we have on you.
+- **The right of rectification**. You have the right to have your information rectified if that information is inaccurate or incomplete.
+- **The right to object**. You have the right to object to our processing of your Personal Data.
+- **The right of restriction**. You have the right to request that we restrict the processing of your personal information.
+- **The right to data portability**. You have the right to be provided with a copy of your information in a structured, machine-readable, and commonly used format.
+- **The right to withdraw consent**. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
 
 To exercise these rights, please contact us at contact@geopolitics.world. We may ask you to verify you identity before responding to such requests. Please note that we may retain information as necessary to comply with legal obligations or resolve disputes.
 
@@ -120,11 +120,11 @@ Under the California Privacy Rights Act (CPRA), residents of California have spe
 
 The right to know. You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months.
 
-- The right to delete. You have the right to request the deletion of personal information we have collected from you, subject to certain exceptions.
-- The right to correct. You have the right to request the correction of inaccurate personal information that we maintain about you.
-- The right to opt-out. You have the right to direct us to not sell your personal information (opt-out of sale). We do not sell your personal information.
-- The right to limit use and disclosure of sensitive personal information. You have the right to request that we limit the use and disclosure of your sensitive personal information.
-- The right to non-discrimination. We will not discriminate against you for exercising any of your CPRA rights. This means that we will not deny you goods or services, charge you different prices or rates, or provide you with a different level or quality of goods or services.
+- **The right to delete**. You have the right to request the deletion of personal information we have collected from you, subject to certain exceptions.
+- **The right to correct**. You have the right to request the correction of inaccurate personal information that we maintain about you.
+- **The right to opt-out**. You have the right to direct us to not sell your personal information (opt-out of sale). We do not sell your personal information.
+- **The right to limit use and disclosure of sensitive personal information**. You have the right to request that we limit the use and disclosure of your sensitive personal information.
+- **The right to non-discrimination**. We will not discriminate against you for exercising any of your CPRA rights. This means that we will not deny you goods or services, charge you different prices or rates, or provide you with a different level or quality of goods or services.
 
 \
 To exercise your rights under the CPRA, please contact us at contact@geopolitics.world. We may need to verify your identity before processing your request, which may involve asking you to provide certain information or documentation.
