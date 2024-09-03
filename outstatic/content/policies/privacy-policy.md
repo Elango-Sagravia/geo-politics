@@ -69,7 +69,7 @@ We use cookies and similar tracking technologies to track the activity on our We
 
 Occasionally, at our discretion, we may include or offer third-party products or services on our Website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**7. Children's Privacy** 
+**7. Children's Privacy**
 
 Our Services are not designed for children under 13, and we do not intentionally or knowingly collect Personal Information from users who are under the age of 13 or from other websites or services directed at children. If we discover that a child under 13 has provided us with Personal Information, we will delete such information.
 
@@ -114,7 +114,7 @@ As a resident of the EEA, you have the following data protection rights:
 - **The right to data portability**. You have the right to be provided with a copy of your information in a structured, machine-readable, and commonly used format.
 - **The right to withdraw consent**. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
 
-To exercise these rights, please contact us at contact@geopolitics.world. We may ask you to verify you identity before responding to such requests. Please note that we may retain information as necessary to comply with legal obligations or resolve disputes.
+To exercise these rights, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world). We may ask you to verify you identity before responding to such requests. Please note that we may retain information as necessary to comply with legal obligations or resolve disputes.
 
 **11. California Privacy Rights Act (CPRA) Compliance**
 
@@ -129,7 +129,7 @@ The right to know. You have the right to request that we disclose certain inform
 - **The right to non-discrimination**. We will not discriminate against you for exercising any of your CPRA rights. This means that we will not deny you goods or services, charge you different prices or rates, or provide you with a different level or quality of goods or services.
 
 \
-To exercise your rights under the CPRA, please contact us at contact@geopolitics.world. We may need to verify your identity before processing your request, which may involve asking you to provide certain information or documentation.
+To exercise your rights under the CPRA, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world). We may need to verify your identity before processing your request, which may involve asking you to provide certain information or documentation.
 
 **12. Changes to This Privacy Policy**
 
@@ -137,4 +137,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 **13. Contact Information**
 
-If you have any questions about this Policy, please contact us at contact@geopolitics.world.
+If you have any questions about this Policy, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world).
