@@ -20,10 +20,10 @@ Cookies are small text files stored on your device (computer, tablet, or mobile)
 
 We use the following types of cookies on our website:
 
-- Essential Cookies: These cookies are necessary for the website to function properly. They enable basic functionalities such as page navigation and access to secure areas of the website. Without these cookies, the website cannot operate efficiently.
-- Performance Cookies: These cookies collect information about how visitors use our website, such as which pages are visited most often. This information is used to improve the website’s performance and user experience. These cookies do not collect personal information.
-- Functional Cookies: These cookies allow the website to remember choices you make (such as your username, language, or region) and provide enhanced, personalized features. They may also be used to provide services you have requested, such as watching a video or commenting on a blog.
-- Marketing Cookies: These cookies track your browsing habits to deliver advertisements relevant to you and your interests. They also help measure the effectiveness of advertising campaigns. These cookies may be set by third-party advertising networks with our permission.
+- **Essential Cookies:** These cookies are necessary for the website to function properly. They enable basic functionalities such as page navigation and access to secure areas of the website. Without these cookies, the website cannot operate efficiently.
+- **Performance Cookies:** These cookies collect information about how visitors use our website, such as which pages are visited most often. This information is used to improve the website’s performance and user experience. These cookies do not collect personal information.
+- **Functional Cookies:** These cookies allow the website to remember choices you make (such as your username, language, or region) and provide enhanced, personalized features. They may also be used to provide services you have requested, such as watching a video or commenting on a blog.
+- **Marketing Cookies:** These cookies track your browsing habits to deliver advertisements relevant to you and your interests. They also help measure the effectiveness of advertising campaigns. These cookies may be set by third-party advertising networks with our permission.
 
 \
 **3. How We Use Cookies**
