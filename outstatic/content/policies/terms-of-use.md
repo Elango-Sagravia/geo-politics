@@ -136,4 +136,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 **12. Contact Information**
 
-If you have any questions about these Terms, please contact us at contact@geopolitics.world.
+If you have any questions about these Terms, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world).
