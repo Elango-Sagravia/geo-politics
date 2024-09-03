@@ -69,7 +69,9 @@ We use cookies and similar tracking technologies to track the activity on our We
 
 Occasionally, at our discretion, we may include or offer third-party products or services on our Website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**7. Children's Privacy** Our Services are not designed for children under 13, and we do not intentionally or knowingly collect Personal Information from users who are under the age of 13 or from other websites or services directed at children. If we discover that a child under 13 has provided us with Personal Information, we will delete such information.
+**7. Children's Privacy** 
+
+Our Services are not designed for children under 13, and we do not intentionally or knowingly collect Personal Information from users who are under the age of 13 or from other websites or services directed at children. If we discover that a child under 13 has provided us with Personal Information, we will delete such information.
 
 **8. Your Rights**
 
@@ -105,7 +107,7 @@ If you are a resident of the European Economic Area (EEA), you have certain data
 
 As a resident of the EEA, you have the following data protection rights:
 
-- **The right to access**, update, or to delete the information we have on you.
+- **The right to access, update, or to delete the information we have on you**.
 - **The right of rectification**. You have the right to have your information rectified if that information is inaccurate or incomplete.
 - **The right to object**. You have the right to object to our processing of your Personal Data.
 - **The right of restriction**. You have the right to request that we restrict the processing of your personal information.
