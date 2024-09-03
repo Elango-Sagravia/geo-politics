@@ -44,8 +44,8 @@ You have the right to manage your cookie preferences. Most web browsers automati
 
 To manage your cookie preferences:
 
-- Browser Settings: You can adjust your browser settings to block or alert you about cookies. Check your browser’s help section for instructions on how to do this.
-- Opt-Out Tools: Some third parties provide opt-out tools to manage cookies used for advertising purposes. Examples include the Network Advertising Initiative (NAI) opt-out page and the Digital Advertising Alliance (DAA) opt-out page.
+- **Browser Settings:** You can adjust your browser settings to block or alert you about cookies. Check your browser’s help section for instructions on how to do this.
+- **Opt-Out Tools:** Some third parties provide opt-out tools to manage cookies used for advertising purposes. Examples include the Network Advertising Initiative (NAI) opt-out page and the Digital Advertising Alliance (DAA) opt-out page.
 
 \
 **6. Changes to This Cookie Policy**
@@ -54,4 +54,4 @@ We may update this Cookie Policy from time to time to reflect changes in our pra
 
 **7. Contact Information**
 
-If you have any questions about this Policy, please contact us at contact@geopolitics.world
+If you have any questions about this Policy, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world)
