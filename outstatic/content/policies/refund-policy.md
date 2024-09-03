@@ -20,8 +20,8 @@ Refunds are available to advertisers under the following circumstances:
 
 If the scheduled newsletter is not delivered due to a fault on our part, we offer two options:
 
-- Rescheduling: We can reschedule your advertisement to appear in a different newsletter or on a different day that aligns with your marketing goals.
-- Full Refund: If rescheduling is not feasible or preferred, a full refund will be issued.
+- **Rescheduling:** We can reschedule your advertisement to appear in a different newsletter or on a different day that aligns with your marketing goals.
+- **Full Refund:** If rescheduling is not feasible or preferred, a full refund will be issued.
 
 \
 Non-delivery refers to technical issues on our end that result in the newsletter not being sent to the subscribers.
@@ -57,7 +57,7 @@ To request a refund, please follow these steps:
 
 3.1 Contact Us
 
-Email us at contact@geopolitics.world within 7 days of the scheduled newsletter publication date. Please include your advertisement details, the issue encountered, and any supporting documentation.
+Email us at [contact@geopolitics.world](mailto:contact@geopolitics.world) within 7 days of the scheduled newsletter publication date. Please include your advertisement details, the issue encountered, and any supporting documentation.
 
 3.2 Review Process
 
@@ -77,4 +77,4 @@ We reserve the right to modify or update this Refund Policy at any time. Any cha
 
 **6. Contact Information**
 
-If you have any questions or concerns about this Refund Policy, please contact us at contact@geopolitics.world.
+If you have any questions or concerns about this Refund Policy, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world).
