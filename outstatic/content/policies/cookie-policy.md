@@ -54,4 +54,4 @@ We may update this Cookie Policy from time to time to reflect changes in our pra
 
 **7. Contact Information**
 
-If you have any questions about this Policy, please contact us at [contact@geopolitics.world](mailto:contact@geopolitics.world)
+If you have any questions about this Policy, please contact us at [contact@geopolitics.world.](mailto:contact@geopolitics.world)
