@@ -1,6 +1,5 @@
 ---
-title: 'Refund policy
-'
+title: 'Refund policy '
 status: 'published'
 author:
   name: ''
