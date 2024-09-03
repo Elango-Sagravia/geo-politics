@@ -13,7 +13,7 @@ title: '17th Aug: Global Crisis Alert - Polio in Gaza, Bangladesh Unrest, LNG Su
 publishedAt: '2024-08-17T09:17:23.000Z'
 ---
 
-### **Polio Resurgence in Gaza Amid Ongoing Conflict**
+### Polio Resurgence in Gaza Amid Ongoing Conflict
 
 The re-emergence of polio in Gaza has raised alarms among international aid organizations, who are urgently calling for a temporary ceasefire to accelerate vaccination efforts. The conflict-stricken region has reported confirmed polio cases, and the virus has been detected in wastewater, signaling a growing public health threat. Health officials warn that without immediate action, the region could face a significant outbreak, further exacerbating the humanitarian crisis in Gaza.
 
