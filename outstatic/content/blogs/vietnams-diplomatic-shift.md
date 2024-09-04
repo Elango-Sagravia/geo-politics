@@ -2,7 +2,7 @@
 cutOff: '4'
 latest: 'true'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b49a-M5Nz.webp'
 description: ''
 slug: 'vietnams-diplomatic-shift'
