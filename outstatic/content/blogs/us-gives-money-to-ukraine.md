@@ -16,7 +16,7 @@ publishedAt: '2024-08-24T11:28:48.000Z'
 
 ### US to offer military aid to Ukraine
 
-US officials have said the Biden administration plans to send Ukraine 125 million in military aid. The announcement was made on Friday. Some provisions include air defense missiles, Javelins, counter-drone and counter-electronic warfare systems and equipment, and Vehicles. Thcomes as Ukrainian forces are advancing in Russia, they have taken about 100 square kilometers (62 square miles) of territory as of Friday. However, they are also at risk of having their city of Pokrovsk overtaken. Today also happens to be Ukrainian Independence Day, so it's not the worst birthday present.
+US officials have said the Biden administration plans to send Ukraine 125 million in military aid. The announcement was made on Friday. Some provisions include air defense missiles, Javelins, counter-drone and counter-electronic warfare systems and equipment, and Vehicles. This comes as Ukrainian forces are advancing in Russia, they have taken about 100 square kilometers (62 square miles) of territory as of Friday. However, they are also at risk of having their city of Pokrovsk overtaken. Today also happens to be Ukrainian Independence Day, so it's not the worst birthday present.
 
 ### China and Vietnam strengthened ties this week
 
