@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '4'
+readTime: '3'
 coverImage: '/images/b51a-k2OD.webp'
 description: ''
 slug: 'global-crisis-alert'
