@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b28a-M1MT.webp'
 description: ''
 slug: 'venezuelas-election-crisis'
