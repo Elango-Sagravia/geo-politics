@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b54a-E0Nz.webp'
 description: ''
 slug: 'zelenskys-canceled-plan'
