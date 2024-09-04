@@ -2,7 +2,7 @@
 cutOff: '4'
 latest: 'true'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-a-g5OT.webp'
 description: ''
 slug: 'french-political-crisis'
