@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '3'
 coverImage: '/images/b14a--1--qxnz-MyMT.webp'
 description: ''
 slug: 'irans-military-strategy-and-regional-influence'
