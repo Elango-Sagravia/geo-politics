@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b46a-MyND.webp'
 description: ''
 slug: 'military-drills'
