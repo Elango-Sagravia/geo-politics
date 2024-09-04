@@ -2,7 +2,7 @@
 cutOff: '4'
 latest: 'true'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b13b-M1Nj.webp'
 description: ''
 slug: 'bangladeshs-chief-justice-resigns'
