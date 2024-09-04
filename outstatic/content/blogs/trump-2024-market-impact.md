@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b18a-E3OD.webp'
 description: ''
 slug: 'trump-2024-market-impact'
