@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-a-c1md-E1MD.webp'
 description: ''
 slug: 'north-korea-tests-drones'
