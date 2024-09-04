@@ -2,7 +2,7 @@
 cutOff: '4'
 latest: 'true'
 relatedArticles: ''
-readTime: '10'
+readTime: '4'
 coverImage: '/images/b21a-E5OD.webp'
 description: ''
 slug: 'crisis-in-bangladesh'
