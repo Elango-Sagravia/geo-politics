@@ -4,7 +4,7 @@ status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/176796160?v=4'
-slug: 'ensure-your-emails-are-delivered-with-allowlists'
+slug: 'ensure-our-newsletter-reaches-your-inbox'
 description: ''
 coverImage: ''
 publishedAt: '2024-09-03T12:13:46.834Z'
