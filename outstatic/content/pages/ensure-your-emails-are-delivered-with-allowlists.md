@@ -132,6 +132,6 @@ Below are the steps to safelist our newsletter depending on your email provider.
 
 ## Final reminder
 
-Regularly check your spam or junk folders and mark our emails as Not Spam if they end up there.
+Regularly check your spam or junk folders and mark our emails as **Not Spam** if they end up there.
 
 If you have any questions or need further assistance, feel free to reach out at [contact@geopolitics.world.](mailto:contact@geopolitics.world)
