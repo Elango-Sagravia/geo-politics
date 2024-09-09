@@ -1,5 +1,6 @@
 ---
 cutOff: '4'
+latest: 'true'
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/china-is-ending-foreign-adoptions--many-us-families-getting-put-in-limbo--1--g5OD.webp'
