@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b5a-A4MT.webp'
+coverImage: '/images/12th-aug--u.s.-korea-military-drills--wildfire-threatens-athens-AyNj.jpg'
 description: ''
 slug: 'wildfire-threatens-athens'
 author:
@@ -10,7 +10,7 @@ author:
   picture: ''
 status: 'published'
 title: '12th Aug: U.S.-Korea Military Drills, Wildfire Threatens Athens'
-publishedAt: '2024-08-11T16:15:16.000Z'
+publishedAt: '2024-08-12T16:15:16.000Z'
 ---
 
 ### South Korea and U.S. to Launch Major Military Drills Amid North Korean Threats
@@ -23,7 +23,7 @@ In response to rising tensions in the Middle East, the U.S. is bolstering its mi
 
 ### Wildfire Threatens Towns Near Athens Amid Intense Heatwave
 
-![Wildfire near Athens](/images/b5a-g2Nj.webp)
+![](/images/12th-aug--u.s.-korea-military-drills--wildfire-threatens-athens-UyOT.jpg)
 
 A raging wildfire near Athens has triggered evacuation orders for several towns north and northwest of the city, including Anatoli, Daou Penteli, Nea Penteli, and parts of Dione. The fires come amid a severe heatwave, with temperatures expected to reach 100 degrees in the coming days. Over 250 residents have been evacuated with the assistance of police, who have deployed around 380 officers to the affected areas. Greece's Ministry of Climate Crisis and Civil Protection has placed emergency responders on high alert, warning of an extreme fire risk in the Athens peninsula and Boeotia region as the country battles the escalating wildfire crisis.
 
