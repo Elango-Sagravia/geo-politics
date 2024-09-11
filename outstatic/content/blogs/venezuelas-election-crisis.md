@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b28a-M1MT.webp'
+coverImage: '/images/15th-aug--venezuela-s-election-crisis--poland-s-military-display-A4NT.jpg'
 description: ''
 slug: 'venezuelas-election-crisis'
 author:
@@ -23,7 +23,7 @@ China’s economic recovery stumbled in July, with a continued property crisis a
 
 ### Paetongtarn Shinawatra Nominated for Thai Prime Minister
 
-![](/images/b28a-I3NT.webp)
+![](/images/15th-aug--venezuela-s-election-crisis--poland-s-military-display-M2Mz.jpg)
 
 Paetongtarn Shinawatra, daughter of former Thai Prime Minister Thaksin Shinawatra, has been nominated by her Pheu Thai party and coalition partners as the next Prime Minister of Thailand. Her nomination follows the ousting of former PM Srettha Thavisin due to an ethical violation. If approved, Paetongtarn would become Thailand’s second female Prime Minister and the third leader from the Shinawatra family. The nomination comes amid political turmoil, with Pheu Thai positioning itself to lead the country out of economic crisis despite criticism over its recent alliances and stance on the royal defamation law.
 
