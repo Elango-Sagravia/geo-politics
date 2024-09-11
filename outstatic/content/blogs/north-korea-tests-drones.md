@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-a-c1md-E1MD.webp'
+coverImage: '/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-c5Nj.jpg'
 description: ''
 slug: 'north-korea-tests-drones'
 author:
@@ -15,9 +15,9 @@ publishedAt: '2024-08-26T16:30:47.000Z'
 
 ### North Korea tests out new drones
 
-![North Korea drones](/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-a-c1MD.webp)
+![](/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-gyMz.jpg)
 
-Last weekend, North Korea tested out a series of new[ drones, ](https://apnews.com/article/korea-kim-jong-un-suicide-drones-922a06354df8d10cb778e503632fe9f2)one of which has been coined as a suicide drone. Photos show a white drone with X-shaped tails and wings supposedly crashing into and destroying a target that resembles South Korea’s main battle tank. These tests followed the US and South Korean Ulchi freedom drills last week. The U.S. and South Korea have joint drills each summer to prepare for a future North Korean attack. Kim Jong Un also says he is planning for one to react underwater. Usually, North Korea reacts similarly yearly to the joint South Korean and US military exercises, so this isn’t new.
+Last weekend, North Korea tested out a series of new [drones, ](https://apnews.com/article/korea-kim-jong-un-suicide-drones-922a06354df8d10cb778e503632fe9f2)one of which has been coined as a suicide drone. Photos show a white drone with X-shaped tails and wings supposedly crashing into and destroying a target that resembles South Korea’s main battle tank. These tests followed the US and South Korean Ulchi freedom drills last week. The U.S. and South Korea have joint drills each summer to prepare for a future North Korean attack. Kim Jong Un also says he is planning for one to react underwater. Usually, North Korea reacts similarly yearly to the joint South Korean and US military exercises, so this isn’t new.
 
 ### No ceasefire agreement in Cairo
 
@@ -25,7 +25,7 @@ This round of ceasefire [talks ](https://www.aljazeera.com/news/2024/8/25/gaza-c
 
 ### Separatist attack in Pakistan kills 31
 
-![Separatist](/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-b-cxOD.webp)
+![](/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-b-Q4Mz.jpg)
 
 Gunmen in southwestern[ Pakistan](https://www.npr.org/2024/08/26/g-s1-19547/gunmen-attacks-southwestern-pakistan) killed at least 31 people in two separate attacks on Monday. This part of Pakistan is known as Baluchistan, and it has quite a few different separatist groups. This area is no stranger to attacks; however, Monday was the deadliest. Twenty-three people were fatally shot after being identified and taken from buses, vehicles, and trucks. In a separate attack, gunmen killed at least nine people, four police officers and five passersby. A railway and vehicles were also burned in these attacks. The Baluch Liberation Army, a group that seeks independence from Pakistan, is the likely culprit.
 
