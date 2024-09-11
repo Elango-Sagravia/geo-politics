@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '10'
-coverImage: '/images/b20a-kzMT.webp'
+coverImage: '/images/3rd-aug--south-asia-floods-crisis--paraguay-s-ngo-bill--gaza-s-worsening-situation--YwMz.jpg'
 description: ''
 slug: 'south-asia-floods-crisis-paraguay-s-ngo-bill-gaza-s-worsening-situation'
 author:
@@ -28,7 +28,7 @@ Global trade is showing signs of resilience in the face of numerous global chall
 
 ### Humanitarian Crisis Worsens in Gaza Amidst Regional Tensions
 
-![Gaza](/images/b20a-M0OD.webp)
+![](/images/3rd-aug--south-asia-floods-crisis--paraguay-s-ngo-bill--gaza-s-worsening-situation--M3Mz.jpg)
 
 The humanitarian situation in Gaza has deteriorated dramatically, with the region now facing severe shortages of essential supplies, further exacerbating an already catastrophic situation. The United Nations has raised alarms over the escalating crisis, reporting that ongoing regional tensions and newly issued evacuation orders have compounded the misery of displaced civilians. The population in Gaza is enduring extreme hardship, with limited access to food, water, medical care, and shelter. The UN and other international bodies are calling for an immediate and substantial increase in humanitarian aid to alleviate the suffering and prevent further deterioration. The situation in Gaza is rapidly becoming untenable, and there is an urgent need for coordinated international action to address the crisis.
 
