@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/26th-aug--prisoner-swap--south-pacific-drama--israel-hezbollah-conflict-a-A1MT.webp'
+coverImage: '/images/26th-aug--prisoner-swap--south-pacific-drama--israel-hezbollah-conflict-ExMz.jpg'
 description: ''
 slug: 'prisoner-swap'
 author:
@@ -15,7 +15,7 @@ publishedAt: '2024-08-25T16:14:13.000Z'
 
 ### **Prisoner swap Ukraine and Russia**
 
-![](/images/26th-aug--prisoner-swap--south-pacific-drama--israel-hezbollah-conflict-a-cyMz.webp)
+![](/images/26th-aug--prisoner-swap--south-pacific-drama--israel-hezbollah-conflict-k4Nj.jpg)
 
 On Saturday, Russia and Ukraine exchanged 115 prisoners of war. This day coincided with Ukrainian Independence Day from the Soviet Union. This is the third independence day Ukraine has had since the start of the war. Most of the Ukrainian ones freed were conscripts who were captured at the beginning of the war. Many of them have suffered from medical neglect. The ones on the Russian side mainly were taken from the Ukrainian takeover of the Kursk region a couple of weeks ago. The United Arab Emirates brokered this exchange. Last January, there was a more extensive exchange where hundreds were swapped out.
 
