@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b54a-E0Nz.webp'
+coverImage: '/images/16th-aug--zelensky-s-canceled-plan--china-s-housing-woes-ExMj.jpg'
 description: ''
 slug: 'zelenskys-canceled-plan'
 author:
@@ -27,7 +27,7 @@ The World Health Organization (WHO) has declared monkeypox (Mpox) a Public Healt
 
 ### Erdogan and Abbas Discuss Gaza Amid Rising Tensions
 
-![](/images/b54a-YyNz.webp)
+![](/images/16th-aug--zelensky-s-canceled-plan--china-s-housing-woes-I3MT.jpg)
 
 Turkish President Recep Tayyip Erdogan and Palestinian leader Mahmoud Abbas met in Ankara to discuss the escalating Gaza conflict. Their talks followed the assassination of Hamas leader Ismail Haniyeh in Iran, allegedly by Israeli forces. Erdogan reiterated Turkey’s support for Palestine, emphasizing the need for a ceasefire and increased international pressure on Israel. The discussions also focused on humanitarian aid and strategies to address the crisis in Gaza, highlighting Turkey’s active role in regional diplomacy and its commitment to supporting Palestinian sovereignty amid ongoing tensions.
 
