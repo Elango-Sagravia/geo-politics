@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b18a-E3OD.webp'
+coverImage: '/images/5th-aug--trump-2024-market-impact-Y3OT.jpg'
 description: ''
 slug: 'trump-2024-market-impact'
 author:
@@ -19,7 +19,7 @@ The "Trump Trade" has become synonymous with investor optimism around a potentia
 
 ### Trump Pledges Crypto Leadership
 
-![United States Statue of Liberty](/images/b18a-EyNj.webp)
+![](/images/5th-aug--trump-2024-market-impact-U0Nz.jpg)
 
 At the Bitcoin 2024 conference, Trump made a bold promise to establish the U.S. as the "crypto capital of the planet" if re-elected. He outlined plans for a bitcoin strategic reserve and proposed regulatory changes aimed at fostering growth in the crypto industry. This stance marks a clear contrast to the current Biden administration’s more cautious regulatory approach. Trump’s commitment to supporting the crypto sector has energized the market, with industry leaders and investors seeing this as a potential catalyst for the expansion and legitimization of digital assets in the U.S. economy.
 
