@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b21a-E5OD.webp'
+coverImage: '/images/2nd-aug--crisis-in-bangladesh--pm-flees-amid-violent-protests-E3MD.jpg'
 description: ''
 slug: 'crisis-in-bangladesh'
 author:
@@ -22,7 +22,7 @@ In a shocking turn of events, Bangladesh’s Prime Minister Sheikh Hasina has fl
 
 The unrest was initially triggered by student demands to reform a controversial quota system for government jobs. The current system reserves 36% of jobs for the descendants of "freedom fighters," a policy that has been increasingly criticized as outdated and unfair. Protesters argue that this system, which originally set aside 30% of jobs but has expanded over time, disproportionately benefits a small, elite group, exacerbating job competition and high unemployment rates among the broader population.
 
-![Student protests](/images/b21a-UxND.webp)
+![](/images/2nd-aug--crisis-in-bangladesh--pm-flees-amid-violent-protests-cxMD.jpg)
 
 Opposition parties and students alike view the quota as unconstitutional, perpetuating inequality rather than addressing it. They are calling for the reservation to be restricted to ethnic minorities and people with disabilities, rather than extending it to the descendants of freedom fighters. The recent Supreme Court decision to uphold the quota, despite legislative efforts to remove it, has further inflamed public anger.
 
