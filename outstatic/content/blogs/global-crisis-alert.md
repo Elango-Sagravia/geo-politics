@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '3'
-coverImage: '/images/b51a-k2OD.webp'
+coverImage: '/images/17th-aug--global-crisis-alert---polio-in-gaza--bangladesh-unrest--lng-surge-Q2Nz.jpg'
 description: ''
 slug: 'global-crisis-alert'
 author:
@@ -31,7 +31,7 @@ Liquefied Natural Gas (LNG) exports to India and Southeast Asia have seen a 9% s
 
 ### Bangladesh Interim Government Promises Democracy Amid Violence
 
-![](/images/b51a-I2Nj.webp)
+![](/images/17th-aug--global-crisis-alert---polio-in-gaza--bangladesh-unrest--lng-surge-kwMT.jpg)
 
 Amid escalating violence and political unrest, Bangladesh’s interim Chief Adviser Mohammad Yunus has pledged to promote a pluralistic democracy and ensure free and fair elections. Following the departure of Prime Minister Sheikh Hasina, the country has been plagued by widespread violence, targeting minorities and causing significant casualties and property damage. The interim government’s promises aim to stabilize the situation and restore public confidence in the democratic process.
 
