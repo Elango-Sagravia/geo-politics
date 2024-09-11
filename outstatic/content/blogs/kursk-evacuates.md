@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/23rd-aug_-kursk-evacuates--gaza-update--family-values-residency-a-U3ND.webp'
+coverImage: '/images/23rd-aug--kursk-evacuates--gaza-update--family-values-residency-c1Nj.jpg'
 description: ''
 slug: 'kursk-evacuates'
 author:
@@ -23,7 +23,7 @@ Forty have died in the 24 hours from Israeli strikes in Gaza. Israeli military s
 
 ### Putin makes residency more accessible
 
-![](/images/23rd-aug_-kursk-evacuates--gaza-update--family-values-residency-a-c0MT.webp)
+![](/images/23rd-aug--kursk-evacuates--gaza-update--family-values-residency-IyMj.jpg)
 
 Putin signed a decree this week establishing a new residency scheme for foreigners who disagree with their countries' policies and those who share “ traditional Russian values.” More provisions will follow later. This comes a week after an American family asked for temporary asylum because they felt traditional values were on the decline in the US. One thing distinct about this residency is that learning Russian is not compulsory. In most of the previous situations, this was a requirement for those of this sort who wanted to move to Russia. In 2023, Russia had planned to open a “ migrant village” outside of Moscow for conservative expat families.
 
