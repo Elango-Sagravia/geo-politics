@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '10'
-coverImage: '/images/b10a-kwOT.webp'
+coverImage: '/images/10th-aug--israel-on-high-alert--japan-braces-for-aftershocks-k5ND.jpg'
 description: ''
 slug: 'israel-on-high-alert'
 author:
@@ -24,7 +24,7 @@ Bangladesh’s Prime Minister, Sheikh Hasina's sudden resignation has thrown the
 
 ### Japan Braces for Aftershocks After 7.1 Earthquake
 
-![](/images/b10a-AyOT.webp)
+![](/images/10th-aug--israel-on-high-alert--japan-braces-for-aftershocks-Y1Nj.jpg)
 
 Japan’s earthquake scientists have issued a megaquake advisory following a 7.1 magnitude earthquake that injured eight people. This advisory, the first under a new system implemented after the devastating 2011 quake, warns of the increased likelihood of another major seismic event. As the nation remains on high alert, there is speculation that Prime Minister Fumio Kishida may cancel his planned trip to Central Asia in response to the potential threat, underscoring the seriousness of the situation.
 
@@ -34,7 +34,7 @@ Bangladesh Army Chief General Waker-Uz-Zaman has announced the formation of an i
 
 ### Turkey Unveils ‘Steel Dome’ Air Defense System
 
-![](/images/b10b-g1MD.webp)
+![](/images/b10b-k4NT.jpg)
 
 Turkey has unveiled its ‘Steel Dome,’ a $2.5 billion advanced air defense system enhanced by AI, designed to protect Turkish airspace comprehensively. Notably, this system excludes the Russian S-400 missile system, reflecting Turkey’s delicate geopolitical balancing act between its NATO allies and Russia. The Steel Dome represents a significant leap forward in Turkey’s defense technology, marking the nation’s intent to secure its borders independently amid growing regional threats.
 
