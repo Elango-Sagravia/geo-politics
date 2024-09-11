@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b32a-E0MD.webp'
+coverImage: '/images/14th-aug--thai-pm-ousted--tropical-storm-ernesto-hits-puerto-rico-k3Mz.jpg'
 description: ''
 slug: 'thai-pm-ousted'
 author:
@@ -20,7 +20,7 @@ Thailand's Prime Minister Srettha Thavisin was removed from office by the Consti
 
 ### Tropical Storm Ernesto Batters Puerto Rico, Hundreds of Thousands Without Power
 
-![](/images/b32a-QwMD.jpg)
+![](/images/14th-aug--thai-pm-ousted--tropical-storm-ernesto-hits-puerto-rico-Y3OT.jpg)
 
 Tropical Storm Ernesto has unleashed torrential rains on Puerto Rico, plunging over 300,000 residents into darkness as it threatens to escalate into a major hurricane. The storm, with winds reaching 70 mph, has caused widespread flooding, downed trees, and torn roofs across the U.S. territory. Schools and government offices remain closed, with a tropical storm warning in effect for Puerto Rico, the U.S. Virgin Islands, and surrounding areas. Ernesto is expected to intensify into a Category 3 hurricane heading toward Bermuda, posing risks of dangerous rip currents along the U.S. East Coast.
 
