@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b23a-UyMj.webp'
+coverImage: '/images/1st-aug--venezuela-election-crisis--global-responses-unfold-gyMD.jpg'
 description: ''
 slug: 'venezuela-election-crisis'
 author:
@@ -26,7 +26,7 @@ In contrast, left-leaning governments in Brazil, Colombia, and Mexico have adopt
 
 ### Protests, Violence, and Opposition Resistance
 
-![Venezuela protest](/images/b23a-Q1ND.webp)
+![](/images/1st-aug--venezuela-election-crisis--global-responses-unfold-Q3MD.jpg)
 
 Maduro’s contested victory has ignited widespread protests across Venezuela, leading to violent clashes between demonstrators and security forces. The unrest has resulted in numerous deaths and arrests, further escalating tensions. Opposition leader María Corina Machado, a prominent supporter of González, has been forced into hiding due to threats of arrest. Despite the crackdown, she continues to demand the full disclosure of vote details and an end to the government's violent repression of peaceful protests.
 
