@@ -2,7 +2,7 @@
 cutOff: '3'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/22nd-aug_-us-s.korea-unity--ukraine-s-moscow-church-ban--china-russia-talks-a-QyND.webp'
+coverImage: '/images/22nd-aug--us-s.korea-unity--ukraine-s-moscow-church-ban--china-russia-talks--M5Nz.jpg'
 description: ''
 slug: 'us-s-korea-unity'
 author:
@@ -27,7 +27,7 @@ The US has accused Iran of hacking and interfering with its elections. The US in
 
 ### Azerbaijan launches bid to join Brics
 
-![](/images/22nd-aug_-us-s.korea-unity--ukraine-s-moscow-church-ban--china-russia-talks-a-Y4NT.webp)
+![](/images/22nd-aug--us-s.korea-unity--ukraine-s-moscow-church-ban--china-russia-talks--kyNz.jpg)
 
 Following Putin’s visit to Azerbaijan, Azerbaijan launched its bid to join BRICS. Azerbaijan's foreign minister's spokesperson stated it will seek membership for this Bloc. The BRICS block is a group of emerging economies. Its primary goal is to form partnerships with these countries, to encourage multilateralism, and to offset the US and European hegemony. It was founded in 2009, starting with Russia, China, India and Brazil. The partnership expanded to include Iran, Egypt, South Africa, Ethiopia, and the UAE. Azerbaijan is an oil-rich country that has experienced an economic boom. Despite many criticisms of its government and treatment towards Armenia, it enjoys a close relationship with Europe, Russia, and much of the Middle East.
 
