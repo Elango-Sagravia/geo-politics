@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '10'
-coverImage: '/images/b38a-g2Nj.webp'
+coverImage: '/images/13th-aug--houthis-seize-un-office--ukraine-faces-stiff-resistance-in-kursk--1--UzOD.jpg'
 description: ''
 slug: 'houthis-seize-un-office'
 author:
@@ -19,7 +19,7 @@ Yemen's Houthi rebels have stormed the United Nations Human Rights Office in San
 
 ### Philippines Protests Chinese Jets’ Maneuvers Over South China Sea Shoal
 
-![](/images/b38a-kzOD.webp)
+![](/images/13th-aug--houthis-seize-un-office--ukraine-faces-stiff-resistance-in-kursk--1--E2MT.jpg)
 
 The Philippines has lodged a diplomatic protest against China after Chinese jets flew dangerously close to a Philippine Air Force patrol plane and fired flares near Scarborough Shoal in the South China Sea. The encounter, the first of its kind since last year's hostilities, was condemned by Philippine military chief Gen. Romeo Brawner Jr., who warned it could have led to a disaster. President Ferdinand Marcos Jr. called the actions "unjustified, illegal, and reckless." Despite Chinese warnings, the Philippines vowed to intensify its airspace monitoring, underscoring the ongoing tension in the region.
 
