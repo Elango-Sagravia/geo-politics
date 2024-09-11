@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b13b-M1Nj.webp'
+coverImage: '/images/b13a-E1Mj.jpg'
 description: ''
 slug: 'bangladeshs-chief-justice-resigns'
 author:
@@ -20,13 +20,13 @@ In a dramatic turn of events, Chief Justice Obaidul Hassan of Bangladesh has agr
 
 ### Russia Begins Nuclear Fuel Production for India
 
-![Nuclear Fuel Production](/images/b13a-MxOD.webp)
+![](/images/b13a-IzMj.jpg)
 
 Russia’s Rosatom has officially started producing nuclear fuel for India’s Kudankulam Nuclear Power Plant Units 3 and 4. This step is part of a long-term agreement designed to support the operational life of these reactors, which are crucial to India’s energy strategy. The Kudankulam facility, featuring VVER-1000 reactors, will play a significant role in increasing India’s nuclear energy capacity and securing its power supply, marking a pivotal advancement in India-Russia energy collaboration.
 
 ### US Intelligence Foils IS Plot at Taylor Swift Concert
 
-![Taylor Swift concert](/images/b13b-IzOD.webp)
+![](/images/b13b-A5MT.jpg)
 
 US intelligence played a crucial role in helping Austrian authorities thwart a planned Islamic State attack on a Taylor Swift concert in Vienna. National Security Council spokesperson John Kirby confirmed that American intelligence was instrumental in preventing the suicide bombing plot. Three suspects have been arrested in connection with the plot, highlighting the effectiveness of international cooperation in counter-terrorism and underscoring the persistent threat of extremist violence.
 
