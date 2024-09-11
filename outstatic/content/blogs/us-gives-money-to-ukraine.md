@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/24th-aug_-us-gives-money-to-ukraine--china-and-vietnam-meet-a-E1Nz.webp'
+coverImage: '/images/24th-aug--us-gives-money-to-ukraine--china-and-vietnam-meet-g1Nj.jpg'
 description: ''
 slug: 'us-gives-money-to-ukraine'
 author:
@@ -20,7 +20,7 @@ US officials have said the Biden administration plans to send Ukraine 125 millio
 
 ### China and Vietnam strengthened ties this week
 
-![](/images/24th-aug_-us-gives-money-to-ukraine--china-and-vietnam-meet-a-k5Mj.webp)
+![](/images/24th-aug--us-gives-money-to-ukraine--china-and-vietnam-meet-cyMz.jpg)
 
 Newly elected Vietnamese president Lam has made China the first international visit. He visited China this week for several days. President Lam has said he will make China a top priority in Vietnam’s foreign policy. China and Vietnam share a long history. Both have remained idealogy as allies, although they have had a few bumps regarding the South China Sea. Xi and Lam said they would work on cross-border railway connectivity, naming three rail projects, including one connecting Vietnam’s northern mountainous region to the port city of Haiphon.
 
