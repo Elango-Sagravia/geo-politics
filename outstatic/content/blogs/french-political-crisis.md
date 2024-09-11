@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-a-g5OT.webp'
+coverImage: '/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-EyOD.jpg'
 description: ''
 slug: 'french-political-crisis'
 author:
@@ -24,13 +24,13 @@ Japan [reprimanded](https://www.bbc.com/news/articles/c4gv4zede8jo) China this w
 
 ### Burkina Faso Jihadist group kills 200
 
-![](/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-a--2--czNj.webp)
+![](/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-c3OT.jpg)
 
 A jihadi armed[ group ](https://www.aljazeera.com/news/2024/8/26/nearly-200-people-dead-whats-behind-armed-attacks-in-burkina-faso)in Burkina Faso killed almost 200 people last weekend in the town of Basrshalogho, which is in the center of the country. It is right by the town of Kaya, which is a central strategic point for the Jihadi group called JNIM. This is where the last government military force stands in the way of  JNIM. JNIM  is one of several armed operating in Burkina Faso whose goal is to establish an Islamic caliphate and expel Western-influenced governments. The country has lost control of half of the country. Burkina Faso is not the only country affected by this group. They have spread to other countries in West Africa.
 
 ### Taliban's new rules on women further complicate International Relations
 
-![](/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-b-AxND.webp)
+![](/images/28th-aug--french-political-crisis--japan-and-china-air-space-drama-b-QzNz.jpg)
 
 The [Taliban ](https://apnews.com/article/taliban-afghanistan-women-vice-virtue-law-8be7e4ebbe8012a1290f6d5292f781e3)released some new laws for women in the last week. The laws forbid women from showing their faces in public. They are also now forbidden to sing or speak in public places. The UN and many human rights groups around the world have criticized this. The leading spokesman for the Taliban warns against “arrogance” from those who he said may not be familiar with Islamic law, despite the many objections from many Muslims. This month also marks three years of the Taliban takeover. It has put a lot of debates in the IR world on whether countries should try to make relations with the Taliban. This issue makes it more difficult, even for the countries that already did.
 
