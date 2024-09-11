@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/b46a-MyND.webp'
+coverImage: '/images/19th-aug--military-drills--political-tensions--and-global-crises-gzNj.jpg'
 description: ''
 slug: 'military-drills'
 author:
@@ -19,7 +19,7 @@ On Monday, the United States and South Korea commenced a large-scale military ex
 
 ### Ex-Saudi Official Accuses Crown Prince of Forging Yemen War Decree
 
-![](/images/b46a-E5ND.webp)
+![](/images/19th-aug--military-drills--political-tensions--and-global-crises-A4Mz.jpg)
 
 In a recent interview with the BBC, former Saudi intelligence official Saad al-Jabri accused Crown Prince Mohammed bin Salman of forging his father's signature on the royal decree that initiated Saudi Arabia's prolonged war in Yemen. Al-Jabri, who is living in exile in Canada, claimed that Prince Mohammed signed the proclamation in place of his father, King Salman, whose mental capacity was allegedly deteriorating at the time. The accusation adds to the controversy surrounding the prince's leadership and the ongoing conflict in Yemen, which has resulted in a devastating humanitarian crisis and significant loss of life. Saudi Arabia has not responded to these allegations.
 
