@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '10'
-coverImage: '/images/b7b-MxMD.webp'
+coverImage: '/images/9th-aug--ukraine-s-cross-border-strike--maduro-suspends-x--kwMz.jpg'
 description: ''
 slug: 'ukraines-cross-border-strike'
 author:
@@ -24,13 +24,13 @@ Venezuelan President Nicolás Maduro has ordered a 10-day suspension of the soci
 
 ### 7.1 Magnitude Earthquake Strikes Southern Japan
 
-![Japan earthquake](/images/b7a-UwND.webp)
+![](/images/b7a-U0ND.jpg)
 
 A powerful 7.1 magnitude earthquake struck off the coast of Miyazaki, Kyushu, Japan, on August 8, 2024, causing significant tremors across the region. The quake's epicentre was located in the Hyuganada Sea, at a depth of 30 kilometres, prompting initial tsunami warnings. Though these warnings were later lifted for most areas, minor injuries and property damage were reported, including a collapsed home in Kagoshima. Regional transportation, including bullet train services, faced brief disruptions, while nuclear plants reported no abnormalities. Despite the severity of the quake, Japan's strict building codes and preparedness measures helped prevent major damage and casualties.
 
 ### Poland Urges Nigeria to Release Detained Students
 
-![](/images/b7b-U2Nz.webp)
+![](/images/9th-aug--ukraine-s-cross-border-strike--maduro-suspends-x--U0NT.jpg)
 
 Poland is urging Nigeria to release seven Polish citizens, including six students and a lecturer from Warsaw University, who were detained in Kano State during protests. The group was reportedly in Nigeria for a study program focused on the Hausa language. Nigerian authorities claim the detainees were seen carrying Russian flags during the protests, a charge that Polish officials dispute. Poland's Deputy Foreign Minister, Jakub Wisniewski, has appealed for their release, attributing the situation to a misunderstanding of local customs and laws. The detainees are currently safe in Abuja, where Poland's consul is set to meet with them to resolve the issue.
 
