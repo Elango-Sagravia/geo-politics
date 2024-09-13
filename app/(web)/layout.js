@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Geo politics world",
-  description: "One of the leading newsletter",
+  description: "Understand the forces shaping the world.",
 };
 
 export default function RootLayout({ children }) {
