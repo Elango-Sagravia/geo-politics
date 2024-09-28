@@ -9,7 +9,7 @@ slug: 'argentina-s-poverty'
 author:
   name: 'Camy'
   picture: ''
-status: 'draft'
+status: 'published'
 title: '28th Sept: Argentina’s Poverty, US Reaffirms Support for Ukraine, Japan’s Naval Shift'
 publishedAt: '2024-09-28T14:00:35.538Z'
 ---
@@ -20,7 +20,7 @@ publishedAt: '2024-09-28T14:00:35.538Z'
 
 Argentina's poverty rate jumped to nearly 53% in the first half of the year, up from 41.7% at the end of 2023. This sharp rise is linked to President Javier Milei's harsh [austerity measures](https://www.theguardian.com/world/article/2024/jun/13/argentina-violence-protests-president-milei-buenos-aires-austerity-economy-measures) to fix the country’s deep fiscal deficit. While investors have welcomed these cuts, they’ve pushed Argentina into a recession, with inflation still very high.
 
-The impact of the austerity measures on ordinary working-class people has been severe, with many struggling to get by. The government has expanded some welfare programs, like the Universal Child Allowance, but has also cut others, making life harder for many Argentines. Javier Milei is a self-described “Anarcho-Capitalist” who has been a controversial figure in Argentina with many different reactions. He has also ruffled feathers with other South American leaders on varying [diplomatic issues](https://www.theguardian.com/world/article/2024/jul/02/javier-milei-argentina-brazil-bolivia). 
+The impact of the austerity measures on ordinary working-class people has been severe, with many struggling to get by. The government has expanded some welfare programs, like the Universal Child Allowance, but has also cut others, making life harder for many Argentines. Javier Milei is a self-described “Anarcho-Capitalist” who has been a controversial figure in Argentina with many different reactions. He has also ruffled feathers with other South American leaders on varying [diplomatic issues](https://www.theguardian.com/world/article/2024/jul/02/javier-milei-argentina-brazil-bolivia).
 
 ### US Leadership Continues to Back Ukraine
 
@@ -30,7 +30,7 @@ Zelensky's [visit](https://www.bbc.com/news/articles/c5y30244467o) to Washington
 
 ### Japanese Ship Sails Through Taiwan Strait for First Time
 
-A Japanese warship, the [JS Sazanami](https://www.bbc.com/news/articles/cm28yd04xxno), sailed through the Taiwan Strait for the first time, accompanied by Australian and New Zealand ships. This passage is significant because Japan usually avoids the strait to avoid angering China, and it was part of military exercises in the South China Sea. 
+A Japanese warship, the [JS Sazanami](https://www.bbc.com/news/articles/cm28yd04xxno), sailed through the Taiwan Strait for the first time, accompanied by Australian and New Zealand ships. This passage is significant because Japan usually avoids the strait to avoid angering China, and it was part of military exercises in the South China Sea.
 
 China, which claims the Taiwan Strait, complained about this. Japan has not given a clear comment or explanation but often cites military discretion and acknowledges growing concerns over China's frequent [airspace violations](https://www.bbc.com/news/articles/cr40dpz1rkwo). The Taiwan Strait is a crucial international shipping route, and more countries like the US, Canada, Australia, and Germany have increased patrols to assert freedom of navigation, challenging China's claims. This marks a shift in Japan’s stance, showing increased naval presence in response to China's maritime actions. Two [German warships](https://apnews.com/article/germany-china-taiwan-strait-warship-0bc53be4d6dc363c5ef21eedfc721206) also sailed through the straits two weeks ago for the first time in twenty years.
 
@@ -44,7 +44,7 @@ Netanyahu [asserted](https://www.npr.org/2024/09/27/nx-s1-5131429/israel-netanya
 
 Armenian Prime Minister Nikol Pashinyan told the UN General Assembly that peace with Azerbaijan is [closer in reach](https://www.france24.com/en/asia-pacific/20240927-peace-with-azerbaijan-within-reach-says-armenian-pm) following decades of conflict, including last year's Azerbaijani military victory in Nagorno-Karabakh. He urged immediate action, emphasizing reconciliation and committing to Azerbaijan’s key demand of securing transportation links across Armenian territory to Azerbaijan's exclave, Nakhchivan, connecting it to Turkey.
 
-Pashinyan acknowledged lingering issues, including objections to Armenia's constitution mentioning Nagorno-Karabakh, but downplayed them, insisting a peace agreement would resolve concerns. While 80% of the treaty is reportedly ready, Azerbaijan wants all matters settled first. Pashinyan pressed for swift action, stressing that diplomatic ties would aid in solving the remaining challenges. This week, [Pashyian met with Turkish President](https://armenpress.am/en/article/1200664) Recep Erdogan in New York. Turkey is a brother country to Azerbaijan geopolitically, and Turkey is another country with which Armenia has disputes. 
+Pashinyan acknowledged lingering issues, including objections to Armenia's constitution mentioning Nagorno-Karabakh, but downplayed them, insisting a peace agreement would resolve concerns. While 80% of the treaty is reportedly ready, Azerbaijan wants all matters settled first. Pashinyan pressed for swift action, stressing that diplomatic ties would aid in solving the remaining challenges. This week, [Pashyian met with Turkish President](https://armenpress.am/en/article/1200664) Recep Erdogan in New York. Turkey is a brother country to Azerbaijan geopolitically, and Turkey is another country with which Armenia has disputes.
 
 ### FOUNDATIONS
 
