@@ -1,5 +1,5 @@
 ---
-cutOff: '3'
+cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -50,12 +50,12 @@ Iran frequently claims to arrest individuals linked to foreign espionage, partic
 
 ### FOUNDATIONS
 
-**What is ECOWAS?** 
+**What is ECOWAS?**
 
 ![](/images/what-is-ecowas--M5Nz.webp)
 
-The [Economic Community of West African States (ECOWAS)](https://www.ecowas.int/about-ecowas/) is a regional political and economic union of 15 West African countries, established in 1975 in Lagos, Nigeria. Its primary aim is to promote economic integration and cooperation among member states, enhancing trade and investment to foster sustainable development. 
+The [Economic Community of West African States (ECOWAS)](https://www.ecowas.int/about-ecowas/) is a regional political and economic union of 15 West African countries, established in 1975 in Lagos, Nigeria. Its primary aim is to promote economic integration and cooperation among member states, enhancing trade and investment to foster sustainable development.
 
 ECOWAS also focuses on peace and security, intervening in regional conflicts and political crises. The organization has played a crucial role in mediation and peacekeeping missions, particularly in Liberia and Sierra Leone. ECOWAS has implemented initiatives like the ECOWAS Common External Tariff and the ECOWAS Single Currency project to strengthen economic ties. Additionally, it addresses issues such as human rights, environmental challenges, and public health, striving for a stable and prosperous West Africa.
 
-There has been some strain among the group lately, as several members announced this year that they would leave to form their Sahel Alliance. The group also faces a series of challenges, ranging from violent extremism to political instability and deadly viruses.  
+There has been some strain among the group lately, as several members announced this year that they would leave to form their Sahel Alliance. The group also faces a series of challenges, ranging from violent extremism to political instability and deadly viruses.
