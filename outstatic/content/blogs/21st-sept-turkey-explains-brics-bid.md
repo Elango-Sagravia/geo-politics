@@ -44,7 +44,7 @@ Authorities argued that the slogan called for Hong Kong’s separation from Chin
 
 ### Japan Demands Answers Over Stabbing in China
 
-Japan’s Prime Minister is demanding answers from China following the stabbing of a 10-year-old Japanese student at a school in Shenzhen, marking the [second incident](https://edition.cnn.com/2024/06/25/china/japanese-mother-child-stabbed-china-bus-stop-intl-hnk/index.html) involving a Japanese child in China since June. The Chinese Foreign Ministry condemned the attack but described it as an isolated event, asserting it wouldn't affect Chinese-Japanese relations. 
+Japan’s Prime Minister is demanding answers from China following the stabbing of a 10-year-old Japanese student at a school in Shenzhen, marking the [second incident](https://edition.cnn.com/2024/06/25/china/japanese-mother-child-stabbed-china-bus-stop-intl-hnk/index.html) involving a Japanese child in China since June. The Chinese Foreign Ministry condemned the attack but described it as an isolated event, asserting it wouldn't affect Chinese-Japanese relations.
 
 However, anti-Japanese sentiment remains prevalent in China, fueled by historical grievances from World War II, with some critics accusing state media of exacerbating tensions. Chinese nationalists claim the stabbing was staged and question the existence of Japanese schools in China. Aside from the historical tension, Japan and China often find themselves at geopolitical odds, with Japan more aligned with Western influences.
 
