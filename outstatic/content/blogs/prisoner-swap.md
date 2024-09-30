@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/26th-aug--prisoner-swap--south-pacific-drama--israel-hezbollah-conflict-ExMz.jpg'
