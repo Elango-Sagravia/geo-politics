@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/19th-aug--military-drills--political-tensions--and-global-crises-gzNj.jpg'
