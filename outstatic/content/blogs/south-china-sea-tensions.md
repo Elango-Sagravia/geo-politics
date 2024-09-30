@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '7'
 coverImage: '/images/20th-aug--south-china-sea-tensions--bangladesh-crisis--and-ceasefire-hopes--E0MT.jpg'
