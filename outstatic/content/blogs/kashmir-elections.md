@@ -1,5 +1,5 @@
 ---
-cutOff: '3'
+cutOff: '9'
 latest: 'true'
 relatedArticles: 'meta-bans-russian-state-media'
 readTime: '5'
@@ -24,7 +24,7 @@ Kashmir is a contested region, with India governing 55%, Pakistan controlling 30
 
 Voter turnout for Wednesday’s election was relatively high at 59%. The key focus of this election is how pro-independence parties will perform, as their success could lead to renewed discussions on autonomy and potential changes in the region's governance.
 
-### Georgia Passes Anti-LGBT Legislation 
+### Georgia Passes Anti-LGBT Legislation
 
 The Georgian parliament has passed new [anti-LGBT laws](https://www.rferl.org/a/georgia-lgbt-law-rights-parliament/33123479.html) that impose restrictions on LGBT rights, including the ability to ban cultural events like pride marches. The legislation was passed with an 84-0 vote, as opposition parties have been boycotting parliament since May. The move has sparked concerns about the shrinking space for LGBT rights in Georgia.
 
@@ -36,7 +36,7 @@ Hungary faces a potential €200 million deduction from its EU funds after missi
 
 Hungary has been one of the most vocal critics of the EU’s asylum and migration policies. In response to the EU’s actions, Hungarian Prime Minister Viktor Orbán has suggested sending buses of migrants from Budapest to Brussels, signaling growing [tensions](https://www.euronews.com/my-europe/2024/09/09/belgium-strongly-rejects-hungarys-provocation-to-bus-migrants-to-brussels) between Hungary and the EU. Orbán has also demanded €2 billion from the EU for border protection, claiming that Hungary has borne the brunt of the migrant crisis since 2015.
 
-### Lebanon Faces More Explosions 
+### Lebanon Faces More Explosions
 
 On Wednesday, a [series of explosions](https://edition.cnn.com/world/live-news/lebanon-pagers-explode-hezbollah-israel-09-18-24-intl-hnk/index.html) rocked Lebanon, killing 20 people and injuring hundreds. These attacks come shortly after Hezbollah authorities and Lebanese officials warned of retaliation against Israel for an explosion earlier this week [(see previous write-up)](https://www.geopolitics.world/archives/meta-bans-russian-state-media). Israel’s defense minister has warned of a new era of warfare, escalating fears of a broader regional conflict.
 
