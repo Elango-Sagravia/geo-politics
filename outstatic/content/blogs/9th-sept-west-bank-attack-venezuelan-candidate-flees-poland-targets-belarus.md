@@ -1,5 +1,5 @@
 ---
-cutOff: '3'
+cutOff: '8'
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/shooting-at-the-west-bank-and-jordanian-border-3-israeli-border-guards-were-shot-1-IzNz.webp'
@@ -15,7 +15,7 @@ publishedAt: '2024-09-09T10:42:44.459Z'
 
 ### Shooting Along the West Bank Border
 
-A gunman has killed 3 Israelis on the West Bank-Jordanian border. [The shooter](https://apnews.com/article/israel-palestinians-hamas-war-news-09-08-2024-5278cf1f7ec254fb6ecca0f2758e7e3a), a 39-year-old Jordanian national, approached the Allenby Bridge Crossing in a truck and opened fire at Israeli security forces. He was shot dead in the shootout. The three deaths were civilian men in their 50s, according to Israel’s rescue service. 
+A gunman has killed 3 Israelis on the West Bank-Jordanian border. [The shooter](https://apnews.com/article/israel-palestinians-hamas-war-news-09-08-2024-5278cf1f7ec254fb6ecca0f2758e7e3a), a 39-year-old Jordanian national, approached the Allenby Bridge Crossing in a truck and opened fire at Israeli security forces. He was shot dead in the shootout. The three deaths were civilian men in their 50s, according to Israel’s rescue service.
 
 ![Israeli security forces](/images/shooting-at-the-west-bank-and-jordanian-border-3-israeli-border-guards-were-shot-1-k0NT.webp)
 
