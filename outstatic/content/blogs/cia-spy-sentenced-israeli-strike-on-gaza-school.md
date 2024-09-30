@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -20,9 +20,9 @@ publishedAt: '2024-09-13T11:14:36.441Z'
 
 Alexander Yuk Ching Ma was sentenced to 10 years in prison for spying for China. Ma, who had worked for the CIA from 1982 to 1989, was found guilty of conspiring to deliver [classified information](https://www.bbc.com/news/articles/cevjrvkm28go) to Chinese intelligence officers. He was offered a plea deal to get out of a lifelong sentence. Ma is a native of Hong Kong and has become a naturalized US citizen.
 
-Alexander didn’t start his activities until after his time in the CIA. This started in 2001 when he and his brother, also a former CIA officer, met with Chinese agents in Hong Kong, providing them with sensitive defense information in exchange for cash. He received a lot of lavish gifts and trips to China for his work. He was discovered when the FBI hired him as a ruse as a contract linguist. However, it took until 2020 for him to get arrested. 
+Alexander didn’t start his activities until after his time in the CIA. This started in 2001 when he and his brother, also a former CIA officer, met with Chinese agents in Hong Kong, providing them with sensitive defense information in exchange for cash. He received a lot of lavish gifts and trips to China for his work. He was discovered when the FBI hired him as a ruse as a contract linguist. However, it took until 2020 for him to get arrested.
 
-The more significant issue in this is that there have been a few other cases of US intelligence officers linked to [Chinese Intelligence Agencies](https://www.politico.com/story/2018/02/05/china-cia-spy-congress-387133). There was a high-profile case 6 years ago that brought some scrutiny to the CIA and FBI for not being able to stop it in time. 
+The more significant issue in this is that there have been a few other cases of US intelligence officers linked to [Chinese Intelligence Agencies](https://www.politico.com/story/2018/02/05/china-cia-spy-congress-387133). There was a high-profile case 6 years ago that brought some scrutiny to the CIA and FBI for not being able to stop it in time.
 
 ### Israeli Forces Bomb Gaza School, Killing 18
 
