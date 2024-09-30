@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -26,7 +26,7 @@ The Iranian diaspora remains divided. Many oppose the current Iranian regime but
 
 ![Czech President Petr Pavel said Ukraine might need to accept temporary Russian occupation](/images/the-czech-president-believes-russia-will-still-control-ukraine-whenever-the-war-ends-YwNj.webp)
 
-Czech President Petr Pavel [stated](https://www.politico.eu/article/ukraine-czech-republic-russia-vladimir-putin-petr-pavel/) that Kyiv must accept that part of Ukraine may temporarily remain under Russian occupation, even if the war ends. In an interview, he mentioned that this occupation could last for years. Pavel emphasized that neither Ukraine nor Russia can achieve their ideological goals, believing that a definitive defeat for either side is unlikely. 
+Czech President Petr Pavel [stated](https://www.politico.eu/article/ukraine-czech-republic-russia-vladimir-putin-petr-pavel/) that Kyiv must accept that part of Ukraine may temporarily remain under Russian occupation, even if the war ends. In an interview, he mentioned that this occupation could last for years. Pavel emphasized that neither Ukraine nor Russia can achieve their ideological goals, believing that a definitive defeat for either side is unlikely.
 
 As the United Nations General Assembly convenes, Ukraine remains a crucial topic. Pavel has previously stated that any peace deal will likely be unfair. The Czech Republic is one of Ukraine’s most prominent supporters in the European Union. However, some regional elections saw [gains](https://www.euronews.com/my-europe/2024/09/22/main-opposition-party-dominates-regional-elections-in-the-czech-republic) from a right-wing populist party, which could signal Czech frustration with the government’s unconditional support.
 
@@ -34,11 +34,11 @@ As the United Nations General Assembly convenes, Ukraine remains a crucial topic
 
 Swedish authorities recently accused Iran of [orchestrating](https://www.euronews.com/2024/09/24/sweden-says-iran-was-behind-thousands-of-text-messages-inciting-protests-over-quran-burnin) a cyberattack that bombarded the country with thousands of text messages demanding revenge for the Quran burnings in 2023. Officials claim Iran's paramilitary Revolutionary Guard hacked into an SMS service to send approximately 15,000 messages in Swedish related to the public burnings that occurred that summer. Senior prosecutor Mats Ljungqvist stated that preliminary investigations connected the Iranian state and its Revolutionary Guard Corps (IRGC) to this breach.
 
-While Iran's official foreign policy promotes non-intervention, it opposes Western interference, primarily regarding the  Middle East rather than domestic affairs. Recently, though, the US has also accused Iran of relaying confidential information about some of Trump’s strategies to the Biden campaign. 
+While Iran's official foreign policy promotes non-intervention, it opposes Western interference, primarily regarding the Middle East rather than domestic affairs. Recently, though, the US has also accused Iran of relaying confidential information about some of Trump’s strategies to the Biden campaign.
 
 ### Egypt Gives Somalia Weapons with Rising Tensions with Ethiopia
 
-An Egyptian ship [delivered](https://www.bbc.com/news/articles/cglk038p1d3o) a significant shipment of military equipment to Somalia. Somali Defence Minister Abdulkadir Mohamed Nu thanked Egypt on social media but did not specify the types of weapons. This is Egypt's second delivery in a month amid deteriorating relations between Somalia and Ethiopia. Ethiopia expressed concerns about the arms potentially empowering militants, while Somaliland warned of an arms race in the fragile environment. 
+An Egyptian ship [delivered](https://www.bbc.com/news/articles/cglk038p1d3o) a significant shipment of military equipment to Somalia. Somali Defence Minister Abdulkadir Mohamed Nu thanked Egypt on social media but did not specify the types of weapons. This is Egypt's second delivery in a month amid deteriorating relations between Somalia and Ethiopia. Ethiopia expressed concerns about the arms potentially empowering militants, while Somaliland warned of an arms race in the fragile environment.
 
 Ethiopian and Somali relations have been complex and often strained. Ethiopia and Somalia also have a long-standing rivalry, particularly over water rights. Military cooperation between Egypt and Somalia, including arms deliveries, has worsened these tensions, leading to regional stability and potential conflict concerns.
 
@@ -46,7 +46,7 @@ Ethiopian and Somali relations have been complex and often strained. Ethiopia an
 
 The ongoing war between Sinaloa Cartel factions has [spread](https://english.elpais.com/international/2024-09-24/cartel-war-in-sinaloa-spreads-fear-to-other-states-in-mexico-you-see-fewer-people-on-the-streets-and-businesses-close-early.html) violence across northern Mexico, affecting states like Sonora, Baja California, Chihuahua, and Durango. Over 60 deaths have been reported, causing widespread panic, business closures, and school disruptions.
 
- A lawyer’s death during an army operation has further eroded community trust. Citizens are deeply concerned about their safety and livelihoods. Mexican President López Obrador blamed U.S. operations for contributing to the violence, which intensified after the arrest of two cartel leaders in the U.S. last July. The US ambassador has rejected the accusation. The violence shows no signs of slowing, leaving the region in turmoil.
+A lawyer’s death during an army operation has further eroded community trust. Citizens are deeply concerned about their safety and livelihoods. Mexican President López Obrador blamed U.S. operations for contributing to the violence, which intensified after the arrest of two cartel leaders in the U.S. last July. The US ambassador has rejected the accusation. The violence shows no signs of slowing, leaving the region in turmoil.
 
 ### FOUNDATIONS
 
