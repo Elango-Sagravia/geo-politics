@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -50,7 +50,7 @@ Mali, Burkina Faso, and Niger, all now governed by military juntas, plan to intr
 
 ### FOUNDATIONS
 
-**What is the European Commission?** 
+**What is the European Commission?**
 
 ![European Commission](/images/what-does-the-eu-commission-do--IyOD.webp)
 
