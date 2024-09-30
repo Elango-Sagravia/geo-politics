@@ -1,5 +1,5 @@
 ---
-cutOff: '9'
+cutOff: '8'
 latest: 'true'
 relatedArticles: 'oceans-acidifying'
 readTime: '6'
