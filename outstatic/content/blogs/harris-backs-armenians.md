@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -26,7 +26,7 @@ The U.S. maintains a strategic relationship with Azerbaijan, which is primarily 
 
 French President Emmanuel Macron has called for reforming the UN Security Council by limiting the veto power of permanent members. Speaking at the UN General Assembly, Macron argued that vetoes should not be used in situations of mass atrocities, taking a direct jab at Russia, which has frequently blocked resolutions regarding Ukraine. This is a significant move, given that France itself holds veto power as one of the [five permanent members (P5)](https://main.un.org/securitycouncil/en/content/current-members#:~:text=PERMANENT%20AND%20NON%2DPERMANENT%20MEMBERS&text=Five%20permanent%20members%3A%20China%2C%20France,Ecuador%20\(2024\)).
 
-This proposal comes at a time when global leaders are pushing for a more representative and effective UN. In his speech, Macron addressed a range of [pressing global issues](https://www.france24.com/en/france/20240925-ukraine-lebanon-gaza-and-limiting-un-veto-power-takeaways-from-macron-s-speech-at-the-un). He condemned Russia's invasion of Ukraine, highlighted the ongoing humanitarian crisis in Gaza, and urged international efforts to stabilize Lebanon. 
+This proposal comes at a time when global leaders are pushing for a more representative and effective UN. In his speech, Macron addressed a range of [pressing global issues](https://www.france24.com/en/france/20240925-ukraine-lebanon-gaza-and-limiting-un-veto-power-takeaways-from-macron-s-speech-at-the-un). He condemned Russia's invasion of Ukraine, highlighted the ongoing humanitarian crisis in Gaza, and urged international efforts to stabilize Lebanon.
 
 ### Putin Revises Russia's Nuclear Doctrine
 
@@ -46,7 +46,7 @@ These [tensions](https://www.cfr.org/article/sunni-shia-divide) reflect the broa
 
 Spain has officially announced it will boycott the inauguration of Mexico's new president, Claudia Sheinbaum, after a [diplomatic incident](https://www.exteriores.gob.es/en/Comunicacion/Comunicados/Paginas/2024_COMUNICADOS/20240924_COMU055.aspx) involving Spain’s King Felipe VI. The snub occurred when Sheinbaum failed to formally invite King Felipe VI to her inauguration, a gesture typically extended to heads of state. In response, the Spanish government decided to send no official representatives to the event.
 
-Tensions between Spain and Mexico have been rising in recent years, particularly under outgoing President Andrés Manuel López Obrador, who has been openly critical of Spain’s colonial past. The latest incident could further strain relations, as Mexico's political stance has increasingly shifted towards Latin American alliances, distancing itself from its historical ties with Europe. 
+Tensions between Spain and Mexico have been rising in recent years, particularly under outgoing President Andrés Manuel López Obrador, who has been openly critical of Spain’s colonial past. The latest incident could further strain relations, as Mexico's political stance has increasingly shifted towards Latin American alliances, distancing itself from its historical ties with Europe.
 
 ### FOUNDATIONS
 
@@ -54,7 +54,7 @@ Tensions between Spain and Mexico have been rising in recent years, particularly
 
 ![](/images/what-is-republika-srpska--A3Mz.webp)
 
-Many travelers who visit the Balkans learn that there is a region called [“Republika Srpska”](https://www.dw.com/en/what-is-republika-srpska/a-64373205) in Bosnia and Herzegovina, and they think they have returned to Serbia. Serbia is “Republic of Serbia”—it is its own country. “Republika Srpska” is not. 
+Many travelers who visit the Balkans learn that there is a region called [“Republika Srpska”](https://www.dw.com/en/what-is-republika-srpska/a-64373205) in Bosnia and Herzegovina, and they think they have returned to Serbia. Serbia is “Republic of Serbia”—it is its own country. “Republika Srpska” is not.
 
 Republika Srpska is one of the two autonomous entities that make up Bosnia and Herzegovina, the other being the [Federation of Bosnia and Herzegovina](https://www.britannica.com/place/Federation-of-Bosnia-and-Herzegovina). Established in 1992 during the Bosnian War, Republika Srpska is primarily inhabited by ethnic Serbs. Its capital is Banja Luka, which covers approximately 49% of Bosnia and Herzegovina’s territory.
 
