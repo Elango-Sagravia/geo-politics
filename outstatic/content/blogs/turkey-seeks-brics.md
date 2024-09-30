@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '11'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -30,7 +30,7 @@ Critics argue that this could be part of China's strategy to increase its influe
 
 ![](/images/germans-shoot-suspect-near-israeli-consulate-a-QyMD.webp)
 
- In Munich, German police have shot and killed a suspect near the Israeli embassy. The individual, identified as an 18-year-old Austrian national, was allegedly [carrying a gun](https://www.dw.com/en/munich-shooting-at-israeli-consulate-police-suspect-terror/a-70138738) and fired at the police before being fatally wounded. The incident has raised concerns due to the heightened security around Israeli embassies following recent tensions.
+In Munich, German police have shot and killed a suspect near the Israeli embassy. The individual, identified as an 18-year-old Austrian national, was allegedly [carrying a gun](https://www.dw.com/en/munich-shooting-at-israeli-consulate-police-suspect-terror/a-70138738) and fired at the police before being fatally wounded. The incident has raised concerns due to the heightened security around Israeli embassies following recent tensions.
 
 Attacks or disturbances near Israeli embassies have been reported worldwide, including incidents in Belgrade and the United States. The current geopolitical climate has contributed to increased risks for Israeli diplomatic missions.
 
