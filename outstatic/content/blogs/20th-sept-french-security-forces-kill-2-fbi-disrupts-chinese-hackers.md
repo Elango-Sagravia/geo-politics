@@ -1,5 +1,5 @@
 ---
-cutOff: '7'
+cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -14,7 +14,7 @@ title: '20th Sept: French Security Forces Kill 2, FBI Disrupts Chinese Hackers'
 publishedAt: '2024-09-20T11:07:39.815Z'
 ---
 
-### French Security Forces Kill 2 in New Caledonia 
+### French Security Forces Kill 2 in New Caledonia
 
 On Wednesday night, French security forces conducted an overnight operation in New Caledonia, resulting in the deaths of two allegedly armed individuals. This brings the death toll to 13 since the [civil unrest](https://www.dw.com/en/new-caledonia-france-declares-state-of-emergency-amid-riots/a-69082104) began in mid-May. The unrest was sparked by a voting reform proposal from Paris, which many Indigenous Kanak people believe would permanently marginalize them, leaving little hope for future independence.
 
@@ -28,15 +28,15 @@ Over the years, New Caledonia has held several [referendums](https://www.dw.com/
 
 The FBI has revealed that it stopped a Chinese hacking group, [Flax Typhoon](https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/), in its tracks. The hackers, run by the Chinese Integrity Technology group, targeted critical infrastructure in the United States. The FBI previously uncovered other Chinese hacking groups, believes many are state-sponsored, and has warned other countries of this.
 
-Chinese authorities denounce all claims that they sponsor groups of hackers and maintain that these hacking rings are independent of the government. The US isn’t alone in accusing China of state-sponsored hacking. A prominent Belgian MEP, Guy Verhofstadt, who is notoriously critical of China, was a victim of [Chinese hacking](https://www.politico.eu/article/ex-belgian-pm-guy-verhofstadt-was-a-victim-of-chinese-hacking/) a few months ago, and the hack was believed to be state-sponsored.  
+Chinese authorities denounce all claims that they sponsor groups of hackers and maintain that these hacking rings are independent of the government. The US isn’t alone in accusing China of state-sponsored hacking. A prominent Belgian MEP, Guy Verhofstadt, who is notoriously critical of China, was a victim of [Chinese hacking](https://www.politico.eu/article/ex-belgian-pm-guy-verhofstadt-was-a-victim-of-chinese-hacking/) a few months ago, and the hack was believed to be state-sponsored.
 
 ### The Netherlands Wants to Opt Out of EU Migration and Asylum Policy
 
-The Dutch government has requested to opt out of the European Union's Asylum and Migration policy if a treaty allows it. This will take a while as EU treaties require unanimity from all 27 members. The EU Commission said on Wednesday that there wouldn’t be a significant change soon in granting this request. 
+The Dutch government has requested to opt out of the European Union's Asylum and Migration policy if a treaty allows it. This will take a while as EU treaties require unanimity from all 27 members. The EU Commission said on Wednesday that there wouldn’t be a significant change soon in granting this request.
 
-The Netherlands is a founding EU member state, but its connection to European unity goes deeper than that. The Netherlands was part of the [Benelux](https://www.benelux.int/en/information-for-citizens/benelux-union/about-us/) agreement with Belgium and Luxembourg, which was one of the prototypes of the European Union. However, last year, the Dutch elected a [far-right](https://www.politico.eu/article/geert-wilders-dutch-society-far-right-voters-migration-refugees-housing-crisis-freedom-party/) government whose main priority is restricting migration and wants to implement a [stricter program](https://www.politico.eu/article/dutch-government-announces-strictest-asylum-policy-ever/). 
+The Netherlands is a founding EU member state, but its connection to European unity goes deeper than that. The Netherlands was part of the [Benelux](https://www.benelux.int/en/information-for-citizens/benelux-union/about-us/) agreement with Belgium and Luxembourg, which was one of the prototypes of the European Union. However, last year, the Dutch elected a [far-right](https://www.politico.eu/article/geert-wilders-dutch-society-far-right-voters-migration-refugees-housing-crisis-freedom-party/) government whose main priority is restricting migration and wants to implement a [stricter program](https://www.politico.eu/article/dutch-government-announces-strictest-asylum-policy-ever/).
 
-### Colombian Government Cancels Peace Negotiations 
+### Colombian Government Cancels Peace Negotiations
 
 The Colombian government is calling off talks with the [National Liberation Army (ELN)](https://www.dni.gov/nctc/ftos/eln_fto.html), a Colombian rebel group, for the foreseeable future. The Colombian president called off the talks due to a [recent incident](https://thedefensepost.com/2024/09/18/colombia-military-base-bombing/) where some of the members of the ELN attacked a military base, which resulted in two deaths. President Gusvo Petro said this attack practically closed the peace talks.
 
@@ -44,7 +44,7 @@ The ELN has been engaged in talks with Colombia’s government since 2022. They 
 
 ### Bolivian Protests See Clashes
 
-Earlier this week, thousands of anti-government demonstrators marching to support Bolivia’s former president [clashed](https://apnews.com/article/bolivia-evo-morales-arce-struggle-protest-violence-police-14888ebce41ed3479801dd054cc285c9) on Tuesday with counterprotesters blocking their path. Evo Morales, the former president of Bolivia, resigned in 2019 in the wake of protests over his re-election. However, a large faction of left-wing Bolivian society, particularly the Indigenous communities, wants him back. 
+Earlier this week, thousands of anti-government demonstrators marching to support Bolivia’s former president [clashed](https://apnews.com/article/bolivia-evo-morales-arce-struggle-protest-violence-police-14888ebce41ed3479801dd054cc285c9) on Tuesday with counterprotesters blocking their path. Evo Morales, the former president of Bolivia, resigned in 2019 in the wake of protests over his re-election. However, a large faction of left-wing Bolivian society, particularly the Indigenous communities, wants him back.
 
 His supporters are pushing for him to be included on the ballot for next year's election despite the current government branding Morales as a threat to democracy. Bolivia, a landlocked nation in the heart of the Andes Mountains, is deeply politically polarized. This political deadlock has even paralyzed the country’s congress, exacerbating an ongoing economic crisis.
 
