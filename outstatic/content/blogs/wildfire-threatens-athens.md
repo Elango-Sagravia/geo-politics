@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '5'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/12th-aug--u.s.-korea-military-drills--wildfire-threatens-athens-AyNj.jpg'
