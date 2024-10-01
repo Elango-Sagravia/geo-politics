@@ -1,5 +1,6 @@
 ---
 cutOff: '8'
+latest: 'true'
 relatedArticles: 'iranian-president-speak'
 readTime: '5'
 coverImage: '/images/estonia--latvia--lithuania-and-poland-want-eu-funds-to-beef-up-border-with-russia-gzMT.webp'
@@ -29,9 +30,9 @@ The request for EU funds highlights the increasing militarization of Eastern Eur
 
 ### Moldova Accuses Russia of Election Interference
 
-Moldova’s government has accused Russia of actively interfering in its upcoming referendum on EU membership and the presidential election, set for October 20. According to Moldovan officials, Russia is using a combination of disinformation, illicit funding, and social media manipulation to sway public opinion. Moldova’s national security adviser claims that Moscow has funneled up to €100 million to opposition parties in a bid to weaken pro-EU [President Maia Sandu](https://x.com/sandumaiamd?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)’s chances of success. 
+Moldova’s government has accused Russia of actively interfering in its upcoming referendum on EU membership and the presidential election, set for October 20. According to Moldovan officials, Russia is using a combination of disinformation, illicit funding, and social media manipulation to sway public opinion. Moldova’s national security adviser claims that Moscow has funneled up to €100 million to opposition parties in a bid to weaken pro-EU [President Maia Sandu](https://x.com/sandumaiamd?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)’s chances of success.
 
-Moldova’s EU candidacy, granted last year, has heightened tensions with Moscow, which continues to back the breakaway region of [Transnistria](https://www.geopolitics.world/archives/iranian-president-speak). Backed by Russia, Transnistria declared independence from Moldova in the early 1990s, leading to an ongoing frozen conflict. This unresolved territorial dispute poses a significant challenge to Moldova’s EU membership aspirations, as the European Union requires all candidate countries to settle any territorial issues before joining. The general public of Moldova is polarized between the EU and Russian spheres of influence. 
+Moldova’s EU candidacy, granted last year, has heightened tensions with Moscow, which continues to back the breakaway region of [Transnistria](https://www.geopolitics.world/archives/iranian-president-speak). Backed by Russia, Transnistria declared independence from Moldova in the early 1990s, leading to an ongoing frozen conflict. This unresolved territorial dispute poses a significant challenge to Moldova’s EU membership aspirations, as the European Union requires all candidate countries to settle any territorial issues before joining. The general public of Moldova is polarized between the EU and Russian spheres of influence.
 
 ### Marine Le Pen on Trial
 
@@ -39,7 +40,7 @@ Marine Le Pen, leader of France’s National Rally, is [on trial](https://www.fr
 
 The trial comes as Le Pen is considered a top contender in the 2027 French presidential race. Despite the allegations, Le Pen remains popular among far-right voters, and her legal troubles may even galvanize her base. Regardless of the trial’s outcome, the far-right in France is unlikely to lose momentum, with other leaders ready to step in if Le Pen is disqualified.
 
-### Japan Set to Get a New PM 
+### Japan Set to Get a New PM
 
 Japan’s ruling party, the Liberal Democratic Party (LDP), has chosen former Defense Minister Shigeru Ishiba as its new leader, positioning him as the next [prime minister](https://apnews.com/article/japan-election-new-prime-minister-ca3ba06b79c79d5dc534a0d259a7272c). Ishiba’s victory comes after defeating Sanae Takaichi, a conservative candidate, in a party election. This leadership change is vital as the LDP controls Japan’s parliament, making the party leader the automatic choice for prime minister.
 
@@ -47,7 +48,7 @@ Ishiba, known for his defense expertise and centrist views, aims to strengthen J
 
 ### FOUNDATIONS
 
-**What is the Montreal Protocol?**  
+**What is the Montreal Protocol?**
 
 ![Montreal Protocol](/images/_-what-is-the-montreal-protocol--kxMj.webp)
 
