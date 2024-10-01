@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '10'
 coverImage: '/images/13th-aug--houthis-seize-un-office--ukraine-faces-stiff-resistance-in-kursk--1--UzOD.jpg'
