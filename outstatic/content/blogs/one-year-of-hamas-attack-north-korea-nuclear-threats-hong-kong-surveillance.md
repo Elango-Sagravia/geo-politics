@@ -1,7 +1,7 @@
 ---
 cutOff: '8'
 latest: 'true'
-relatedArticles: ''
+relatedArticles: 'https://www.geopolitics.world/archives/kazakhstan-s-nuclear-plant-mexican-mayor-killed-karachi-airport-blast'
 readTime: '5'
 coverImage: '/images/1-year-since-the-incident-in-israel-and-it-s-been-a-year-of-war-in-gaza--1--UzNj.webp'
 description: ''
@@ -30,19 +30,19 @@ Kim criticized Yoon’s military posture as indicative of an understanding defic
 
 ### Macron Criticizes Netanyahu
 
-French President Emmanuel Macron has called for a halt to arms deliveries to Israel for use in Gaza, emphasizing the need for a political solution and expressing concern over escalating violence. [This statement](https://www.bbc.com/news/articles/cjr3zd4d8y5o) drew sharp criticism from Israeli Prime Minister Benjamin Netanyahu, who labeled the call for an arms embargo a “disgrace.” He asserted that Israel would prevail regardless of external support. 
+French President Emmanuel Macron has called for a halt to arms deliveries to Israel for use in Gaza, emphasizing the need for a political solution and expressing concern over escalating violence. [This statement](https://www.bbc.com/news/articles/cjr3zd4d8y5o) drew sharp criticism from Israeli Prime Minister Benjamin Netanyahu, who labeled the call for an arms embargo a “disgrace.” He asserted that Israel would prevail regardless of external support.
 
 Macron, while reaffirming France’s commitment to Israel’s security, [criticized](https://www.bbc.com/news/articles/cje3zl0dq2ko) Israel’s military actions in Lebanon. Western leadership, in general, is becoming disenfranchised by Netanyahu. US President [Biden said](https://www.bbc.com/news/articles/cje3zl0dq2ko) he wasn’t sure if Netanyahu is holding off on agreeing to a Gaza ceasefire to influence the election.
 
 ### Hong Kong to Use Chinese Style of Surveillance
 
-Hong Kong is ramping up its surveillance efforts, planning to [install thousands of new cameras](https://edition.cnn.com/2024/10/05/asia/hong-kong-police-cameras-facial-recognition-intl-hnk-dst/index.html), potentially equipped with facial recognition and AI capabilities. While authorities claim these measures are necessary to combat crime, experts warn this could lead to a surveillance state similar to [mainland China](https://edition.cnn.com/2024/03/19/china/hong-kong-second-national-security-law-passed-intl-hnk/index.html), especially given the political climate following the 2019 protests and subsequent national security laws. 
+Hong Kong is ramping up its surveillance efforts, planning to [install thousands of new cameras](https://edition.cnn.com/2024/10/05/asia/hong-kong-police-cameras-facial-recognition-intl-hnk-dst/index.html), potentially equipped with facial recognition and AI capabilities. While authorities claim these measures are necessary to combat crime, experts warn this could lead to a surveillance state similar to [mainland China](https://edition.cnn.com/2024/03/19/china/hong-kong-second-national-security-law-passed-intl-hnk/index.html), especially given the political climate following the 2019 protests and subsequent national security laws.
 
 With increasing concerns about privacy and human rights, critics call for stronger regulations to protect citizens. While Hong Kong’s governance structure differs from Taiwan’s, the similarities in Beijing’s approach to Hong Kong’s autonomy have raised alarms in the international community about the future of democratic freedoms in the region​.
 
 ### Russia Escalates Attacks on Odesa and Kyiv
 
-The Ukrainian military successfully shot down 56 out of at least 87 [drones launched by Russia ](https://www.politico.eu/article/russia-launches-attacks-on-kyiv-and-odesa-ukraine-says/)in a significant drone assault targeting Kyiv and Odesa. The attack resulted in air-raid alerts across much of Ukraine, causing damage to critical infrastructure, including warehouses and cargo trucks in Odesa. In the Kherson region, one civilian was reported dead, and 15 others were injured in the past 24 hours due to ongoing strikes. 
+The Ukrainian military successfully shot down 56 out of at least 87 [drones launched by Russia ](https://www.politico.eu/article/russia-launches-attacks-on-kyiv-and-odesa-ukraine-says/)in a significant drone assault targeting Kyiv and Odesa. The attack resulted in air-raid alerts across much of Ukraine, causing damage to critical infrastructure, including warehouses and cargo trucks in Odesa. In the Kherson region, one civilian was reported dead, and 15 others were injured in the past 24 hours due to ongoing strikes.
 
 This escalation follows the downing of a Russian fighter aircraft in the Donetsk region, signaling a continued intensification of hostilities between the two nations. While recent conflicts in the Middle East have garnered significant attention, the war in Ukraine remains a pressing issue. Ukrainian President Volodymyr Zelenskyy is still awaiting permission to deploy [long-range weapons](https://www.newsweek.com/ukraine-domestic-ballistic-missile-production-russia-volodymyr-zelensky-1963039) promised by Western allies, which could potentially change the dynamics of the ongoing conflict. The situation continues to evolve as both sides brace for further confrontations.
 
