@@ -1,7 +1,7 @@
 ---
 cutOff: '8'
 latest: 'true'
-relatedArticles: 'kazakhstan-s-nuclear-plant-mexican-mayor-killed-karachi-airport-blast'
+relatedArticles: ''
 readTime: '5'
 coverImage: '/images/1-year-since-the-incident-in-israel-and-it-s-been-a-year-of-war-in-gaza--1--UzNj.webp'
 description: ''
