@@ -68,7 +68,6 @@ We use the information we collect to:
 - Improve our Website and newsletter content.
 - Communicate with you about updates, offers, and other information related to our newsletters.
 - Monitor and analyze usage and trends to improve our Website and services.
-- 
 
 **3. Sharing Your Information**
 
