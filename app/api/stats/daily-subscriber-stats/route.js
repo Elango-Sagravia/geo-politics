@@ -1,6 +1,7 @@
 import { query } from "@/lib/db";
 
 export async function GET(request) {
+  const website_id = 3;
   const { searchParams } = new URL(request.url);
   const date = searchParams.get("date") || "2024-10-08"; // Replace with default or provided date
 
@@ -10,7 +11,7 @@ export async function GET(request) {
       `SELECT users.country, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        GROUP BY users.country
        ORDER BY total_subscribers DESC;`,
@@ -22,7 +23,7 @@ export async function GET(request) {
       `SELECT users.browser, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Desktop'
        GROUP BY users.browser
@@ -34,7 +35,7 @@ export async function GET(request) {
       `SELECT users.platform, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Desktop'
        GROUP BY users.platform
@@ -47,7 +48,7 @@ export async function GET(request) {
       `SELECT users.browser, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Mobile'
        GROUP BY users.browser
@@ -59,7 +60,7 @@ export async function GET(request) {
       `SELECT users.platform, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Mobile'
        GROUP BY users.platform
@@ -72,7 +73,7 @@ export async function GET(request) {
       `SELECT users.browser, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Tablet'
        GROUP BY users.browser
@@ -84,7 +85,7 @@ export async function GET(request) {
       `SELECT users.platform, CAST(COUNT(*) AS INTEGER) AS total_subscribers
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
-       WHERE subscribers.website_id = 3
+       WHERE subscribers.website_id = ${website_id}
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Tablet'
        GROUP BY users.platform
