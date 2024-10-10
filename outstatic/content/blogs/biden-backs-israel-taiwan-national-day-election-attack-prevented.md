@@ -22,13 +22,13 @@ President Biden and Vice President Kamala Harris spoke with Israeli Prime Minist
 
 Meanwhile, Israel continued its [operations in southern Lebanon](https://www.politico.eu/article/israel-expand-invasion-south-lebanon/), targeting Hezbollah strongholds and expanding its ground forces. Cross-border hostilities have intensified, and Hezbollah launched numerous projectiles into Israel. In Gaza, the [death toll](https://efe.com/en/latest-news/2024-10-09/gaza-death-toll-exceeds-42000-after-a-year-of-conflict/) reached over 42,000 as Israel expanded its offensive, with thousands of Palestinians displaced.
 
-### Taiwan Celebrates National Day 
+### Taiwan Celebrates National Day
 
 Taiwan celebrated its [National Day](https://www.politico.com/news/2024/10/10/taiwan-celebrates-national-day-holiday-against-background-of-chinese-threats-00183192) on Thursday, honoring the 1911 founding of the Republic of China and its subsequent retreat to Taiwan after the Chinese Civil War. The day’s festivities took place against a backdrop of heightened tensions with China, which claims Taiwan as its territory.
 
-President Lai Ching-te emphasized [unity and stability in Taiwan](https://www.taipeitimes.com/News/taiwan/archives/2024/10/10/2003825065), urging citizens to work together for national prosperity.  Lai advocated for cross-political cooperation with opposition parties to foster national unity. 
+President Lai Ching-te emphasized [unity and stability in Taiwan](https://www.taipeitimes.com/News/taiwan/archives/2024/10/10/2003825065), urging citizens to work together for national prosperity.  Lai advocated for cross-political cooperation with opposition parties to foster national unity.
 
-A recent survey shows that over two-thirds of Taiwanese people are [willing to defend their island](https://www.dw.com/en/most-taiwanese-would-defend-island-against-china-poll-finds/a-70440750) against a potential Chinese invasion. Conducted by the Institute for National Defense and Security Research, the poll reveals that 67.8% of respondents would be “very willing or somewhat willing” to fight if attacked, while 23.6% would not. Nearly 64% view China’s territorial ambitions as a “serious threat,” yet 61% believe an invasion is unlikely soon. 
+A recent survey shows that over two-thirds of Taiwanese people are [willing to defend their island](https://www.dw.com/en/most-taiwanese-would-defend-island-against-china-poll-finds/a-70440750) against a potential Chinese invasion. Conducted by the Institute for National Defense and Security Research, the poll reveals that 67.8% of respondents would be “very willing or somewhat willing” to fight if attacked, while 23.6% would not. Nearly 64% view China’s territorial ambitions as a “serious threat,” yet 61% believe an invasion is unlikely soon.
 
 ### Afghan National Arrested for Plotting Election Day Attack
 
@@ -44,11 +44,11 @@ On the right, Orban found support for his hardline positions on [migration](http
 
 ### France to Host Lebanon Conference Later This Month
 
-Speaking at the end of a Francophonie summit, French President Emmanuel Macron announced that the 88 member countries of the International Organisation of La Francophonie ([OIF](https://www.britannica.com/topic/Organisation-Internationale-de-la-Francophonie)) unanimously called for an [“immediate and lasting” ceasefire in Lebanon](https://www.lemonde.fr/en/international/article/2024/10/06/lebanon-macron-says-88-francophone-countries-call-for-immediate-ceasefire_6728331_4.html). This call comes in response to the escalating violence in the region, particularly following[ Israel’s retaliatory operations](https://www.aljazeera.com/news/liveblog/2024/10/10/live-israel-kills-medics-in-lebanon-as-siege-on-north-gaza-enters-6th-day) in Gaza and neighboring Lebanon. Macron mentioned that France would host an international conference in October to support Lebanon.
+Speaking at the end of a Francophonie summit, French President Emmanuel Macron announced that the 88 member countries of the International Organisation of La Francophonie [(OIF)](https://www.britannica.com/topic/Organisation-Internationale-de-la-Francophonie) unanimously called for an [“immediate and lasting” ceasefire in Lebanon](https://www.lemonde.fr/en/international/article/2024/10/06/lebanon-macron-says-88-francophone-countries-call-for-immediate-ceasefire_6728331_4.html). This call comes in response to the escalating violence in the region, particularly following[ Israel’s retaliatory operations](https://www.aljazeera.com/news/liveblog/2024/10/10/live-israel-kills-medics-in-lebanon-as-siege-on-north-gaza-enters-6th-day) in Gaza and neighboring Lebanon. Macron mentioned that France would host an international conference in October to support Lebanon.
 
 Macron expressed regret over Israeli Prime Minister Benjamin Netanyahu’s decision to proceed with ground operations in Lebanon but reiterated Israel’s right to self-defense. The broader regional crisis, sparked by Hamas’ attack on Israel on October 7, has resulted in heavy casualties on both sides. The tense situation in Lebanon has made French leadership rethink some aspects of its relationship with Israel due to the [historical and cultural ties](https://www.middleeasteye.net/news/israels-war-lebanon-can-france-stop-bloodshed) France has with Lebanon.
 
-### FOUNDATIONS 
+### FOUNDATIONS
 
 **What is the One China policy?**
 
