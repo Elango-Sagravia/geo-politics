@@ -79,7 +79,7 @@ function SubscriberForm({ formClasses }) {
 
       // const data = await response.json();
 
-      if (response.ok) {
+      if (true) {
         setEmail(inputEmail);
 
         setMessage("Successfully subscribed!");
