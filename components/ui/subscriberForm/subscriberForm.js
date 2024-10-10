@@ -59,12 +59,12 @@ function SubscriberForm({ formClasses }) {
 
     try {
       setLoading(true);
-      const response = await fetch(
-        `/api/add-user?email=${inputEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}`,
-        {
-          method: "GET",
-        }
-      );
+      // const response = await fetch(
+      //   `/api/add-user?email=${inputEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}`,
+      //   {
+      //     method: "GET",
+      //   }
+      // );
       fetch(`https://hooks.zapier.com/hooks/catch/11976044/2u8hsu9/`, {
         mode: "no-cors",
         method: "POST",
@@ -77,7 +77,7 @@ function SubscriberForm({ formClasses }) {
         }),
       });
 
-      const data = await response.json();
+      // const data = await response.json();
 
       if (response.ok) {
         setEmail(inputEmail);
