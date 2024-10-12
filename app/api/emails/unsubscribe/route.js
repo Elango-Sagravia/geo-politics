@@ -8,7 +8,7 @@ export async function GET(request) {
     const user_id = searchParams.get("user_id");
     const email = searchParams.get("email"); // Assuming email is passed as a query parameter
     const campaign_id = searchParams.get("campaign_id");
-    const website_id = 1; // Assuming website_id is a constant
+    const website_id = 3; // Assuming website_id is a constant
 
     // Validate input
     if (!user_id || !campaign_id || !email) {
