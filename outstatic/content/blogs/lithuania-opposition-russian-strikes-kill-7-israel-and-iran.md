@@ -1,5 +1,6 @@
 ---
 cutOff: '9'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/voters-in-lithuania-are-heading-to-polls-IxNj.webp'
@@ -7,7 +8,7 @@ description: ''
 slug: 'lithuania-opposition-russian-strikes-kill-7-israel-and-iran'
 author:
   name: ''
-  picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
+  picture: ''
 status: 'published'
 title: 'Oct 28: Lithuania Opposition, Russian Strikes Kill 7, Israel and Iran'
 publishedAt: '2024-10-28T10:48:20.160Z'
