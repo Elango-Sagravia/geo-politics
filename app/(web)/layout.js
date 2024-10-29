@@ -7,6 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import Navbar from "@/components/ui/navbar/navbar";
 import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -39,6 +40,7 @@ export default function RootLayout({ children }) {
           </AppProvider>
         </ThemeProvider>
       </body>
+      <GoogleAnalytics gaId="G-0XQ9CYQXPG" />
     </html>
   );
 }
