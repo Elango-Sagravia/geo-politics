@@ -3,7 +3,7 @@ cutOff: '3'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/brics-currency--1--EzND.webp'
+coverImage: '/images/brics-currency-g0MT.webp'
 description: ''
 slug: 'this-week-in-geopolitics-on-this-day-and-photo-surprise'
 author:
@@ -28,7 +28,7 @@ publishedAt: '2024-10-26T14:55:23.057Z'
 
 ### TODAY AGO
 
-### 1795  
+### 1795
 
 ![](/images/1920-AyMz.webp)
 
@@ -42,7 +42,7 @@ On this day, the St. Petersburg Soviet, a workers' council, was formed during th
 
 [Russian Revolution of 1905](https://www.britannica.com/event/Russian-Revolution-of-1905)
 
-### 1953 
+### 1953
 
 ![](/images/1953-A3Mz.webp)
 
