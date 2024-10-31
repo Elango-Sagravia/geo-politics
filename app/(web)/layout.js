@@ -12,7 +12,7 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Geo politics world",
+  title: "Geopolitics world",
   description: "Understand the forces shaping the world.",
 };
 
