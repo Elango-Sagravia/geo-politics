@@ -29,7 +29,7 @@ publishedAt: '2024-11-02T14:18:57.176Z'
 
 ### TODAY AGO
 
-**1949**
+### 1949
 
 ![Hague Agreement](/images/1949-YyMz.webp)
 
@@ -37,7 +37,7 @@ The Netherlands and Indonesia signed the Hague Agreement to resolve the conflict
 
 [Hague Agreement](https://www.britannica.com/event/Hague-Agreement)
 
-**1976**
+### 1976
 
 ![Jimmy Carter was elected the 39th U.S. president](/images/1976-k2OT.webp)
 
@@ -45,7 +45,7 @@ On this day in 1976, Jimmy Carter was elected the 39th president of the United S
 
 [Jimmy Carter](https://www.whitehouse.gov/about-the-white-house/presidents/james-carter/)
 
-**2000**
+### 2000
 
 ![The International Space Station](/images/2000-E2MD.webp)
 
@@ -55,7 +55,7 @@ The first resident crew arrived at the International Space Station, marking the 
 
 ### PHOTO OF THE WEEK
 
-Donald Trump was posing at the drive-through of a McDonald’s restaurant during his campaign in Pennsylvania. 
+Donald Trump was posing at the drive-through of a McDonald’s restaurant during his campaign in Pennsylvania.
 
 ![Donald Trump poses at a McDonald's drive-through during his Pennsylvania campaign stop](/images/trump-geopolitics-QwND.webp)
 
