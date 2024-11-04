@@ -9,7 +9,7 @@ slug: 'bolivian-kidnappings-us-air-drills-eu-us-green-rifts'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Nov 4: Bolivian kidnappings, US air drills, EU-US Green rifts'
 publishedAt: '2024-11-04T12:33:53.214Z'
 ---
@@ -26,13 +26,13 @@ The recent hostage situation in Bolivia reveals the rising tensions between form
 
 ![South Korea, Japan, and U.S. conduct joint air drill following North Korea’s Hwasong-19 missile test](/images/us-long-range-bomber-joins-air-drill-with-south-korea--japan-MwMD.webp)
 
-South Korea, Japan, and the United States recently conducted a [joint air drill](https://www.dw.com/en/us-long-range-bomber-joins-air-drill-with-south-korea-japan/a-70671635) in response to North Korea's test of a new intercontinental ballistic missile (ICBM) called the [Hwasong-19](https://edition.cnn.com/2024/11/01/world/video/north-korean-missile-launch-ldn-digvid). This drill featured a U.S. B-1B bomber escorted by fighter jets from South Korea and Japan, aiming to strengthen allied deterrence against North Korean threats. The ICBM test, which reportedly showcased advanced capabilities, is viewed as North Korea's attempt to gain U.S. attention ahead of the upcoming presidential election. 
+South Korea, Japan, and the United States recently conducted a [joint air drill](https://www.dw.com/en/us-long-range-bomber-joins-air-drill-with-south-korea-japan/a-70671635) in response to North Korea's test of a new intercontinental ballistic missile (ICBM) called the [Hwasong-19](https://edition.cnn.com/2024/11/01/world/video/north-korean-missile-launch-ldn-digvid). This drill featured a U.S. B-1B bomber escorted by fighter jets from South Korea and Japan, aiming to strengthen allied deterrence against North Korean threats. The ICBM test, which reportedly showcased advanced capabilities, is viewed as North Korea's attempt to gain U.S. attention ahead of the upcoming presidential election.
 
 This action comes amid allegations of North Korean troop [support for Russia](https://apnews.com/article/north-korea-soldiers-russia-ukraine-war-651ac7615c3124fde657043a9193d6b1)'s operations in Ukraine. This isn’t mainly that new between the US and South Korea, as the US and South Korea jointly exercise [semi-regularly](https://apnews.com/article/us-south-korea-joint-military-drills-north-13d96116dee891e28c5a92a8f0104a4d). Japan and South Korea are also the US's strongest allies.
 
 ### EU Greens oppose Stein
 
-European Green Party members have [called on](https://www.politico.eu/article/europes-greens-tell-jill-stein-to-pull-out-of-us-election-to-defeat-trump/) U.S. Green Party candidate Jill Stein to drop her presidential bid and endorse Kamala Harris, arguing Stein’s support could prevent a Trump victory. European Greens from several countries highlighted differences in values, pointing to the U.S. Greens’ stance on Russia and strained relations with the global Green movement. Stein’s team responded, emphasizing their commitment to grassroots democracy and rejecting the request as unprincipled interference. 
+European Green Party members have [called on](https://www.politico.eu/article/europes-greens-tell-jill-stein-to-pull-out-of-us-election-to-defeat-trump/) U.S. Green Party candidate Jill Stein to drop her presidential bid and endorse Kamala Harris, arguing Stein’s support could prevent a Trump victory. European Greens from several countries highlighted differences in values, pointing to the U.S. Greens’ stance on Russia and strained relations with the global Green movement. Stein’s team responded, emphasizing their commitment to grassroots democracy and rejecting the request as unprincipled interference.
 
 The appeal shows ongoing divisions between European Greens and the U.S. Green Party, although it's likely more of a material matter of practicality. The EU is watching the US elections closely. Most mainstream parties, such as the Green Party, vastly prefer a Kamala Harris presidency, mainly because they perceive Kamala Harris to be predictable for EU-US relations.
 
@@ -48,4 +48,4 @@ The appeal shows ongoing divisions between European Greens and the U.S. Green Pa
 
 Many countries worldwide do not observe [daylight saving time](https://www.statista.com/chart/24473/countries-changing-clock-daylight-savings/#:~:text=Outside%20of%20Europe%20and%20the,Zealand%20and%20parts%20of%20Australia.), far more than those that do. Most of Africa and Asia do not. Countries close to the equator often do not. The US states of Arizona and Hawaii do not. There are a lot of reasons against it. The transition disrupts sleep patterns and can increase the risk of heart attacks and workplace accidents. Studies indicate that the energy conservation benefits are negligible, often offset by higher heating and cooling costs. The time changes lead to clarity and inefficiencies, positively impacting productivity and costing businesses. Many people advocate for eliminating DST due to the inconvenience it causes. Traffic accidents increase following the springtime change, likely linked to sleep deprivation.
 
-The reasons for this are that longer daylight hours in the evening encourage people to go out, benefiting retail businesses and the economy. With more daylight available after work hours, people are more likely to engage in outdoor activities, which can improve physical health and promote social interaction. 
+The reasons for this are that longer daylight hours in the evening encourage people to go out, benefiting retail businesses and the economy. With more daylight available after work hours, people are more likely to engage in outdoor activities, which can improve physical health and promote social interaction.
