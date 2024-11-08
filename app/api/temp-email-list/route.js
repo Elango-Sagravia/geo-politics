@@ -2,7 +2,7 @@ import { query } from "@/lib/db";
 
 export async function GET(request) {
   try {
-    const websiteId = 4;
+    const websiteId = 3;
 
     if (!websiteId) {
       return new Response(JSON.stringify({ error: "website_id is required" }), {
