@@ -18,8 +18,14 @@ export async function GET(request) {
       JOIN campaigns c ON eo.campaign_id = c.id
       JOIN subscribers s ON eo.user_id = s.user_id AND c.website_id = s.website_id
       JOIN users u ON eo.user_id = u.id
-      WHERE c.website_id = $1
-        AND s.status = 'subscribed';
+      WHERE c.website_id = ? AND s.status = 'subscribed'
+
+      UNION
+
+      SELECT DISTINCT u.id, u.email
+      FROM users u
+      JOIN subscribers s ON u.id = s.user_id
+      WHERE u.source_id = 1 AND s.website_id = 1 AND s.status = 'subscribed';
     `;
 
     // Execute the query
