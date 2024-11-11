@@ -3,7 +3,7 @@ cutOff: '3'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/alaska--1--Q4Mj.webp'
+coverImage: '/images/alaska_720--1--kzND.webp'
 description: ''
 slug: 'this-week-in-geopolitics'
 author:
