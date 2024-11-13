@@ -25,7 +25,7 @@ export async function GET(request) {
       SELECT DISTINCT u.id, u.email
       FROM users u
       JOIN subscribers s ON u.id = s.user_id
-      WHERE u.source_id = 1 AND s.website_id = 1 AND s.status = 'subscribed';
+      WHERE u.source_id = 1 AND s.website_id = 3 AND s.status = 'subscribed';
     `;
 
     // Execute the query
