@@ -9,6 +9,7 @@ import HTMLContent from "./myComponent";
 import content from "@/content/content";
 import SubscriberForm from "../subscriberForm/subscriberForm";
 import RelatedArticles from "../relatedArticles/relatedArticles";
+import garamond from "@/components/garamond";
 
 const SingleBlog = ({ blog, relatedArticles, index }) => {
   console.log(relatedArticles);
@@ -28,17 +29,39 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
           <HTMLContent
             contentString={blog.content}
             blogCutOff={
-              index <= 4
+              index <= -1
                 ? blog.content.length
                 : !isSubscribed
                 ? blog.cutOff
                 : blog.content.length
             }
-            enableCutOff={index <= 4 ? false : true}
+            enableCutOff={index <= -1 ? false : true}
           />
+          {index <= -1
+            ? blog?.footerBannerContent?.length > 0 && (
+                <div className="p-4 md:p-10 bg-nl_background text-white mt-6">
+                  <p className="text-center text-[12px]">
+                    {blog.footerBannerTitle}
+                  </p>
+                  <p className={`text-xl ${garamond.className} text-center`}>
+                    {blog.footerBannerContent}
+                  </p>
+                </div>
+              )
+            : isSubscribed &&
+              blog?.footerBannerContent?.length > 0 && (
+                <div className="p-4 md:p-10 bg-nl_background text-white mt-6">
+                  <p className="text-center text-[12px]">
+                    {blog.footerBannerTitle}
+                  </p>
+                  <p className={`text-xl ${garamond.className} text-center`}>
+                    {blog.footerBannerContent}
+                  </p>
+                </div>
+              )}
         </div>
         {isSubscribed ||
-          (index <= 4 && relatedArticles.length > 0 && (
+          (index <= -1 && relatedArticles.length > 0 && (
             <RelatedArticles articles={relatedArticles} />
           ))}
       </section>
