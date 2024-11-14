@@ -7,7 +7,7 @@ relatedArticles: 'germany-in-crisis-china-on-himalayas-indonesia-to-brics'
 readTime: '5'
 coverImage: '/images/iraqi-men-were-awarded-42-million-in-damages-for-injuries-UwND.webp'
 description: ''
-slug: 'nov-14-iraqi-abuse-verdict-blinken-in-europe-scholz-no-confidence'
+slug: 'iraqi-abuse-verdict-blinken-in-europe-scholz-no-confidence'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
