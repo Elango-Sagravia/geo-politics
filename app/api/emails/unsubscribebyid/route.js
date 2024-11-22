@@ -18,7 +18,7 @@ export async function POST(request) {
 
     // Retrieve user_id from the users table using unique_id
     const userResult = await query(
-      `SELECT id AS user_id FROM users WHERE unique_id = $1`,
+      `SELECT id AS user_id FROM users WHERE uniqueid = $1`,
       [unique_id]
     );
 
