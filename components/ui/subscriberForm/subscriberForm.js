@@ -56,7 +56,8 @@ function SubscriberForm({ formClasses }) {
   const [loading, setLoading] = useState(false);
   async function handleSubmit(e) {
     e.preventDefault();
-    const formattedEmail = inputEmail.toLowerCase().trim();
+    const formattedEmail = encodeURIComponent(inputEmail.toLowerCase().trim());
+
     try {
       setLoading(true);
       const response = await fetch(
