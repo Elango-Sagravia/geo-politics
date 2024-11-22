@@ -5,7 +5,6 @@ import { useEffect, Suspense } from "react";
 
 const UnsubscribeContent = () => {
   const params = useSearchParams();
-  const email = params.get("email");
   const uniqueId = params.get("unique_id"); // Assuming user_id is also part of the query parameters
   const campaignId = params.get("campaign_id"); // Assuming campaign_id is part of the query parameters
 
