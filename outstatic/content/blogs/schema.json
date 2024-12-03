@@ -43,6 +43,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Footer Banner Content"
+    },
+    "emailHtml": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Email Html"
     }
   }
 }
