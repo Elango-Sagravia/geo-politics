@@ -50,6 +50,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Email Html"
+    },
+    "emailHtmlPreview": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "EmailHtmlPreview"
     }
   }
 }
