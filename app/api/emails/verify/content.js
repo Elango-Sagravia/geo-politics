@@ -374,7 +374,7 @@ export const emailContent = `<!doctype html>
               width: 150px; 
               margin: 0 auto;
               border-radius: 0px;
-            "><a href="https://www.geopolitics.world/verified" target="_blank" style="color: #FFFFFF; text-decoration: none;">verify</a></p></div>
+            "><a href="https://www.geopolitics.world/verified" target="_blank" style="color: #FFFFFF; text-decoration: none;">Verify</a></p></div>
     
                 </td>
               </tr>

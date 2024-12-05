@@ -5,6 +5,7 @@ import {
   getDocuments,
   getDocumentSlugs,
 } from "outstatic/server";
+import { Suspense } from "react";
 import { remark } from "remark";
 import html from "remark-html";
 
@@ -59,7 +60,13 @@ export default async function Home({ params }) {
   );
   return (
     <div>
-      <SingleBlog index={index} blog={blog} relatedArticles={relatedArticles} />
+      <Suspense>
+        <SingleBlog
+          index={index}
+          blog={blog}
+          relatedArticles={relatedArticles}
+        />
+      </Suspense>
     </div>
   );
 }
