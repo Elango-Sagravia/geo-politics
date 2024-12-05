@@ -9,8 +9,7 @@ import content from "@/content/content";
 import { cn } from "@/lib/utils";
 
 export default function Hero() {
-  const { isSubscribed } = useAppContext();
-
+  const { isSubscribed, email, setEmail } = useAppContext();
   return (
     <div className="bg-nl_sec_background">
       <div className="flex px-4 md:px-16 py-20 lg:py-32 bg-nl_sec_background max-w-7xl mx-auto lg:min-h-[650px]">
@@ -29,9 +28,15 @@ export default function Hero() {
                 Thank you for subscribing
               </p>
               <p className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
-                We sent you a welcome email. If you don't see it, check your
-                spam or junk folders.
+                We sent you a welcome email to <strong>{email}</strong>. If you
+                don't see it, check your spam or junk folders.
               </p>
+              <button
+                onClick={() => setEmail("")}
+                className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70 underline"
+              >
+                click here to subscribe with different email
+              </button>
             </>
           ) : (
             // <form
