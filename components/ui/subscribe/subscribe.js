@@ -43,7 +43,7 @@ export default function Subscribe() {
                 onClick={() => setEmail("")}
                 className="sm:w-2/3 mt-4 text-left md:text-center underline"
               >
-                Click here to subscribe with different email
+                Subscribe with different email
               </button>
             </div>
           )}

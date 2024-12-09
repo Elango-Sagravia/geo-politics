@@ -29,13 +29,13 @@ export default function Hero() {
               </p>
               <p className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
                 We sent you a welcome email to <strong>{email}</strong>. If you
-                don't see it, check your spam or junk folders.
+                don't see it, please check your spam or junk folders.
               </p>
               <button
                 onClick={() => setEmail("")}
                 className="mt-4 text-sm w-full md:w-3/4 text-black/70 underline text-left"
               >
-                Click here to subscribe with different email
+                Subscribe with different email
               </button>
             </>
           ) : (
