@@ -41,19 +41,19 @@ export default function Footer() {
                 <Link target="_blank"  href="https://www.facebook.com/people/Geopolitics-World/61562847449514/">Facebook</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.instagram.com/geopoliticsummary/">Instagram</Link>
+                <Link target="_blank" href="https://www.instagram.com/geopoliticalsummary/">Instagram</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://x.com/readgeopolitics">Twitter</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.threads.net/@geopoliticsummary">Threads</Link>
+                <Link target="_blank" href="https://www.threads.net/@geopoliticalsummary">Threads</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.reddit.com/user/GeopoliticsWorld/">Reddit</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticsworld/">LinkedIn</Link>
+                <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticalsummary/">LinkedIn</Link>
               </li>
             </ul>
           </div>
@@ -88,19 +88,19 @@ export default function Footer() {
                 <Link target="_blank" href="https://www.facebook.com/people/Geopolitics-World/61562847449514/">Facebook</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.instagram.com/geopoliticsummary/">Instagram</Link>
+                <Link target="_blank" href="https://www.instagram.com/geopoliticalsummary/">Instagram</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://x.com/readgeopolitics">Twitter</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.threads.net/@geopoliticsummary">Threads</Link>
+                <Link target="_blank" href="https://www.threads.net/@geopoliticalsummary">Threads</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.reddit.com/user/GeopoliticsWorld/">Reddit</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticsworld/">LinkedIn</Link>
+                <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticalsummary/">LinkedIn</Link>
               </li>
             </ul>
           </div>
