@@ -35,6 +35,28 @@ export default function Footer() {
               </p>
             </div>
           </div>
+           <div>
+            <ul className="ml-60">
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank"  href="https://www.facebook.com/people/Geopolitics-World/61562847449514/">Facebook</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.instagram.com/geopoliticsummary/">Instagram</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://x.com/readgeopolitics">Twitter</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.threads.net/@geopoliticsummary">Threads</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.reddit.com/user/GeopoliticsWorld/">Reddit</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticsworld/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
           <div>
             <ul>
               <li className="px-8 py-2 hover:underline underline-offset-8">
@@ -59,7 +81,30 @@ export default function Footer() {
               </div>
             </Link>
           </div>
-          <div className="mt-8">
+          <div className="flex">
+            <div className="mt-8">
+            <ul>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.facebook.com/people/Geopolitics-World/61562847449514/">Facebook</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.instagram.com/geopoliticsummary/">Instagram</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://x.com/readgeopolitics">Twitter</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.threads.net/@geopoliticsummary">Threads</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.reddit.com/user/GeopoliticsWorld/">Reddit</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticsworld/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div className="mt-8 ml-10">
             <ul>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -71,6 +116,8 @@ export default function Footer() {
                 <Link href="/contact">Contact us</Link>
               </li>
             </ul>
+          </div>
+
           </div>
           <div>
             <ul className="flex mt-4">
