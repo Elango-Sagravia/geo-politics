@@ -120,7 +120,7 @@ export default function Footer() {
 
           </div>
           <div>
-            <ul className="flex mt-4">
+            <ul className="flex mt-8">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
                 <Link href="/policy/privacy-policy">Privacy policy</Link>
               </li>
