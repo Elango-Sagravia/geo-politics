@@ -16,14 +16,14 @@ const transporter = nodemailer.createTransport({
 // Function to send an email
 async function sendEmail(email) {
   let mailOptions = {
-    from: '"Geopolitics World" <daily@geopolitics.email>',
+    from: '"Geopolitical Summary" <daily@geopolitics.email>',
     to: email,
     bcc: "elango@sagravia.com", // Recipient email from the API path
     subject: "Verify us, or we go to spam 🥺",
     text: "",
     html: emailContent.replace("test@test.com", email), // Use the HTML content from content.js
     headers: {
-      "List-Unsubscribe": `<https://geopolitics.world/unsubscribe?email=${email}>`,
+      "List-Unsubscribe": `<https://geopoliticalsummary.com/unsubscribe?email=${email}>`,
     },
   };
 
