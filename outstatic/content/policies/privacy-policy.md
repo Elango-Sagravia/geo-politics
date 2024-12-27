@@ -7,6 +7,8 @@ title: 'Privacy Policy'
 status: 'published'
 slug: 'privacy-policy'
 description: ''
+seoTitle: 'Privacy Policy - Geopolitics Summary'
+seoDescription: 'Understand how Geopolitics Summary safeguards your data. Read our privacy policy to see our commitment to protecting your personal information.'
 publishedAt: '2024-08-20T14:08:47.000Z'
 ---
 
