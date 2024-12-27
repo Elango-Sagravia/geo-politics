@@ -31,6 +31,21 @@ const nextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: "/:path*", // Match all paths
+        has: [
+          {
+            type: "host",
+            value: "www.geopolitics.world", // Match the domain
+          },
+        ],
+        destination: "https://geopoliticalsummary.com/:path*", // Redirect to the new domain with path preservation
+        permanent: true, // Use a 301 redirect
+      },
+    ];
+  },
 };
 
 export default nextConfig;
