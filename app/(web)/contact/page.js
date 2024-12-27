@@ -4,6 +4,16 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
+
+
+export const metadata = {
+  title: "Contact Geopolitics Summary - Get in Touch",
+  description:
+    "Have a question or need assistance? Contact Geopolitics Summary for prompt support regarding our newsletters or services.",
+  alternates: {
+    canonical: "https://www.geopoliticalsummary.com/contact",
+  },
+};
 export default function Contact() {
   return (
     <main>

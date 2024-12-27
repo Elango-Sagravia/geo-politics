@@ -37,6 +37,21 @@ export async function generateStaticParams() {
   return policies.map((slug) => ({ slug }));
 }
 
+export async function generateMetadata({ params }) {
+  const { slug } = params;
+
+  // Fetch metadata for the slug
+  const post = getDocumentBySlug("policies", slug, ["title"]);
+
+  return {
+    title: post.title,
+    description: post.description,
+    alternates: {
+      canonical: `https://www.geopoliticalsummary.com/policy/${slug}`,
+    },
+  };
+}
+
 export default async function Home({ params }) {
   const policy = await getData(params);
   console.log("policy in slug", policy);
