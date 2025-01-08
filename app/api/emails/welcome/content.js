@@ -140,11 +140,11 @@ export const emailContent = `<!doctype html>
             <td  style="width:150px;">
               
         <a
-           href="https://www.geopolitics.world" target="_blank"
+           href="https://www.geopoliticalsummary.com" target="_blank"
         >
           
       <img
-         alt="" height="auto" src="https://www.geopolitics.world/gp-logo-grey.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"
+         alt="" height="auto" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"
       />
     
         </a>
@@ -380,7 +380,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.geopolitics.world/archives/%slug%" 
+              href="https://www.geopoliticalsummary.com/archives/%slug%?email=test@test.com" 
               target="_blank"
              >Check out our latest issue</a></div>
     
@@ -813,7 +813,7 @@ export const emailContent = `<!doctype html>
                   
       <div
          style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a href="https://www.geopolitics.world/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p></div>
+      ><p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a href="https://www.geopoliticalsummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p></div>
     
                 </td>
               </tr>
@@ -973,7 +973,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.facebook.com/profile.php?id=61562847449514" target="_blank">
                     <img
-                       height="30" src="https://www.geopolitics.world/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.geopoliticalsummary.com/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1006,7 +1006,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://x.com/readgeopolitics" target="_blank">
                     <img
-                       height="30" src="https://www.geopolitics.world/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.geopoliticalsummary.com/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1039,7 +1039,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.instagram.com/geopoliticsummary/" target="_blank">
                     <img
-                       height="30" src="https://www.geopolitics.world/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.geopoliticalsummary.com/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1072,7 +1072,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.reddit.com/user/GeopoliticsWorld/" target="_blank">
                     <img
-                       height="30" src="https://www.geopolitics.world/icons/social/reddit.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.geopoliticalsummary.com/icons/social/reddit.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1103,7 +1103,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.linkedin.com/showcase/geopoliticsworld/" target="_blank">
                     <img
-                       height="30" src="https://www.geopolitics.world/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1134,7 +1134,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://www.threads.net/@geopoliticsummary" target="_blank">
                     <img
-                       height="30" src="https://www.geopolitics.world/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.geopoliticalsummary.com/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1223,7 +1223,7 @@ export const emailContent = `<!doctype html>
               color:#000;
               font-size:12px;
               line-height: 2;
-            "> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopoliticalsummary.com</a>.</p>
+            "> Send us your feedback at <a href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>.</p>
           <p style="
               color:#000;
               font-size:12px;
