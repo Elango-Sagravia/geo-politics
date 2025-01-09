@@ -39,7 +39,7 @@ Carter’s 1977 visit to Tehran revealed a stark contrast to his promise of trut
 
 The [Camp David Accords](https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/framework-for-peace-in-the-middle-east), brokered by President Jimmy Carter in September 1978, marked a historic milestone in Middle Eastern diplomacy. Over 13 intense days, Carter mediated between Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin, who refused direct meetings.
 
-![](/images/90-IwOT.jpeg)
+![](/images/90-czNz.jpeg)
 
 On the brink of failure, Carter presented Begin with autographed photos inscribed with his grandchildren’s names and a heartfelt message of hope for peace. Moved by the gesture, Begin agreed to continue negotiations, leading to a breakthrough: Israel would withdraw from the Sinai Peninsula, and Egypt became the first Arab nation to recognize Israel. This landmark achievement remains one of the most significant contributions to Middle Eastern peace efforts. No U.S. president has dedicated as much personal time and energy to a foreign policy initiative as Carter did at Camp David.
 
