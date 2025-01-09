@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /outstatic/
-Sitemap: https://www.geopolitics.world/sitemap.xml
+Sitemap: https://www.geopoliticalsummary.com/sitemap.xml
