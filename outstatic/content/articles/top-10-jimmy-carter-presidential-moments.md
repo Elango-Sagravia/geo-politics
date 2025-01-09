@@ -11,7 +11,7 @@ title: 'Top 10 Jimmy Carter Presidential Moments'
 publishedAt: '2025-01-09T11:04:54.114Z'
 ---
 
-Jimmy Carter, the 39th President of the United States, is better remembered for his post-presidency humanitarian work than his time in office. Born in Plains, Georgia, Carter’s upbringing revolved around peanut farming, devout Baptist faith, and political debates at the dinner table. He envisioned an America defined by “competent and compassionate” governance. He championed reforms in welfare, healthcare, and taxation. Still, he faced severe criticism by the end of his term due to a recession, energy crisis, Iran hostage situation, and strained relations within his party. 
+Jimmy Carter, the 39th President of the United States, is better remembered for his post-presidency humanitarian work than his time in office. Born in Plains, Georgia, Carter’s upbringing revolved around peanut farming, devout Baptist faith, and political debates at the dinner table. He envisioned an America defined by “competent and compassionate” governance. He championed reforms in welfare, healthcare, and taxation. Still, he faced severe criticism by the end of his term due to a recession, energy crisis, Iran hostage situation, and strained relations within his party.
 
 Carter holds a paradoxical legacy in American politics; he was revered and criticized in his time. In a nation reeling from the Watergate scandal, Carter offered hopes of transparency. A peanut farmer turned politician, Carter’s moral integrity was commendable, but his political finesse was questionable. Yet, his post-presidency period defined his legacy through humanitarian work, earning him the Nobel Peace Prize in 2002.
 
@@ -37,7 +37,7 @@ Carter’s 1977 visit to Tehran revealed a stark contrast to his promise of trut
 
 ## 5. Camp David effort
 
-The [Camp David Accords](https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/framework-for-peace-in-the-middle-east), brokered by President Jimmy Carter in September 1978, marked a historic milestone in Middle Eastern diplomacy. Over 13 intense days, Carter mediated between Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin, who refused direct meetings. 
+The [Camp David Accords](https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/framework-for-peace-in-the-middle-east), brokered by President Jimmy Carter in September 1978, marked a historic milestone in Middle Eastern diplomacy. Over 13 intense days, Carter mediated between Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin, who refused direct meetings.
 
 ![](/images/90-IwOT.jpeg)
 
@@ -53,7 +53,7 @@ In July 1979, amid economic turmoil and an energy crisis, President Jimmy Carter
 
 ## 8. Taft-Hartley Act invoked
 
-In 1978, President Jimmy Carter [invoked the Taft-Hartley Act](https://d.lib.msu.edu/vvl/1501) to end a paralyzing 91-day coal strike, forcing 160,000 miners back to work under an 80-day cooling-off period. While the move aimed to stabilize energy supplies during economic unrest, it jeopardized union workers, who viewed it as a [betrayal of labor rights](https://jacobin.com/2024/12/jimmy-carter-was-no-friend-of-union-workers-like-me). Carter’s broader policies, including deregulation and wage caps, deepened the divide with unions, undermining his pro-labor image and starkly contrasting with his campaign promises to support the working class.  
+In 1978, President Jimmy Carter [invoked the Taft-Hartley Act](https://d.lib.msu.edu/vvl/1501) to end a paralyzing 91-day coal strike, forcing 160,000 miners back to work under an 80-day cooling-off period. While the move aimed to stabilize energy supplies during economic unrest, it jeopardized union workers, who viewed it as a [betrayal of labor rights](https://jacobin.com/2024/12/jimmy-carter-was-no-friend-of-union-workers-like-me). Carter’s broader policies, including deregulation and wage caps, deepened the divide with unions, undermining his pro-labor image and starkly contrasting with his campaign promises to support the working class.
 
 ## 9. The diplomatic U-turn
 
@@ -61,5 +61,4 @@ In 1979, President Jimmy Carter [granted diplomatic recognition](https://www.bbc
 
 ## 10. The Afghan dilemma
 
-\
 In December 1979, the [Soviet Union invaded Afghanistan](https://history.state.gov/milestones/1977-1980/soviet-invasion-afghanistan), escalating Cold War tensions. The invasion aimed to establish a pro-Moscow regime amid civil unrest following controversial reforms by the left-wing People’s Democratic Party of Afghanistan (PDPA) and internal power struggles. The [Soviets deposed the Afghan leader](https://www.bbc.co.uk/bitesize/guides/zwp86fr/revision/2), installed Babrak Karmal, and began a decade-long military campaign. Fearing Soviet expansion, the U.S. provided covert support to the Mujahideen, aligning with China and Israel, imposing sanctions, boycotting the 1980 Moscow Olympics, and severing trade agreements. Carter’s policies, part of the Carter Doctrine, pressured the USSR but also set the stage for future conflicts, as many Mujahideen fighters, including Osama bin Laden, later opposed the U.S. Afghanistan becoming the Soviet Union's equivalent of Vietnam. This costly, unwinnable war ended in their 1988 withdrawal, leaving [Afghanistan in chaos](https://progressive.org/op-eds/we-cant-forget-jimmy-carters-legacy-afghanistan-230315/) and fueling decades of civil war, eventually leading to the rise of the Taliban.
