@@ -1,0 +1,13 @@
+{
+  "title": "articles",
+  "type": "object",
+  "properties": {
+    "readTime": {
+      "required": true,
+      "description": "",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "readTime"
+    }
+  }
+}
