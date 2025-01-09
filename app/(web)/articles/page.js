@@ -40,14 +40,14 @@ function truncateDescription(description, slug) {
   );
 }
 
-// export const metadata = {
-//   title: "Presidential Summary Articles - Expert News & Analysis",
-//   description:
-//     "Explore comprehensive research and expert opinions from Presidential Summary, offering in-depth coverage of international relations and geopolitical affairs.",
-//   alternates: {
-//     canonical: "https://www.presidentialsummary.com/articles",
-//   },
-// };
+export const metadata = {
+  title: "Geopolitical Summary Articles - Global Affairs & Insights",
+  description:
+    "Stay informed with expert analysis on global politics, international relations, and major geopolitical events shaping the world today.",
+  alternates: {
+    canonical: "https://www.geopoliticalsummary.com/articles",
+  },
+};
 export default async function blogs() {
   const blogs = await getData();
   return (
