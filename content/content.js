@@ -21,15 +21,15 @@ const content = {
       heading: "Reach new customers with Geopolitical World.",
       list: [
         {
-          title: "54%",
+          title: "32.3%",
           description: "of our subscribers read our newsletters every weekday.",
         },
         {
-          title: "10k",
+          title: "4.2K",
           description: "new subscribers join Geopolitical World monthly.",
         },
         {
-          title: "2%",
+          title: "3.2%",
           description:
             "of our active subscribers engage with our sponsored content daily.",
         },
@@ -59,7 +59,7 @@ const content = {
     },
   },
   contactPage: {
-     formSection: {
+    formSection: {
       left: [
         {
           title: "General Inquiries",
@@ -73,7 +73,6 @@ const content = {
           href: "+1 (307) 429-0673",
           content: "(307) 429-0673",
         },
-        
       ],
     },
     faqSection: {
