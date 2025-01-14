@@ -15,7 +15,7 @@ Jimmy Carter, the 39th President of the United States, is better remembered for 
 
 Carter holds a paradoxical legacy in American politics; he was revered and criticized in his time. In a nation reeling from the Watergate scandal, Carter offered hopes of transparency. A peanut farmer turned politician, Carter’s moral integrity was commendable, but his political finesse was questionable. Yet, his post-presidency period defined his legacy through humanitarian work, earning him the Nobel Peace Prize in 2002.
 
-![](/images/ap7708040394_slide-9c439c24fdc53d05d5dceda9b90fbaed025acd32.jpg-k4ND.jpg)
+![President Jimmy Carter smiles as he receives applause from members of Congress after signing a bill to create the Department of Energy during a Rose Garden ceremony at the White House in Washington, D.C., on August 4, 1977.](/images/ap7708040394_slide-9c439c24fdc53d05d5dceda9b90fbaed025acd32.jpg-k4ND.jpg)
 
 *source- President Jimmy Carter receives the applause of members of Congress who witnessed his signature on a bill creating the Department of Energy in a Rose Garden ceremony Thursday, Aug. 4, 1977, at the White House in Washington, D.C. Source:* <https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/>
 
@@ -41,9 +41,9 @@ Carter’s 1977 visit to Tehran revealed a stark contrast to his promise of trut
 
 The [Camp David Accords](https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/framework-for-peace-in-the-middle-east), brokered by President Jimmy Carter in September 1978, marked a historic milestone in Middle Eastern diplomacy. Over 13 intense days, Carter mediated between Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin, who refused direct meetings.
 
-![](/images/90-czNz.jpeg)
+![Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979.](/images/90-czNz.jpeg)
 
-*source- Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979. Source:* [https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency](https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency)
+*source- Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979. Source:* <https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency>
 
 On the brink of failure, Carter presented Begin with autographed photos inscribed with his grandchildren’s names and a heartfelt message of hope for peace. Moved by the gesture, Begin agreed to continue negotiations, leading to a breakthrough: Israel would withdraw from the Sinai Peninsula, and Egypt became the first Arab nation to recognize Israel. This landmark achievement remains one of the most significant contributions to Middle Eastern peace efforts. No U.S. president has dedicated as much personal time and energy to a foreign policy initiative as Carter did at Camp David.
 
