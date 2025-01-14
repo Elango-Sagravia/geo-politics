@@ -17,7 +17,7 @@ Carter holds a paradoxical legacy in American politics; he was revered and criti
 
 ![](/images/ap7708040394_slide-9c439c24fdc53d05d5dceda9b90fbaed025acd32.jpg-k4ND.jpg)
 
-*source-* President Jimmy Carter receives the applause of members of Congress who witnessed his signature on a bill creating the Department of Energy in a Rose Garden ceremony Thursday, Aug. 4, 1977, at the White House in Washington, D.C. Source: &lt;a href="https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency"&gt;https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency&lt;/a&gt;
+source- President Jimmy Carter receives the applause of members of Congress who witnessed his signature on a bill creating the Department of Energy in a Rose Garden ceremony Thursday, Aug. 4, 1977, at the White House in Washington, D.C. Source: &lt;a href=["https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency"&gt;https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency&lt;/a](https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency\">https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency</a>)
 
 In honor of 100 years of Jimmy Carter’s remarkable life, here are the top 10 defining moments of his presidency and beyond:
 
@@ -43,7 +43,7 @@ The [Camp David Accords](https://www.jimmycarterlibrary.gov/research/additional-
 
 ![](/images/90-czNz.jpeg)
 
-*source-* Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979. Source: &lt;a href="https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/"&gt;https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/&lt;/a&gt;
+source- Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979. Source: &lt;a href=["https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/"&gt;https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/&lt;/a](https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/\">https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/</a>)
 
 On the brink of failure, Carter presented Begin with autographed photos inscribed with his grandchildren’s names and a heartfelt message of hope for peace. Moved by the gesture, Begin agreed to continue negotiations, leading to a breakthrough: Israel would withdraw from the Sinai Peninsula, and Egypt became the first Arab nation to recognize Israel. This landmark achievement remains one of the most significant contributions to Middle Eastern peace efforts. No U.S. president has dedicated as much personal time and energy to a foreign policy initiative as Carter did at Camp David.
 
