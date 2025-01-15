@@ -24,7 +24,7 @@ async function sendEmail(email, slug) {
     from: '"Geopolitical Summary" <no-reply@mail.geopoliticalsummary.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
-    subject: "Welcome to Geopolitical Summary!",
+    subject: "Welcome to Geopolitical Summary",
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
