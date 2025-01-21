@@ -11,3 +11,4 @@ export default function BlogInfo({ date, read_time }) {
     </div>
   );
 }
+
