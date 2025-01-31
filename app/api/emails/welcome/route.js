@@ -19,7 +19,7 @@ let transporter = nodemailer.createTransport({
 });
 
 // Function to send an email
-async function sendEmail(email, slug) {
+async function sendEmail(email, slug, uniqueId) {
   let mailOptions = {
     from: '"Geopolitical Summary" <no-reply@mail.geopoliticalsummary.com>', // Sender email address
     to: email, // Recipient email
@@ -56,7 +56,7 @@ export async function POST(request) {
     const blog = await response.json();
 
     const body = await request.json(); // Parse the request body as JSON
-    const { email } = body;
+    const { email, uniqueId } = body;
 
     if (!email) {
       return new Response(
@@ -68,7 +68,7 @@ export async function POST(request) {
       );
     }
 
-    await sendEmail(email, blog.slug);
+    await sendEmail(email, blog.slug, uniqueId);
 
     return new Response(
       JSON.stringify({ message: "Email sent successfully" }),
