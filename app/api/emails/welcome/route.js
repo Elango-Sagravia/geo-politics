@@ -28,7 +28,8 @@ async function sendEmail(email, slug) {
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
-      .replaceAll("%slug%", slug), // HTML content with dynamic email replacement
+      .replaceAll("%slug%", slug) // HTML content with dynamic email replacement
+      .replaceAll("%unique-id%", uniqueId), // HTML content with dynamic email replacement
   };
 
   try {
