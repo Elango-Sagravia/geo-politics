@@ -18,7 +18,7 @@ const content = {
       buttonText: "Advertise with us",
     },
     statusSection: {
-      heading: "Reach new customers with Geopolitical World.",
+      heading: "Reach new customers with Geopolitical World",
       list: [
         {
           title: "32.3%",
