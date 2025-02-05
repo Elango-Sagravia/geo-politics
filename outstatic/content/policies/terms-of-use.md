@@ -9,7 +9,7 @@ description: ''
 coverImage: ''
 seoTitle: 'Terms of Use - Geopolitics Summary'
 seoDescription: 'Review the terms and conditions for using Geopolitics Summary. Understand our guidelines and policies for a seamless user experience.'
-publishedAt: '2024-08-20T13:50:25.000Z'
+publishedAt: '2025-02-05T13:50:25.000Z'
 ---
 
 Welcome to Geopolitics World ("Website"), a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). By accessing or using the Website, you agree to comply with and be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the Website.
