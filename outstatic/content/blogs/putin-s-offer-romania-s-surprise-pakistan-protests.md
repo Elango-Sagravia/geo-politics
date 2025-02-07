@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: ''
 footerBannerTitle: ''
 cutOff: '9'
@@ -18,7 +22,7 @@ publishedAt: '2024-11-26T12:29:54.930Z'
 
 ### Putin’s offer
 
-![](/images/flighting-in-ukraine-is-now-at-day-105-QxND.jpg)
+![Fighting in Ukraine reaches day 105](/images/flighting-in-ukraine-is-now-at-day-105-QxND.jpg)
 
 Russian President Vladimir Putin has [signed](https://www.dw.com/en/russia-offers-debt-relief-to-recruits-for-ukraine-war/a-70868761) a law allowing debt forgiveness for recruits who sign one-year contracts to fight in Ukraine. Eligible recruits with debts of up to 10 million roubles (€92,000, $95,835) and debt collection proceedings initiated before December 1 can benefit, though the law excludes those already enlisted. Recently, he had a similar law that allowed those enlisting to avoid [criminal charges](https://www.rferl.org/a/russia-law-defendants-pressure-join-military/33144788.html).
 
@@ -46,7 +50,7 @@ Khan’s Pakistan Tehreek-e-Insaf (PTI) party led the march, with his wife, Bush
 
 ### FOUNDATIONS
 
-**Which countries have nuclear weapons?** 
+**Which countries have nuclear weapons?**
 
 ![](/images/countries-that-have-nuclear-weapons-Q0NT.webp)
 
