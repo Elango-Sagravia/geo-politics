@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '10'
 latest: 'true'
 relatedArticles: ''
@@ -34,9 +40,9 @@ This ongoing dispute has escalated tensions between the two countries, resulting
 
 ### Hungary-Russia ties
 
-Hungarian Foreign Minister Peter Szijjarto will attend the [Minsk Conference on Eurasian Security](https://www.politico.eu/article/hungary-peter-szijjarto-join-russia-syria-belarus-security-summit/), joining Russian Foreign Minister Sergey Lavrov and Syrian Foreign Minister Bassam Sabbagh. The conference, promoted by the Russia-aligned CSTO, is positioned as an alternative to the [Munich Security Conference](https://securityconference.org/en/about-us/about-the-msc/) and reflects Hungary’s deepening ties with Russia and Belarus. 
+Hungarian Foreign Minister Peter Szijjarto will attend the [Minsk Conference on Eurasian Security](https://www.politico.eu/article/hungary-peter-szijjarto-join-russia-syria-belarus-security-summit/), joining Russian Foreign Minister Sergey Lavrov and Syrian Foreign Minister Bassam Sabbagh. The conference, promoted by the Russia-aligned CSTO, is positioned as an alternative to the [Munich Security Conference](https://securityconference.org/en/about-us/about-the-msc/) and reflects Hungary’s deepening ties with Russia and Belarus.
 
-Szijjarto’s participation highlights Hungary’s divergent stance within NATO, especially its ongoing cooperation with Moscow on energy and diplomatic fronts. Hungary has also been under scrutiny this week regarding Hungarian-Russian relations as PM Victor Orban made a visit to Tbilisi after the [controversial election](https://www.tbsnews.net/worldbiz/europe/georgias-election-fears-war-russia-overshadow-eu-hopes-voters-980011) to congregate the Pro Russia Georgian Dream party and received massive boos [(watch video) ](https://www.youtube.com/watch?v=FdZktmTCDEc)from protestors. 
+Szijjarto’s participation highlights Hungary’s divergent stance within NATO, especially its ongoing cooperation with Moscow on energy and diplomatic fronts. Hungary has also been under scrutiny this week regarding Hungarian-Russian relations as PM Victor Orban made a visit to Tbilisi after the [controversial election](https://www.tbsnews.net/worldbiz/europe/georgias-election-fears-war-russia-overshadow-eu-hopes-voters-980011) to congregate the Pro Russia Georgian Dream party and received massive boos [(watch video) ](https://www.youtube.com/watch?v=FdZktmTCDEc)from protestors.
 
 **🇺🇦 Ukraine:** Ukrainian President Volodymyr Zelensky arrived in [Iceland](https://www.dw.com/en/ukraine-updates-zelenskyy-meets-with-nordic-leaders/live-70624676) for the fourth Ukraine-Northern Europe Summit, marking his first official visit. He met with the prime ministers of Iceland, Denmark, Sweden, Norway, and Finland to discuss support for [Ukraine’s five-step victory plan](https://www.politico.eu/article/volodymyr-zelenskyy-presents-his-victory-plan-to-ukraine-parliament-war-vladimir-putin/), including financing for weapons production and enhancing maritime security. Zelensky met with Icelandic parliamentary leaders and participated in a session of the [Nordic Council](https://www.norden.org/en/news/volodymyr-zelenskyy-address-session-nordic-council), building on his previous attendance at the summit in Stockholm in May.
 
@@ -46,7 +52,7 @@ Szijjarto’s participation highlights Hungary’s divergent stance within NATO,
 
 **What is the difference between an expat and an immigrant?**
 
-![Passport placed on a map](/images/what-is-the-difference-between-an--expat--and---immigrant--Y3OD.webp)
+![The difference between an expat and an immigrant](/images/what-is-the-difference-between-an--expat--and---immigrant--Y3OD.webp)
 
 The “expat” and “immigrant” are often used interchangeably but have distinct connotations. Expat (Expatriate) typically refers to someone living temporarily or semi-permanently in a foreign country, often due to work or lifestyle choices. “Expat” often implies an intention to return to their home country eventually. An Immigrant moves to another country intending to settle there permanently, often seeking long-term residency or citizenship.
 
