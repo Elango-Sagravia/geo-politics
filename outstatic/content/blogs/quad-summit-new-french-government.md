@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
@@ -18,7 +24,7 @@ publishedAt: '2024-09-23T12:16:53.584Z'
 
 At the Quad summit in Wilmington, Delaware, President Joe Biden made notable remarks about China’s military activities, stating that Beijing is "testing us" in areas like the South China Sea and Taiwan Strait. His comments followed opening statements from Australian, Indian, and Japanese Prime Ministers, underscoring the growing significance of the Quad in regional security.
 
-![Biden Hosts the Quad Summit](/images/biden-hosts-the-quad-summit-g3MD.webp)
+![Biden hosts the QUAD Summit for strategic discussions](/images/biden-hosts-the-quad-summit-g3MD.webp)
 
 While the joint statement from the summit did not directly mention China, it expressed strong opposition to destabilizing actions and condemned recent missile launches in the region. Biden emphasized the Quad's enduring presence, stating, "The Quad is here to stay," despite upcoming political changes in the U.S.
 
