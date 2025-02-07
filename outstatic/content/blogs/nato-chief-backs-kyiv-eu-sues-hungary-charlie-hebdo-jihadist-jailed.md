@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: 'kashmir-elections'
@@ -50,7 +56,7 @@ Fico’s comments come amid concerns about Ukraine’s potential non-renewal of 
 
 **German Reunification**
 
-![German Reunification](/images/_what-has-germany-achieved-since-unification-kyND.webp)
+![Germany’s achievements since reunification](/images/_what-has-germany-achieved-since-unification-kyND.webp)
 
 The [reunification of Germany](https://www.usip.org/publications/2021/02/german-reunification-it-was-nothing-short-miracle), finalized on October 3, 1990, was a monumental event rooted in decades of division following World War II. After the war, Germany was split into East and West, reflecting broader geopolitical tensions during the Cold War. East Germany, a socialist state backed by the Soviet Union, faced economic struggles and political repression, leading to civil unrest and mass protests in 1989.
 
