@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ After months of endless news headlines, [election day](https://www.aljazeera.com
 
 ### Israeli warship crosses Suez
 
-![Israeli warship crosses Suez](/images/israel-warship-travels-through-egypt-s-suez-canal-k2Nz.webp)
+![Israeli warship traveling through Egypt’s Suez Canal](/images/israel-warship-travels-through-egypt-s-suez-canal-k2Nz.webp)
 
 The Suez Canal Authority recently [confirmed](https://www.ndtv.com/world-news/israel-warship-passes-through-suez-canal-egypt-clarifies-6939399) that all vessels, including military and commercial ships, can navigate the canal freely, regardless of their nationality, which is in line with the [Constantinople Convention](https://www.britannica.com/topic/Constantinople-Convention) of 1888, which mandates unrestricted passage through the Suez Canal. This statement was in response to [public outrage](https://www.aljazeera.com/program/newsfeed/2024/11/3/outrage-over-israeli-warship-passing-through-the-suez-canal) over an Israeli warship transiting the waterway, with the [SCA](https://www.suezcanal.gov.eg/English/Pages/default.aspx) clarifying that the vessel complied with protocol by flying both Israeli and Egyptian flags.
 
