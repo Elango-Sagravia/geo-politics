@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: 'biden-supports-taiwan-hezbollah-vows-to-fight'
@@ -16,7 +22,7 @@ publishedAt: '2024-11-06T12:40:44.090Z'
 
 ### Indonesia - Russia ties
 
-![Indonesia’s joint naval drills with Russia under President Prabowo Subianto](/images/indonesia-and-russia-naval-drills-I5Mj.webp)
+![Indonesia and Russia conduct joint naval drills](/images/indonesia-and-russia-naval-drills-I5Mj.webp)
 
 Indonesia’s [joint naval drills](https://www.dw.com/en/indonesia-and-russia-hold-first-joint-naval-exercises/a-70684385) with Russia mark a significant step under President [Prabowo Subianto](https://www.dw.com/en/indonesia-ex-general-prabowo-subianto-sworn-in-as-president/a-70544838), who seeks to deepen defense ties with Moscow while upholding Indonesia’s long-standing[ non-aligned foreign policy](https://moderndiplomacy.eu/2024/06/29/indonesias-non-aligned-foreign-policy-limitation-or-opportunity/). Despite Western tensions over Russia’s actions in Ukraine, Prabowo’s administration is reviving trade and defense agreements, including a $1.1 billion fighter jet [deal](https://tass.com/economy/1129571), initially hindered by possible U.S. sanctions.
 
