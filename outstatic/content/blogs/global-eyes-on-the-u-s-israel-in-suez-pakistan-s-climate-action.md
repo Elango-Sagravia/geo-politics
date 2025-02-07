@@ -50,7 +50,7 @@ Winter [air pollution](https://www.iqair.com/pakistan/punjab/lahore) spikes due 
 
 **What is the status of Puerto Rico to the United States?**
 
-![Puerto Rico’s political status debate over statehood, independence, and U.S. territory rights](/images/puerto-rico-ExND.webp)
+![Puerto Rico’s geopolitical significance](/images/puerto-rico-ExND.webp)
 
 Puerto Rico is an unincorporated territory of the United States, which means it is governed by U.S. federal law but does not have the full rights of a state. Although Puerto Ricans are U.S. citizens, they cannot [vote](https://thehill.com/homenews/4960708-heres-why-millions-of-americans-in-puerto-rico-other-territories-cant-vote-for-president/) in U.S. presidential elections and do not have voting representation in Congress. However, they can vote if they reside in another part of the United States.
 
