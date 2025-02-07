@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '3'
 latest: 'true'
 relatedArticles: ''
@@ -57,6 +63,6 @@ The first resident crew arrived at the International Space Station, marking the 
 
 Donald Trump was posing at the drive-through of a McDonald’s restaurant during his campaign in Pennsylvania.
 
-![Donald Trump poses at a McDonald's drive-through during his Pennsylvania campaign stop](/images/trump-geopolitics-QwND.webp)
+![Donald Trump and his political influence](/images/trump-geopolitics-QwND.webp)
 
 Photo by Win McNamee/Getty Images.
