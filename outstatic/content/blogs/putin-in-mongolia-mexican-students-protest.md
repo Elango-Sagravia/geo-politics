@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
@@ -19,7 +25,7 @@ Vladimir Putin plans to [visit Mongolia](https://www.politico.eu/article/vladimi
 
 ### Mexican students join protests
 
-![Mexican students](/images/mexican-students-protest--judicial-system-overhaul--something-with-the-arbitrary-appointment-of-judges-a-U4ND.webp)
+![Mexican students protest judicial system overhaul](/images/mexican-students-protest--judicial-system-overhaul--something-with-the-arbitrary-appointment-of-judges-a-U4ND.webp)
 
 Mexican [students are protesting](https://www.dw.com/en/mexico-students-protest-planned-judicial-overhaul/a-70107162) the recent judicial reforms made by the president, who is scheduled to leave soon, but the incoming president also supports this decision. The judicial reform involves electing judges by popular vote instead of appointing them. This has made people worry that it could be abused and some less qualified judges can be elected. Supporters say it will do a better job in dealing with high crime. The US and Canada have expressed their distaste for this as well. It has put a strain on North American relations for the time being. Mexico’s legislative branch will vote on it this week.
 
