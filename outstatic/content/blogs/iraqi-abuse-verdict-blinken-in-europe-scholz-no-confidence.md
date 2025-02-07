@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: ''
 footerBannerTitle: ''
 cutOff: '9'
@@ -18,7 +22,7 @@ publishedAt: '2024-11-14T12:45:50.655Z'
 
 ### Iraq abuse verdict
 
-![U.S. jury awards $42 million to three Iraqi men abused at Abu Ghraib](/images/iraqi-men-were-awarded-42-million-in-damages-for-injuries-AwNT.webp)
+![Iraqi men awarded $42 million in damages for injuries](/images/iraqi-men-were-awarded-42-million-in-damages-for-injuries-AwNT.webp)
 
 A U.S. jury has awarded [$42 million](https://www.middleeasteye.net/news/jury-awards-42mn-abu-ghraib-survivors-us-contractor-held-liable-torture) to three Iraqi men who were formerly detained and abused at [Abu Ghraib prison](https://edition.cnn.com/2013/10/30/world/meast/iraq-prison-abuse-scandal-fast-facts/index.html). This landmark decision marks the first time a private contractor, CACI International, has been held accountable for its role in the abuse that occurred during the [U.S. occupation of Iraq](https://www.bbc.com/news/world-64980565) from 2003 to 2004. The plaintiffs, Suhail al-Shimari, Salah al-Ejaili, and Asa’ad Zuba’e, all suffered severe mistreatment at the prison, including sexual abuse, beatings, and forced nudity.
 
