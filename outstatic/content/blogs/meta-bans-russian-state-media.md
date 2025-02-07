@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: 'turkey-seeks-brics'
@@ -52,7 +58,7 @@ While beauty pageants are supposed to be apolitical and seen as separate from co
 
 **Why do Russia And Ukraine both want Crimea?**
 
-![Map showing Crimea's strategic location and significance to Russia and Ukraine](/images/why-do-russia-and-ukraine-have-a-conflict-over-crimea--E2Nj.webp)
+![Russia and Ukraine conflict over Crimea](/images/why-do-russia-and-ukraine-have-a-conflict-over-crimea--E2Nj.webp)
 
 Both Russia and Ukraine want Crimea for almost the same motivations. They want control of Crimea due to its strategic, historical, and economic importance. Crimea, located on the Black Sea, provides access to key shipping routes and military advantage, particularly for Russia, which has a significant naval base in Sevastopol. This peninsula gives regional influence and the ability to project power.
 
