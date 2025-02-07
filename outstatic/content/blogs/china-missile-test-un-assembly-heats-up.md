@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
@@ -50,7 +56,7 @@ The situation has sparked criticism from both sides of the political spectrum. B
 
 **What is ETTIAS?**
 
-![ETIAS (European Travel Information and Authorization System)](/images/what-is-etias--I2Nj.webp)
+![What is ETIAS? Europe’s new travel authorization system](/images/what-is-etias--I2Nj.webp)
 
 [ETIAS (European Travel Information and Authorization System)](https://travel-europe.europa.eu/etias/what-etias_en) is a visa-waiver program implemented by the European Union. It requires non-EU citizens from visa-exempt countries, such as the United States, Canada, and Australia, to obtain travel authorization before entering the Schengen Area, which comprises most EU countries. ETIAS is designed to enhance security by pre-screening travelers for security, health, and immigration risks before they enter Europe.
 
