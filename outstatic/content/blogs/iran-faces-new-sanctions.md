@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ In addition, this discovery might allow Ukraine to use long-range missiles. Curr
 
 ### Ukrainian Drones Affecting Moscow More Heavily
 
-![Ukrainian Drones Affecting Moscow](/images/ukrainian-drones-in-moscow-are-interrupting-the-airport--2---1--g1Nz.webp)
+![Ukrainian drone strikes disrupting Moscow airports](/images/ukrainian-drones-in-moscow-are-interrupting-the-airport--2---1--g1Nz.webp)
 
 Ukraine had its most significant drone attack so far in Moscow this week, killing at least one and sabotaging dozens of homes, and [forcing flights](https://www.reuters.com/world/europe/russia-destroys-ukraine-launched-drone-flying-towards-moscow-mayor-says-2024-09-09/) to be diverted from airports around Moscow. Ukraine has been seeing more victories from within Russia. It’s launching drone strikes in the capital and has taken a significant piece of territory around Kursk.
 
