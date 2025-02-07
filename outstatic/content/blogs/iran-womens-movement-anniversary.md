@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
@@ -52,7 +58,7 @@ Mali, Burkina Faso, and Niger, all now governed by military juntas, plan to intr
 
 **What is the European Commission?**
 
-![European Commission](/images/what-does-the-eu-commission-do--IyOD.webp)
+![What does the EU Commission do?](/images/what-does-the-eu-commission-do--IyOD.webp)
 
 The [European Commission](https://commission.europa.eu/index_en) is the executive branch of the [European Union (EU)](https://european-union.europa.eu/principles-countries-history/eu-countries_en), responsible for proposing laws, enforcing EU treaties, managing the EU’s budget, and representing the EU internationally. Composed of 27 commissioners, one from each member state, the Commission operates independently of national governments. Its president, currently Ursula von der Leyen, leads the organization.
 
