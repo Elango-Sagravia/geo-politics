@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
@@ -15,7 +21,7 @@ publishedAt: '2024-08-26T16:30:47.000Z'
 
 ### North Korea tests out new drones
 
-![](/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-gyMz.jpg)
+![North Korea tests drones, Pakistan separatists kill 31](/images/27th-aug--north-korea-tests-drones--no-ceasefire--separatists-in-pakistan-kill-31-gyMz.jpg)
 
 Last weekend, North Korea tested out a series of new [drones, ](https://apnews.com/article/korea-kim-jong-un-suicide-drones-922a06354df8d10cb778e503632fe9f2)one of which has been coined as a suicide drone. Photos show a white drone with X-shaped tails and wings supposedly crashing into and destroying a target that resembles South Korea’s main battle tank. These tests followed the US and South Korean Ulchi freedom drills last week. The U.S. and South Korea have joint drills each summer to prepare for a future North Korean attack. Kim Jong Un also says he is planning for one to react underwater. Usually, North Korea reacts similarly yearly to the joint South Korean and US military exercises, so this isn’t new.
 
