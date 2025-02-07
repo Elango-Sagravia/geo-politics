@@ -22,7 +22,7 @@ publishedAt: '2024-10-05T12:59:51.882Z'
 
 ### Rutte Affirms NATO Support in Kyiv
 
-![Rutte Affirms NATO Support in Kyiv](/images/nato-chief-mark-rutte-reaffirms-support-for-ukraine-in-kyiv-trip-Q4ND.webp)
+![NATO chief Mark Rutte reaffirms support for Ukraine in Kyiv](/images/nato-chief-mark-rutte-reaffirms-support-for-ukraine-in-kyiv-trip-Q4ND.webp)
 
 NATO’s new Secretary-General, Mark Rutte, visited Kyiv to show strong support for Ukraine and stress NATO’s commitment to helping Ukraine win against Russia. While Rutte pledged ongoing backing, President Zelensky voiced [frustration over delays](https://kyivindependent.com/zelensky-western-allies-take-key-decisions-on-military-support-for-ukraine-too-long/) in Western military aid, especially long-range weapons, and called on NATO to do more to defend against Russian missiles and drones.
 
