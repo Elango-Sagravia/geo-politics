@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: 'meta-bans-russian-state-media'
@@ -52,7 +58,7 @@ The situation in Russia and Ukraine continues to be heated. Each day, both sides
 
 **Passport power: Which country has the strongest passport?**
 
-![Singapore holds the most powerful passport globally, according to the Henley Passport Index](/images/what-is-the-most-powerful-passport--Q0MT.webp)
+![What is the most powerful passport in the world?](/images/what-is-the-most-powerful-passport--Q0MT.webp)
 
 According to the [Henley Passport Index](https://www.henleyglobal.com/passport-index/ranking), Singapore's passport is currently the most powerful. Singaporeans have access to 195 countries. The second most powerful passport is a five-way tie shared between Germany, France, Italy, Japan, and Spain. There are more ties for second place because China has recently allowed a handful of European countries to visit visa-free for 15 days until the end of 2025.
 
