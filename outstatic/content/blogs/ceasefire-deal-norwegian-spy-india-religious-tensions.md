@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: ''
 footerBannerTitle: ''
 cutOff: '9'
@@ -38,15 +42,15 @@ Clashes in Sambhal, Uttar Pradesh, reveal the [rising tensions](https://www.dw.c
 
 Protesters who opposed the survey violently clashed with police, leading to four deaths. In response, authorities imposed curfews, banned gatherings, and shut down internet services to restore order. This incident highlights the increasing religious division in India. Critics say that the ruling party’s actions support claims that question the historical existence of mosques, worsening communal divides. The situation shows the delicate balance of secularism in India’s democracy and raises concerns about the growing marginalization of minority communities amid a rise in religious and political majoritarianism.
 
-**🇺🇸 Mexico/Canada/China:** US President-elect Donald Trump’s plan to impose 25% tariffs on Mexico and Canada and 10% on China has [triggered strong opposition](https://www.bbc.com/news/articles/cj6kj2752jlo) from all three countries. Mexico’s President Sheinbaum warned of retaliatory tariffs, stressing that such measures wouldn’t fix migration or drug issues. Canadian Prime Minister Trudeau expressed concerns about the economic damage and vowed to respond if necessary. China rebuffed claims that it facilitated illegal drug trade and defended the mutually beneficial trade relationship: the proposed tariffs risk escalating trade, potentially damaging industries and economies in all four countries. 
+**🇺🇸 Mexico/Canada/China:** US President-elect Donald Trump’s plan to impose 25% tariffs on Mexico and Canada and 10% on China has [triggered strong opposition](https://www.bbc.com/news/articles/cj6kj2752jlo) from all three countries. Mexico’s President Sheinbaum warned of retaliatory tariffs, stressing that such measures wouldn’t fix migration or drug issues. Canadian Prime Minister Trudeau expressed concerns about the economic damage and vowed to respond if necessary. China rebuffed claims that it facilitated illegal drug trade and defended the mutually beneficial trade relationship: the proposed tariffs risk escalating trade, potentially damaging industries and economies in all four countries.
 
-**🇷🇺 Russia:** A Russian court has ordered the [arrest](https://www.france24.com/en/europe/20241126-russian-court-orders-arrest-of-france-24-journalist-who-reported-from-kursk) of FRANCE 24 senior reporter Catherine Norris Trent, accusing her of illegally crossing into the Kursk region from Ukraine. The charge stems from her reporting on the Ukrainian army’s summer incursion into Russian territory. The court’s decision follows a broader crackdown on Western journalists, including those from CNN, RAI, and Deutsche Welle, who were embedded with Ukrainian forces in Kursk. Russia has initiated criminal proceedings against these reporters in absentia, warning that they will be arrested if they enter the country.**
+**🇷🇺 Russia:** A Russian court has ordered the [arrest](https://www.france24.com/en/europe/20241126-russian-court-orders-arrest-of-france-24-journalist-who-reported-from-kursk) of FRANCE 24 senior reporter Catherine Norris Trent, accusing her of illegally crossing into the Kursk region from Ukraine. The charge stems from her reporting on the Ukrainian army’s summer incursion into Russian territory. The court’s decision follows a broader crackdown on Western journalists, including those from CNN, RAI, and Deutsche Welle, who were embedded with Ukrainian forces in Kursk. Russia has initiated criminal proceedings against these reporters in absentia, warning that they will be arrested if they enter the country.\*\*
 
 ### FOUNDATIONS
 
 **What is the heartland theory?**
 
-![](/images/what-is-the-heartland-theory_-UxMD.webp)
+![What is the Heartland Theory in geopolitics?](/images/what-is-the-heartland-theory_-UxMD.webp)
 
 British geographer Halford Mackinder coined the [Heartland Theory](https://thegeographyteacher.com/mackinders-heartland-theory/) in the early 20th century. The theory argues that the key to global dominance lay in controlling the central region of Eurasia, which he called the “Heartland.” This area, which covered Eastern Europe, Russia, and parts of Central Asia, was seen as strategically vital due to its size, resources, and location. Mackinder’s famous quote was, “Who rules East Europe commands the Heartland; Who rules the Heartland commands the World-Island; Who rules the World-Island commands the World.”
 
