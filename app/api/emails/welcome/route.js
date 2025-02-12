@@ -21,7 +21,7 @@ let transporter = nodemailer.createTransport({
 // Function to send an email
 async function sendEmail(email, slug, uniqueId) {
   let mailOptions = {
-    from: '"Geopolitical Summary" <no-reply@mail.geopoliticalsummary.com>', // Sender email address
+    from: '"Geopolitical Summary" <no-reply@newsletter.geopoliticalsummary.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
     subject: "Welcome to Geopolitical Summary",
