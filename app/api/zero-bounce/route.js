@@ -12,8 +12,8 @@ export async function POST(request) {
 
     // Extract IP address
     const forwardedFor = request.headers.get("x-forwarded-for");
-    // const ip = forwardedFor ? forwardedFor.split(",")[0].trim() : "";
-    const ip = "103.110.238.29";
+    const ip = forwardedFor ? forwardedFor.split(",")[0].trim() : "";
+    // const ip = "103.110.238.29";
 
     console.log("Client IP:", ip);
 
