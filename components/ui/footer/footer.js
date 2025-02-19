@@ -49,9 +49,7 @@ export default function Footer() {
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.threads.net/@geopoliticalsummary">Threads</Link>
               </li>
-              <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.reddit.com/user/GeopoliticsWorld/">Reddit</Link>
-              </li>
+             
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticalsummary/">LinkedIn</Link>
               </li>
@@ -95,9 +93,6 @@ export default function Footer() {
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.threads.net/@geopoliticalsummary">Threads</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.reddit.com/user/GeopoliticsWorld/">Reddit</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.linkedin.com/showcase/geopoliticalsummary/">LinkedIn</Link>
