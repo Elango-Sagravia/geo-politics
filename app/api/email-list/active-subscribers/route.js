@@ -1,3 +1,6 @@
+export const runtime = "nodejs"; // ✅ Fix for Next.js build error
+export const dynamic = "force-dynamic";
+
 import { query } from "@/lib/db";
 
 export async function GET(request) {
@@ -97,5 +100,3 @@ export async function GET(request) {
     });
   }
 }
-
-export const config = { runtime: "nodejs", revalidate: 0 };
