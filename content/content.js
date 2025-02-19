@@ -46,8 +46,8 @@ const content = {
         {
           title: "Advertise with us",
           type: "email",
-          href: "contact@geopolitics.world",
-          content: "contact@geopolitics.world",
+          href: "contact@geopoliticalsummary.com",
+          content: "contact@geopoliticalsummary.com",
         },
       ],
     },
@@ -64,7 +64,7 @@ const content = {
         {
           title: "General Inquiries",
           type: "email",
-          href: "contact@geopolitics.world",
+          href: "contact@geopoliticalsummary.com",
           content: "contact@geopolitics.world",
         },
         {
