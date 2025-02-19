@@ -97,3 +97,5 @@ export async function GET(request) {
     });
   }
 }
+
+export const config = { runtime: "nodejs", revalidate: 0 };
