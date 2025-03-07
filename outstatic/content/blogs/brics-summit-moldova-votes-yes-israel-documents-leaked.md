@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Key takeaways from the BRICS Summit, Moldova’s latest geopolitical decision, and the implications of leaked Israeli documents.'
+metaTitle: 'BRICS Summit, Moldova Votes Yes, Israel Documents Leaked'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 latest: 'true'
 relatedArticles: 'poverty-affects-billion-hamas-leader-killed-moldova-to-eu'
