@@ -41,10 +41,16 @@ export async function generateMetadata({ params }) {
   const { slug } = params;
 
   // Fetch metadata for the slug
-  const post = getDocumentBySlug("articles", params.slug, ["slug"]);
+  const post = await getDocumentBySlug("articles", params.slug, [
+    "slug",
+    "title",
+    "description",
+  ]);
   return {
+    title: post.title || "",
+    description: post.description || "",
     alternates: {
-      canonical: `https://www.geopoliticalsummary.com/articles/${slug}`,
+      canonical: `https://www.presidentialsummary.com/articles/${slug}`,
     },
   };
 }
@@ -82,7 +88,7 @@ export default async function Home({ params }) {
   return (
     <>
       <section
-         className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-40 pb-16 md:pt-44 max-w-7xl `}
+        className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-40 pb-16 md:pt-44 max-w-7xl `}
       >
         <BlogInfo date={blog.publishedAt} read_time={blog.readTime} />
         <BlogTitle title={blog.title} />
