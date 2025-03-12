@@ -414,7 +414,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.geopoliticalsummary.com/verified?uniqueid=%unique-id%" 
+              href="https://www.geopoliticalsummary.com/verified?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" 
               target="_blank"
              >Verify</a></div>
     
@@ -1264,7 +1264,7 @@ export const emailContent = `<!doctype html>
               font-size:12px;
               line-height: 2;
             ">
-            <a href="https://www.geopoliticalsummary.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+            <a href="https://www.geopoliticalsummary.com/unsubscribe?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
               margin-top:35px;
