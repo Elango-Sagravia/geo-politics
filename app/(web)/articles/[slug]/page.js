@@ -50,7 +50,7 @@ export async function generateMetadata({ params }) {
     title: post.title || "",
     description: post.description || "",
     alternates: {
-      canonical: `https://www.presidentialsummary.com/articles/${slug}`,
+      canonical: `https://www.geopoliticalsummary.com/articles/${slug}`,
     },
   };
 }
