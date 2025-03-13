@@ -17,7 +17,7 @@ author:
   picture: ''
 status: 'published'
 title: 'Mar 8: How can a French nuclear shield work? '
-publishedAt: '2025-03-09T10:39:11.996Z'
+publishedAt: '2025-03-08T10:39:11.000Z'
 ---
 
 nothing
