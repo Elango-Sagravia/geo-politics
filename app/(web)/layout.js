@@ -68,6 +68,31 @@ const jsonLd = {
   ],
 };
 
+const reviewJsonLd = {
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  itemReviewed: {
+    "@type": "Organization",
+    name: "Newsletters",
+  },
+  reviewRating: {
+    "@type": "Rating",
+    ratingValue: "4.9",
+  },
+  reviewBody:
+    "A concise, fact-checked daily newsletter delivering the most impactful geopolitical and international relations stories, favored by diplomats.",
+  author: {
+    "@type": "Person",
+    name: "Geopolitical Summary",
+  },
+  publisher: {
+    "@type": "Organization",
+    name: "Geopolitical Summary",
+  },
+  name: "Geopolitical Summary Newsletters",
+  datePublished: "2024-09-17",
+};
+
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
@@ -81,6 +106,13 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(jsonLd),
+          }}
+        />
+        <Script
+          id="review-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(reviewJsonLd),
           }}
         />
         {/* Microsoft Clarity Script */}
