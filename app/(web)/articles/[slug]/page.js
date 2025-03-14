@@ -52,6 +52,21 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `https://www.geopoliticalsummary.com/articles/${slug}`,
     },
+    metadataBase: new URL(process.env.url),
+    themeColor: "#06276f",
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      url: process.env.url,
+      images: [
+        {
+          url: post.coverImage,
+          secureUrl: post.coverImage,
+          alt: "Geopolitical Summary",
+        },
+      ],
+      type: "article",
+    },
   };
 }
 export async function generateStaticParams() {

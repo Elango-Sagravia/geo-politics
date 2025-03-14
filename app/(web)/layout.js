@@ -38,7 +38,7 @@ export async function generateMetadata() {
         {
           url: thumbnail,
           secureUrl: thumbnail,
-          alt: "Geopolitics Summary",
+          alt: "Geopolitical Summary",
         },
       ],
       type: "website",
