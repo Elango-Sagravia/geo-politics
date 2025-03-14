@@ -45,6 +45,7 @@ export async function generateMetadata({ params }) {
     "slug",
     "title",
     "description",
+    "coverImage",
   ]);
   return {
     title: post.title || "",
