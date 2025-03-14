@@ -34,7 +34,7 @@ export async function GET(request) {
         FROM (
           SELECT * FROM opened_email_users
           UNION ALL
-          SELECT * FROM last_7_days_subscribers
+          SELECT * FROM last_5_days_subscribers
         ) all_users
       ),
       filtered_users AS (
