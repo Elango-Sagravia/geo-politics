@@ -44,7 +44,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
           <div
             className="archive"
             dangerouslySetInnerHTML={{
-              __html: blog.emailHtml
+              __html: blog.emailHtmlPreview
                 .replaceAll("<a", `<a target="_blank"`)
                 .replaceAll(
                   `class="sec-ad-link"`,
