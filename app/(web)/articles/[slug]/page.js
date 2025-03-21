@@ -46,18 +46,20 @@ export async function generateMetadata({ params }) {
     "title",
     "description",
     "coverImage",
+    "metaTitle",
+    "metaDescription",
   ]);
   return {
-    title: post.title || "",
-    description: post.description || "",
+    title: post.metaTitle || "",
+    description: post.metaDescription || "",
     alternates: {
       canonical: `https://www.geopoliticalsummary.com/articles/${slug}`,
     },
     metadataBase: new URL(process.env.url),
     themeColor: "#06276f",
     openGraph: {
-      title: post.title,
-      description: post.description,
+      title: post.metaTitle,
+      description: post.metaDescription,
       url: process.env.url,
       images: [
         {
