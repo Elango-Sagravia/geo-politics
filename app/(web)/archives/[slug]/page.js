@@ -26,6 +26,7 @@ async function getData(params) {
     "emailHtmlPreview",
   ]);
   if (!post) {
+    console.log("post", post);
     notFound();
   }
   console.log("post in slug", post);
@@ -57,21 +58,21 @@ export async function generateMetadata({ params }) {
     "coverImage",
   ]);
   return {
-    title: post.metaTitle,
-    description: post.metaDescription,
+    title: post?.metaTitle || "",
+    description: post?.metaDescription || "",
     alternates: {
       canonical: `https://www.geopoliticalsummary.com/archives/${slug}`,
     },
     metadataBase: new URL(process.env.url),
     themeColor: "#06276f",
     openGraph: {
-      title: post.metaTitle,
-      description: post.metaDescription,
+      title: post?.metaTitle || "",
+      description: post?.metaDescription || "",
       url: process.env.url,
       images: [
         {
-          url: post.coverImage,
-          secureUrl: post.coverImage,
+          url: post?.coverImage || "",
+          secureUrl: post?.coverImage || "",
           alt: "Geopolitical Summary",
         },
       ],
