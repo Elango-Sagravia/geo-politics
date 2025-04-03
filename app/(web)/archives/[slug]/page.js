@@ -1,5 +1,5 @@
 import SingleBlog from "@/components/ui/singleBlog/singleBlog";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import {
   getDocumentBySlug,
   getDocuments,
@@ -26,8 +26,8 @@ async function getData(params) {
     "emailHtmlPreview",
   ]);
   if (!post) {
-    console.log("post", post);
-    notFound();
+    // notFound();
+    redirect("/archives");
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
