@@ -3,13 +3,18 @@ import AdvertiseHero from "@/components/ui/advertiseHero/advertiseHero";
 import AdvertiseQuestion from "@/components/ui/advertiseQuestion/advertiseQuestion";
 import AdvertiseStatus from "@/components/ui/advertiseStatus/advertiseStatus";
 
-
+const title = "Advertise with Geopolitical Summary";
+const description =
+  "Promote your brand through Geopolitical Summary newsletter. Reach an informed, international audience with targeted advertising.";
 export const metadata = {
-  title: "Advertise with Geopolitics Summary - Reach Influencers",
-  description:
-    "Promote your brand with Geopolitics Summary newsletters. Connect with diplomats and informed readers for effective and impactful advertising.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.geopoliticalsummary.com/advertise",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 

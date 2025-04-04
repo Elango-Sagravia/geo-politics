@@ -5,14 +5,18 @@ import blogs from "@/blogs";
 
 import { getDocuments } from "outstatic/server";
 
-
-
+const title = "Geopolitical Summary Archives - Past Editions";
+const description =
+  "Access past editions of Geopolitical Summary. Browse the archives for fact-checked insights on global politics and international affairs.";
 export const metadata = {
-  title: "Geopolitics Archives - Explore Past Newsletters",
-  description:
-    "Browse the Geopolitics Summary archives to access past newsletters. Dive into reliable, fact-checked geopolitical insights anytime.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.geopoliticalsummary.com/archives",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 

@@ -51,6 +51,10 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `https://www.geopoliticalsummary.com/policy/${slug}`,
     },
+    openGraph: {
+      title: post.seoTitle,
+      description: post.seoDescription,
+    },
   };
 }
 

@@ -20,10 +20,11 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "Geopolitical Summary - Fact-Checked News for Diplomats";
+  const title =
+    "Geopolitical Summary - Understand the WHY behind current events";
 
   const description =
-    "Stay informed with fact-checked newsletters from Geopolitical Summary. Trusted by diplomats and readers Summarywide for accurate geopolitical insights.";
+    "Get fact-checked news and analysis on global politics with Geopolitical Summary. Trusted by diplomats and readers worldwide.";
 
   return {
     metadataBase: new URL(process.env.url),

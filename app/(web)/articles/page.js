@@ -41,14 +41,21 @@ function truncateDescription(description, slug) {
   );
 }
 
+const title = "Geopolitical Summary Articles - Global Insights & Analysis";
+const description =
+  "Read expert articles on global politics, conflict zones, and international strategy. In-depth, fact-checked analysis of the world’s power dynamics.";
 export const metadata = {
-  title: "Geopolitical Summary Articles - Global Affairs & Insights",
-  description:
-    "Stay informed with expert analysis on global politics, international relations, and major geopolitical events shaping the world today.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.geopoliticalsummary.com/articles",
   },
+  openGraph: {
+    title,
+    description,
+  },
 };
+
 export default async function blogs() {
   const blogs = await getData();
   return (

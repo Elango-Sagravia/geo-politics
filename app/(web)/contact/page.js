@@ -4,14 +4,18 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
-
-
+const title = "Contact Geopolitical Summary - Reach Our Team";
+const description =
+  "Have questions or need assistance? Contact Geopolitical Summary for support, partnerships, or media inquiries.";
 export const metadata = {
-  title: "Contact Geopolitics Summary - Get in Touch",
-  description:
-    "Have a question or need assistance? Contact Geopolitics Summary for prompt support regarding our newsletters or services.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.geopoliticalsummary.com/contact",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 export default function Contact() {
