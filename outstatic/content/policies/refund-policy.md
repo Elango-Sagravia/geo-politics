@@ -7,8 +7,8 @@ author:
 slug: 'refund-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Refund Policy - Geopolitics Summary'
-seoDescription: 'Learn about Geopolitics Summary''s refund policy for newsletter subscriptions. We ensure a transparent and hassle-free process for our subscribers.'
+seoTitle: 'Refund Policy - Geopolitical Summary'
+seoDescription: 'Read Geopolitical Summary’s refund policy for newsletter advertisers. Clear and transparent.'
 publishedAt: '2024-08-20T14:24:44.000Z'
 ---
 
