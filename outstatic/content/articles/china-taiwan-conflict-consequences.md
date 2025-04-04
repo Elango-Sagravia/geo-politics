@@ -16,7 +16,7 @@ publishedAt: '2025-03-27T08:01:34.680Z'
 
 ![Protests erupted during Nancy Pelosi’s expected visit to Taipei](/images/nancy-pelosi-taipei-visit-protests-erupt-c5OD.png)
 
-*Protests erupted during Nancy Pelosi’s expected visit to Taipei. Credits: Reuters*
+*source-Protests erupted during Nancy Pelosi’s expected visit to Taipei. Credits: Reuters*
 
 The CCP, the national party of China, has long claimed Taiwan as part of its administration. They identify the island as its “core” national interest, an inherent part of China. The CCP campaigned in 2021 to “reunify” mainland China with the island.
 
@@ -30,7 +30,7 @@ The conflict is regional but will have major global ramifications. It will impac
 
 ![](/images/taiwan-top-export-partners-U2OT.png)
 
-*A graph of Taiwan’s top export partners. Credits: AI Habtoor Research Centre*
+*source-A graph of Taiwan’s top export partners. Credits: AI Habtoor Research Centre*
 
 The domino effect of the China-Taiwan conflict will disrupt global economic operations. [Bloomberg economists predict $5 Tn in economic damage](https://www.bloomberg.com/news/newsletters/2024-05-25/bloomberg-new-economy-china-blockade-simulation-raises-5-trillion-risk) in the first year, which amounts to a 5% drop in the global economy. Taiwan's economy would suffer a 12% loss, and China’s economy would experience a 9% loss. The return of Donald Trump injects a more transactional approach to Washington’s relations with Taiwan.
 
@@ -70,7 +70,7 @@ Beijing could impose capital controls in response to global capital flight. This
 
 ![A geographical map of the Asia-Pacific region](/images/asia-pacific-region-geographical-map-A4OD.png)
 
-*A geographical map of the Asia-Pacific region. Credits: Union for International Cancer Control.*
+*source-A geographical map of the Asia-Pacific region. Credits: Union for International Cancer Control.*
 
 Across the Indo-Pacific region, the Chinese Communist Party (CCP) uses military and economic measures to threaten its neighbors, advance unlawful maritime claims, bully naval shipping lanes, and [destabilize territory along the People’s Republic of China](https://2017-2021.state.gov/chinas-military-aggression-in-the-indo-pacific-region/) (PRC).
 
@@ -90,7 +90,7 @@ China is the largest supplier of foreign seafood to Taiwan, with an 11 percent m
 
 ![A graph on global revenues from semiconductors](/images/global-revenues-semiconductors-2025-c0OT.png)
 
-*A graph on global revenues from semiconductors. Credits: Bertelsmann Stiftung*
+*source-A graph on global revenues from semiconductors. Credits: Bertelsmann Stiftung*
 
 ### Impact on technology and innovations
 
@@ -114,7 +114,7 @@ Taiwan’s offshore wind development “Phase 3” plans to install 3 GW every t
 
 ![An Image of how China dominates the antibiotics markets](/images/china-dominates-antibiotics-market-c4NT.png)
 
-*An Image of how China dominates the antibiotics markets. Credit: Statista*
+*source-An Image of how China dominates the antibiotics markets. Credit: Statista*
 
 China has become a pharmaceutical powerhouse over the past twenty years because of its dominance in unbranded medicine. It is also a major exporter of antibiotics and other ingredients used to make critical drugs.
 
