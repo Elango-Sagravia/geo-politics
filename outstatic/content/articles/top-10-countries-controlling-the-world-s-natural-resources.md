@@ -28,7 +28,9 @@ Let's map out how powerful and influential countries are on the verge of control
 
 ## 1. United Kingdom - Investments and Minerals Exploration
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezMDBG--tjJBLw-qQICV6OAzG1ok163NJpOHEGeH6uD4fwlsyr2kMMjjhBe8snEBn-J7Ba2HN0NRd2-3LTaCrMZd11a1pUs8kfqgGaPAVJ1hvBzMtAoSFC4HXBYLrIudG7DwxEyg?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*India under Colonial Rule, 1752-1933. Source: [https://britishonlinearchives.com/series/16/india-under-colonial-rule-1752-1933?filters\[attributes\]\[series_ids\]=16&filters\[className\]=document&filters\[query\]=](https://britishonlinearchives.com/series/16/india-under-colonial-rule-1752-1933?filters%5Battributes%5D%5Bseries_ids%5D=16&filters%5BclassName%5D=document&filters%5Bquery%5D=)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezMDBG--tjJBLw-qQICV6OAzG1ok163NJpOHEGeH6uD4fwlsyr2kMMjjhBe8snEBn-J7Ba2HN0NRd2-3LTaCrMZd11a1pUs8kfqgGaPAVJ1hvBzMtAoSFC4HXBYLrIudG7DwxEyg?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*India under Colonial Rule, 1752-1933. Source: [https://britishonlinearchives.com/series/16/india-under-colonial-rule-1752-1933?filters\[attributes\]\[series_ids\]=16&filters\[className\]=document&filters\[query\]=](https://britishonlinearchives.com/series/16/india-under-colonial-rule-1752-1933?filters%5Battributes%5D%5Bseries_ids%5D=16&filters%5BclassName%5D=document&filters%5Bquery%5D=)*
 
 Starting with the imperial British and its colonial history, which was associated with the exploration of natural resources globally, the most successful colonial power. During its colonial era, a range of natural resources were exhausted from commonwealth countries, predominantly, raw materials such as cotton, tea, rubber, and minerals from their colonies in India, Africa, and Southeast Asia. It has been argued early exploitation of natural resources traces its origins to early colonialism.
 
@@ -46,7 +48,9 @@ Rio Tinto, the global miner, partnered with BHP to accelerate the development of
 
 ## 2. France - Nuclear Energy and Power Plants
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHZ0gxi-ru8Od2A9I1aQHVxptEAKmaeP7E2QI0UIh2qID1vnDO2H9d7fGJmmEH5c72KwWbS-0hlCc-v6A-vCuea_HCiNo_TA3joPm6iznPYaGVKTO_aktsRmxOpIMyGHNDQHo0WA?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*Savorgnan de BRAZZA, 1852-1905, French-Italian explorer, in the Congo. Source: [https://www.globalgovernancenews.com/france-and-the-colonization-of-africa/](https://www.globalgovernancenews.com/france-and-the-colonization-of-africa/)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHZ0gxi-ru8Od2A9I1aQHVxptEAKmaeP7E2QI0UIh2qID1vnDO2H9d7fGJmmEH5c72KwWbS-0hlCc-v6A-vCuea_HCiNo_TA3joPm6iznPYaGVKTO_aktsRmxOpIMyGHNDQHo0WA?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*Savorgnan de BRAZZA, 1852-1905, French-Italian explorer, in the Congo. Source: [https://www.globalgovernancenews.com/france-and-the-colonization-of-africa/](https://www.globalgovernancenews.com/france-and-the-colonization-of-africa/)*
 
 The nation of France is yet another colonial power that has extensively sourced its natural resources from its colonial countries, particularly during the colonial period. Even in the post-colonial era, France has made efforts to maintain relations with its former colonial states, mostly as commercial partners to benefit economically and from natural resources. To exemplify, France has relied on uranium mining in Niger for its nuclear power plants, and it is generalized it has been executed by the Orano group.
 
@@ -60,7 +64,9 @@ To achieve the aim of low-carbon footprint reduction, nuclear power plants are a
 
 ## 3. Spain - Oil Exploration in Venezuela
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXckhGwN3q6U9N4GZRjWc_ttptED0sw-V1_ndl9xu0ftGuJGDs_btJ3PNrg3eGJ2OAXxlScOck3u_vkLgJSrnXhBHmEQXGPvsmcsIrGMi8-j8o2x6uvFInCtJoF0ed050Ppsq5HWUQ?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*The Spanish invasion of Tenochtitlan, the capital of the Aztec Empire, in 1521. Source: [https://simple.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire](https://simple.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXckhGwN3q6U9N4GZRjWc_ttptED0sw-V1_ndl9xu0ftGuJGDs_btJ3PNrg3eGJ2OAXxlScOck3u_vkLgJSrnXhBHmEQXGPvsmcsIrGMi8-j8o2x6uvFInCtJoF0ed050Ppsq5HWUQ?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*The Spanish invasion of Tenochtitlan, the capital of the Aztec Empire, in 1521. Source: [https://simple.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire](https://simple.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire)*
 
 Does colonial history play a role in the exploration of global natural resources? Subjective to many, neo-colonialism does play a major role in controlling the natural resources of the former colonial countries. Colonial exploration and conquest by Spain was highly motivated by the availability of mineral resources and labor control and this has shaped the neo-colonial aspirations.
 
@@ -72,7 +78,9 @@ Respol license for oil production in Venezuela has enabled the multiplication of
 
 ## 4. Japan - Exploring Malaysian LNG Resources
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXrOZ4MI2XvX57NL7bK_7BWhltXeAQnjTsUsT8Ida7AakbTCgUxOv0gV8kVXm4KHUGmMR1lDuKJp0bDtdIkPo__sSrWFHOZsCL2JnFFI-cghG3HIHYsHHuaQxIYfKX4srICcvY5Q?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*Japanese military marching during the Korean invasion of the 1900s. Source: [https://www.history.com/news/japan-colonization-korea](https://www.history.com/news/japan-colonization-korea)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXrOZ4MI2XvX57NL7bK_7BWhltXeAQnjTsUsT8Ida7AakbTCgUxOv0gV8kVXm4KHUGmMR1lDuKJp0bDtdIkPo__sSrWFHOZsCL2JnFFI-cghG3HIHYsHHuaQxIYfKX4srICcvY5Q?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*Japanese military marching during the Korean invasion of the 1900s. Source: [https://www.history.com/news/japan-colonization-korea](https://www.history.com/news/japan-colonization-korea)*
 
 During the colonial world of the 1900s, Imperial Japan explored the global natural resources in Asia extensively, printing history as the only Asian power to do so. Japan’s colonial dominance was evident from its exploitation of old China and Korea, draining the natural resources and controlling forced labor. In the post-war of 1950s, and post-US occupation Japan's colonial hunger was depleted, and focused on investing in Asian development through its ODA (Official Development Assistance) and Japan International Cooperation Agency (JICA).
 
@@ -84,7 +92,9 @@ Per recent reports, the long-waited pipeline for liquefied natural gas will prov
 
 ## 5. China - World's Renewable Energy Minerals
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyr_9kLwusX_OOTM2CYOcWnVjme2JplqBUoTFXk8gbFWJ0okmXElA_lsZCg4d-Ue4p117Lu6qlcqhziQpTitqT7pETx_-FC7eeHbGhaKS3gPOWvgftNUtl40Kspsr4Mu7zvOll?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*China’s top cobalt producer halts buying from Congo miners. Source: [https://www.ft.com/content/ce9af944-fb70-4576-88d0-dc76821facfd](https://www.ft.com/content/ce9af944-fb70-4576-88d0-dc76821facfd)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyr_9kLwusX_OOTM2CYOcWnVjme2JplqBUoTFXk8gbFWJ0okmXElA_lsZCg4d-Ue4p117Lu6qlcqhziQpTitqT7pETx_-FC7eeHbGhaKS3gPOWvgftNUtl40Kspsr4Mu7zvOll?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*China’s top cobalt producer halts buying from Congo miners. Source: [https://www.ft.com/content/ce9af944-fb70-4576-88d0-dc76821facfd](https://www.ft.com/content/ce9af944-fb70-4576-88d0-dc76821facfd)*
 
 As the world enters the digital revolution at the dawn of the 21st century, the demand for electronics and renewable energy minerals has heightened. Per data, by 2002, 122 million smartphones were sold globally, and by 2021, 1.5 billion smartphones were sold, enabling an explosion in minerals demands. Notably, the essential components of a smartphone such as the display, battery, and speakers are made from mined and semi-processed materials such as lithium and cobalt, and the African continent is leading the way in such production.
 
@@ -98,7 +108,9 @@ Taking into account the investments and trade relations, China has emerged as Af
 
 ## 6. US - Coal reserve and Crude Oil
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLF-QgTydiU4VWpQ6SX53DK33iU08ceTknbALtpO857FWsn1INievcHgE9ydynYdD9AW1qc0Wdg8ASva2p8jBW1j0b0iirBeLo95yEuenwa4UlHv3jCAfxPaibJjRpl4AizNfe?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*An aerial view shows an oil factory of Idemitsu Kosan Co. in Ichihara, east of Tokyo, Japan. Source: [https://www.reuters.com/markets/commodities/oil-firms-near-highest-since-late-november-risk-appetite-2021-12-29/](https://www.reuters.com/markets/commodities/oil-firms-near-highest-since-late-november-risk-appetite-2021-12-29/)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLF-QgTydiU4VWpQ6SX53DK33iU08ceTknbALtpO857FWsn1INievcHgE9ydynYdD9AW1qc0Wdg8ASva2p8jBW1j0b0iirBeLo95yEuenwa4UlHv3jCAfxPaibJjRpl4AizNfe?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*An aerial view shows an oil factory of Idemitsu Kosan Co. in Ichihara, east of Tokyo, Japan. Source: [https://www.reuters.com/markets/commodities/oil-firms-near-highest-since-late-november-risk-appetite-2021-12-29/](https://www.reuters.com/markets/commodities/oil-firms-near-highest-since-late-november-risk-appetite-2021-12-29/)*
 
 The largest economy in the world, the United States holds a high volume of natural resources, including coal, timber, natural gas, gold, and copper. The United States is proven to control the highest amount of coal reserves in the world, having 23.2 percent of the global reserves. As of 2021, the total recoverable coal reserves were estimated at 1.16 trillion short tons, and figures suggested five nations are controlling 75% of the world’s coal reserves. United States at 22%, Russia at 15%, Australia at 14%, China at 14%, and India at 11%.
 
@@ -108,7 +120,9 @@ In terms of crude oil reserves, the United States amounted to the “world’s l
 
 ## 7. Russia - Gas Reserve and Diamond Production
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXMW5JK9yglYfaAdsiTZUkabhaDEDrtBc836Ana1mw008HMNxAs_1XCqp5jngEkHbZxNy-vArGiui-1pQ5tF8I_tT3qzivabTifmtYqNnnzYsmim0PXIsDMLu8TGXFbYH1BAMV?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*Gazprom's Power of Siberia gas pipeline to China. Source: [https://www.intellinews.com/russia-s-oil-and-gas-reserves-will-last-for-another-59-and-103-years-respectively-says-natural-resources-minister-210504/](https://www.intellinews.com/russia-s-oil-and-gas-reserves-will-last-for-another-59-and-103-years-respectively-says-natural-resources-minister-210504/)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXMW5JK9yglYfaAdsiTZUkabhaDEDrtBc836Ana1mw008HMNxAs_1XCqp5jngEkHbZxNy-vArGiui-1pQ5tF8I_tT3qzivabTifmtYqNnnzYsmim0PXIsDMLu8TGXFbYH1BAMV?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*Gazprom's Power of Siberia gas pipeline to China. Source: [https://www.intellinews.com/russia-s-oil-and-gas-reserves-will-last-for-another-59-and-103-years-respectively-says-natural-resources-minister-210504/](https://www.intellinews.com/russia-s-oil-and-gas-reserves-will-last-for-another-59-and-103-years-respectively-says-natural-resources-minister-210504/)*
 
 Even during the Russian Republic regime of the 1900s, the land has always been showered with vast natural resources explored and unexplored. By the 1960s, the Soviet Union underwent massive industrial development, particularly in the production of oil, gas, and electricity and in the chemical industries. The demise of the Russian Republic in 1991 directly affected production and witnessed industrial inefficiencies. Following, a series of radical reforms to transform the economy, including structuring privately owned industrial and commercial ventures.
 
@@ -126,7 +140,9 @@ To stay ahead of the graph and continue to dominate the world’s natural gas re
 
 ## 8. Saudi Arabia - Oil, Gas, and Petro Chemicals
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcimJnrz9tHP8G1MuUfiyEk4O20gnIk_05A8NP9UpeLx_AuG3Z369uZkozosGqLDgiOawUm2Ew9S89rT6S8uuLWiHKdMdq-5jTOEYQ0YiayX2wdlG1JerKVWThWGAignDY2Xd6A?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*The inaugural members of OPEC from Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela. Source: [https://www.reddit.com/r/HistoryPorn/comments/xeyzj6/on_this_day_in_1960_the_organization_of_the/?rdt=44461](https://www.reddit.com/r/HistoryPorn/comments/xeyzj6/on_this_day_in_1960_the_organization_of_the/?rdt=44461)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcimJnrz9tHP8G1MuUfiyEk4O20gnIk_05A8NP9UpeLx_AuG3Z369uZkozosGqLDgiOawUm2Ew9S89rT6S8uuLWiHKdMdq-5jTOEYQ0YiayX2wdlG1JerKVWThWGAignDY2Xd6A?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*The inaugural members of OPEC from Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela. Source: [https://www.reddit.com/r/HistoryPorn/comments/xeyzj6/on_this_day_in_1960_the_organization_of_the/?rdt=44461](https://www.reddit.com/r/HistoryPorn/comments/xeyzj6/on_this_day_in_1960_the_organization_of_the/?rdt=44461)*
 
 When it comes to the availability of natural resources the country of Saudi Arabia is blessed with many including mineral resources, crude oil, gas, and others. With the abundance of natural resources, the kingdom is on the path to reform under the Saudi Vision 2030, such reform agenda is to be enabled by the export of its natural resources and its production. The kingdom reportedly holds natural resources worth $34.4 trillion, majorly oil which has been a leading exporter since it was discovered in 1938.
 
@@ -136,7 +152,9 @@ Undoubtedly, Saudi is a major player in the petroleum sector, controlling 17 per
 
 ## 9. Australia - Uranium Reserve
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQURtapi_xFOT97Lo0cHuVcj6B98U2WnzA8kPDm8i-mDC1NCCgxKGaW1bEHxUBPw2vwHflbMUL9VCmMUlcBQCLJs48bK_-JEVMvpQR3pFGPzd5TKqs6xKUhNFkixlFtMRJLGln6g?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*The Ranger uranium mine in the Northern Territory, Australia. Source: [https://currentaffairs.khanglobalstudies.com/australia-imposes-mining-ban-on-worlds-largest-uranium-deposits/](https://currentaffairs.khanglobalstudies.com/australia-imposes-mining-ban-on-worlds-largest-uranium-deposits/)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQURtapi_xFOT97Lo0cHuVcj6B98U2WnzA8kPDm8i-mDC1NCCgxKGaW1bEHxUBPw2vwHflbMUL9VCmMUlcBQCLJs48bK_-JEVMvpQR3pFGPzd5TKqs6xKUhNFkixlFtMRJLGln6g?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*The Ranger uranium mine in the Northern Territory, Australia. Source: [https://currentaffairs.khanglobalstudies.com/australia-imposes-mining-ban-on-worlds-largest-uranium-deposits/](https://currentaffairs.khanglobalstudies.com/australia-imposes-mining-ban-on-worlds-largest-uranium-deposits/)*
 
 The largest country in Oceania, and the sixth largest in the world, Australia has a major share in the global natural resources. The ocean state approximately has $19.9 trillion worth of natural resources including a list of coal, timber, copper, iron ore, gold, and uranium. The nation’s economy in review is also dependent on the “natural resources reserve”, a direct share in the global natural resources, Australia records a massive 46% supply of uranium globally. Additionally, the state contributes a sum of 14.3 % of the global supply of gold, making it one of the nations to control the global natural resources.
 
@@ -146,7 +164,9 @@ Even though Australia does not hold any uses of nuclear power, as per World Reas
 
 ## 10. Canada - Silver Mining in Mexico
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJPlOn8wtIvuLRm6KN2u1dySbURQM6z5tjIJUdDdqITdeCYFCdzSVoF1e2LzZ3O4KEJ5qF-h0wVJgpSboZrLfY7Dkj1XXX9odPzBt7WSs3Boi3IXNze_7n8oMcgsbVZulOpsjl?key=qNkJGoTBxqLGrkeTLPPqmGot)source-*Operations at McEwen Mining’s El Gallo gold-silver mine in Sinaloa, Mexico. Source: [https://secure.northernminer.com/news/mining-in-mexico-to-restart-next-week/1003816999/](https://secure.northernminer.com/news/mining-in-mexico-to-restart-next-week/1003816999/)*
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJPlOn8wtIvuLRm6KN2u1dySbURQM6z5tjIJUdDdqITdeCYFCdzSVoF1e2LzZ3O4KEJ5qF-h0wVJgpSboZrLfY7Dkj1XXX9odPzBt7WSs3Boi3IXNze_7n8oMcgsbVZulOpsjl?key=qNkJGoTBxqLGrkeTLPPqmGot)
+
+source-*Operations at McEwen Mining’s El Gallo gold-silver mine in Sinaloa, Mexico. Source: [https://secure.northernminer.com/news/mining-in-mexico-to-restart-next-week/1003816999/](https://secure.northernminer.com/news/mining-in-mexico-to-restart-next-week/1003816999/)*
 
 Canada's presence in the silver mining industry of Mexico cannot be overlooked, as 40% of Canadian investment in the country is linked to the mining sector. Moreover, out of Mexico’s foreign mining companies, 70% are reported to have Canadian interests, and 205 companies in the country are established with Canadian capital. The mining industry of Mexico is ranked fifth in the world and holds a long history of mining in silver, gold, and copper, and it is appearing larger in Canada’s interest.
 
