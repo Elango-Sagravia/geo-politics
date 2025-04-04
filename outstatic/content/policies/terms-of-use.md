@@ -7,8 +7,8 @@ author:
 slug: 'terms-of-use'
 description: ''
 coverImage: ''
-seoTitle: 'Terms of Use - Geopolitics Summary'
-seoDescription: 'Review the terms and conditions for using Geopolitics Summary. Understand our guidelines and policies for a seamless user experience.'
+seoTitle: 'Terms of Use - Geopolitical Summary'
+seoDescription: 'Review the terms and conditions of using Geopolitical Summary. Understand your rights and our policies for responsible use.'
 publishedAt: '2025-02-05T13:50:25.000Z'
 ---
 
