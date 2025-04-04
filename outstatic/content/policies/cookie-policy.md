@@ -7,8 +7,8 @@ author:
 slug: 'cookie-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Cookie Policy - Geopolitics Summary'
-seoDescription: 'See how Geopolitics Summary uses cookies to enhance your experience. Read our cookie policy for detailed information and transparency.'
+seoTitle: 'Cookie Policy - Geopolitical Summary'
+seoDescription: 'Read how Geopolitical Summary uses cookies to improve your browsing experience and maintain transparency.'
 publishedAt: '2024-08-20T14:20:18.000Z'
 ---
 
