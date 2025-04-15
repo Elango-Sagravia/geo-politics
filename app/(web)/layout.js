@@ -9,6 +9,7 @@ import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
+import PassendoAd from "@/components/ui/passendoAd/PassendoAd";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -159,6 +160,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             {children}
             <Analytics />
             <SpeedInsights />
+            <PassendoAd />
             <Footer />
           </AppProvider>
         </ThemeProvider>
