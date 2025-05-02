@@ -28,7 +28,7 @@ Let's map out how powerful and influential countries are on the verge of control
 
 ## 1. United Kingdom - Investments and Minerals Exploration
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezMDBG--tjJBLw-qQICV6OAzG1ok163NJpOHEGeH6uD4fwlsyr2kMMjjhBe8snEBn-J7Ba2HN0NRd2-3LTaCrMZd11a1pUs8kfqgGaPAVJ1hvBzMtAoSFC4HXBYLrIudG7DwxEyg?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![India under Colonial Rule](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezMDBG--tjJBLw-qQICV6OAzG1ok163NJpOHEGeH6uD4fwlsyr2kMMjjhBe8snEBn-J7Ba2HN0NRd2-3LTaCrMZd11a1pUs8kfqgGaPAVJ1hvBzMtAoSFC4HXBYLrIudG7DwxEyg?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*India under Colonial Rule, 1752-1933. Source: [https://britishonlinearchives.com/series/16/india-under-colonial-rule-1752-1933?filters\[attributes\]\[series_ids\]=16&filters\[className\]=document&filters\[query\]=](https://britishonlinearchives.com/series/16/india-under-colonial-rule-1752-1933?filters%5Battributes%5D%5Bseries_ids%5D=16&filters%5BclassName%5D=document&filters%5Bquery%5D=)*
 
@@ -48,7 +48,7 @@ Rio Tinto, the global miner, partnered with BHP to accelerate the development of
 
 ## 2. France - Nuclear Energy and Power Plants
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHZ0gxi-ru8Od2A9I1aQHVxptEAKmaeP7E2QI0UIh2qID1vnDO2H9d7fGJmmEH5c72KwWbS-0hlCc-v6A-vCuea_HCiNo_TA3joPm6iznPYaGVKTO_aktsRmxOpIMyGHNDQHo0WA?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![French-Italian explorer, in the Congo](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHZ0gxi-ru8Od2A9I1aQHVxptEAKmaeP7E2QI0UIh2qID1vnDO2H9d7fGJmmEH5c72KwWbS-0hlCc-v6A-vCuea_HCiNo_TA3joPm6iznPYaGVKTO_aktsRmxOpIMyGHNDQHo0WA?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*Savorgnan de BRAZZA, 1852-1905, French-Italian explorer, in the Congo. Source: [https://www.globalgovernancenews.com/france-and-the-colonization-of-africa/](https://www.globalgovernancenews.com/france-and-the-colonization-of-africa/)*
 
@@ -64,7 +64,7 @@ To achieve the aim of low-carbon footprint reduction, nuclear power plants are a
 
 ## 3. Spain - Oil Exploration in Venezuela
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXckhGwN3q6U9N4GZRjWc_ttptED0sw-V1_ndl9xu0ftGuJGDs_btJ3PNrg3eGJ2OAXxlScOck3u_vkLgJSrnXhBHmEQXGPvsmcsIrGMi8-j8o2x6uvFInCtJoF0ed050Ppsq5HWUQ?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![The Spanish invasion of Tenochtitlan](https://lh7-rt.googleusercontent.com/docsz/AD_4nXckhGwN3q6U9N4GZRjWc_ttptED0sw-V1_ndl9xu0ftGuJGDs_btJ3PNrg3eGJ2OAXxlScOck3u_vkLgJSrnXhBHmEQXGPvsmcsIrGMi8-j8o2x6uvFInCtJoF0ed050Ppsq5HWUQ?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*The Spanish invasion of Tenochtitlan, the capital of the Aztec Empire, in 1521. Source: [https://simple.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire](https://simple.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire)*
 
@@ -78,7 +78,7 @@ Respol license for oil production in Venezuela has enabled the multiplication of
 
 ## 4. Japan - Exploring Malaysian LNG Resources
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXrOZ4MI2XvX57NL7bK_7BWhltXeAQnjTsUsT8Ida7AakbTCgUxOv0gV8kVXm4KHUGmMR1lDuKJp0bDtdIkPo__sSrWFHOZsCL2JnFFI-cghG3HIHYsHHuaQxIYfKX4srICcvY5Q?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![Japanese military marching during the Korean invasion of the 1900s](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXrOZ4MI2XvX57NL7bK_7BWhltXeAQnjTsUsT8Ida7AakbTCgUxOv0gV8kVXm4KHUGmMR1lDuKJp0bDtdIkPo__sSrWFHOZsCL2JnFFI-cghG3HIHYsHHuaQxIYfKX4srICcvY5Q?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*Japanese military marching during the Korean invasion of the 1900s. Source: [https://www.history.com/news/japan-colonization-korea](https://www.history.com/news/japan-colonization-korea)*
 
@@ -92,7 +92,7 @@ Per recent reports, the long-waited pipeline for liquefied natural gas will prov
 
 ## 5. China - World's Renewable Energy Minerals
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyr_9kLwusX_OOTM2CYOcWnVjme2JplqBUoTFXk8gbFWJ0okmXElA_lsZCg4d-Ue4p117Lu6qlcqhziQpTitqT7pETx_-FC7eeHbGhaKS3gPOWvgftNUtl40Kspsr4Mu7zvOll?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![China’s top cobalt producer halts buying from Congo miners.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyr_9kLwusX_OOTM2CYOcWnVjme2JplqBUoTFXk8gbFWJ0okmXElA_lsZCg4d-Ue4p117Lu6qlcqhziQpTitqT7pETx_-FC7eeHbGhaKS3gPOWvgftNUtl40Kspsr4Mu7zvOll?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*China’s top cobalt producer halts buying from Congo miners. Source: [https://www.ft.com/content/ce9af944-fb70-4576-88d0-dc76821facfd](https://www.ft.com/content/ce9af944-fb70-4576-88d0-dc76821facfd)*
 
@@ -108,7 +108,7 @@ Taking into account the investments and trade relations, China has emerged as Af
 
 ## 6. US - Coal reserve and Crude Oil
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLF-QgTydiU4VWpQ6SX53DK33iU08ceTknbALtpO857FWsn1INievcHgE9ydynYdD9AW1qc0Wdg8ASva2p8jBW1j0b0iirBeLo95yEuenwa4UlHv3jCAfxPaibJjRpl4AizNfe?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![An aerial view shows an oil factory of Idemitsu Kosan Co. in Ichihara, east of Tokyo, Japan](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLF-QgTydiU4VWpQ6SX53DK33iU08ceTknbALtpO857FWsn1INievcHgE9ydynYdD9AW1qc0Wdg8ASva2p8jBW1j0b0iirBeLo95yEuenwa4UlHv3jCAfxPaibJjRpl4AizNfe?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*An aerial view shows an oil factory of Idemitsu Kosan Co. in Ichihara, east of Tokyo, Japan. Source: [https://www.reuters.com/markets/commodities/oil-firms-near-highest-since-late-november-risk-appetite-2021-12-29/](https://www.reuters.com/markets/commodities/oil-firms-near-highest-since-late-november-risk-appetite-2021-12-29/)*
 
@@ -120,7 +120,7 @@ In terms of crude oil reserves, the United States amounted to the “world’s l
 
 ## 7. Russia - Gas Reserve and Diamond Production
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXMW5JK9yglYfaAdsiTZUkabhaDEDrtBc836Ana1mw008HMNxAs_1XCqp5jngEkHbZxNy-vArGiui-1pQ5tF8I_tT3qzivabTifmtYqNnnzYsmim0PXIsDMLu8TGXFbYH1BAMV?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![Gazprom's Power of Siberia gas pipeline to China](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXMW5JK9yglYfaAdsiTZUkabhaDEDrtBc836Ana1mw008HMNxAs_1XCqp5jngEkHbZxNy-vArGiui-1pQ5tF8I_tT3qzivabTifmtYqNnnzYsmim0PXIsDMLu8TGXFbYH1BAMV?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*Gazprom's Power of Siberia gas pipeline to China. Source: [https://www.intellinews.com/russia-s-oil-and-gas-reserves-will-last-for-another-59-and-103-years-respectively-says-natural-resources-minister-210504/](https://www.intellinews.com/russia-s-oil-and-gas-reserves-will-last-for-another-59-and-103-years-respectively-says-natural-resources-minister-210504/)*
 
@@ -140,7 +140,7 @@ To stay ahead of the graph and continue to dominate the world’s natural gas re
 
 ## 8. Saudi Arabia - Oil, Gas, and Petro Chemicals
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcimJnrz9tHP8G1MuUfiyEk4O20gnIk_05A8NP9UpeLx_AuG3Z369uZkozosGqLDgiOawUm2Ew9S89rT6S8uuLWiHKdMdq-5jTOEYQ0YiayX2wdlG1JerKVWThWGAignDY2Xd6A?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![The inaugural members of OPEC from Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcimJnrz9tHP8G1MuUfiyEk4O20gnIk_05A8NP9UpeLx_AuG3Z369uZkozosGqLDgiOawUm2Ew9S89rT6S8uuLWiHKdMdq-5jTOEYQ0YiayX2wdlG1JerKVWThWGAignDY2Xd6A?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*The inaugural members of OPEC from Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela. Source: [https://www.reddit.com/r/HistoryPorn/comments/xeyzj6/on_this_day_in_1960_the_organization_of_the/?rdt=44461](https://www.reddit.com/r/HistoryPorn/comments/xeyzj6/on_this_day_in_1960_the_organization_of_the/?rdt=44461)*
 
@@ -152,7 +152,7 @@ Undoubtedly, Saudi is a major player in the petroleum sector, controlling 17 per
 
 ## 9. Australia - Uranium Reserve
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQURtapi_xFOT97Lo0cHuVcj6B98U2WnzA8kPDm8i-mDC1NCCgxKGaW1bEHxUBPw2vwHflbMUL9VCmMUlcBQCLJs48bK_-JEVMvpQR3pFGPzd5TKqs6xKUhNFkixlFtMRJLGln6g?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![The Ranger uranium mine in the Northern Territory, Australia.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQURtapi_xFOT97Lo0cHuVcj6B98U2WnzA8kPDm8i-mDC1NCCgxKGaW1bEHxUBPw2vwHflbMUL9VCmMUlcBQCLJs48bK_-JEVMvpQR3pFGPzd5TKqs6xKUhNFkixlFtMRJLGln6g?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*The Ranger uranium mine in the Northern Territory, Australia. Source: [https://currentaffairs.khanglobalstudies.com/australia-imposes-mining-ban-on-worlds-largest-uranium-deposits/](https://currentaffairs.khanglobalstudies.com/australia-imposes-mining-ban-on-worlds-largest-uranium-deposits/)*
 
@@ -164,7 +164,7 @@ Even though Australia does not hold any uses of nuclear power, as per World Reas
 
 ## 10. Canada - Silver Mining in Mexico
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJPlOn8wtIvuLRm6KN2u1dySbURQM6z5tjIJUdDdqITdeCYFCdzSVoF1e2LzZ3O4KEJ5qF-h0wVJgpSboZrLfY7Dkj1XXX9odPzBt7WSs3Boi3IXNze_7n8oMcgsbVZulOpsjl?key=qNkJGoTBxqLGrkeTLPPqmGot)
+![Operations at McEwen Mining’s El Gallo gold-silver mine in Sinaloa, Mexico.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJPlOn8wtIvuLRm6KN2u1dySbURQM6z5tjIJUdDdqITdeCYFCdzSVoF1e2LzZ3O4KEJ5qF-h0wVJgpSboZrLfY7Dkj1XXX9odPzBt7WSs3Boi3IXNze_7n8oMcgsbVZulOpsjl?key=qNkJGoTBxqLGrkeTLPPqmGot)
 
 source-*Operations at McEwen Mining’s El Gallo gold-silver mine in Sinaloa, Mexico. Source: [https://secure.northernminer.com/news/mining-in-mexico-to-restart-next-week/1003816999/](https://secure.northernminer.com/news/mining-in-mexico-to-restart-next-week/1003816999/)*
 
