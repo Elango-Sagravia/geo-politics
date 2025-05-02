@@ -1,4 +1,7 @@
 ---
+coverImageAltText: ''
+metaDescription: ''
+metaTitle: ''
 readTime: '6'
 coverImage: '/images/final-g0NT.jpeg'
 description: 'He envisioned an America defined by “competent and compassionate” governance. He championed reforms in welfare, healthcare, and taxation. Still, he faced severe criticism by the end of his term due to a recession, energy crisis, Iran hostage situation, and strained relations within his party. '
@@ -15,7 +18,7 @@ Jimmy Carter, the 39th President of the United States, is better remembered for 
 
 Carter holds a paradoxical legacy in American politics; he was revered and criticized in his time. In a nation reeling from the Watergate scandal, Carter offered hopes of transparency. A peanut farmer turned politician, Carter’s moral integrity was commendable, but his political finesse was questionable. Yet, his post-presidency period defined his legacy through humanitarian work, earning him the Nobel Peace Prize in 2002.
 
-![President Jimmy Carter smiles as he receives applause from members of Congress after signing a bill to create the Department of Energy during a Rose Garden ceremony at the White House in Washington, D.C., on August 4, 1977.](/images/ap7708040394_slide-9c439c24fdc53d05d5dceda9b90fbaed025acd32.jpg-k4ND.jpg)
+![President Jimmy Carter receives the applause of members of Congress who witnessed his signature on a bill creating the Department of Energy in a Rose Garden ceremony Thursday, Aug. 4, 1977, at the White House in Washington, D.C.](/images/ap7708040394_slide-9c439c24fdc53d05d5dceda9b90fbaed025acd32.jpg-k4ND.jpg)
 
 *source- President Jimmy Carter receives the applause of members of Congress who witnessed his signature on a bill creating the Department of Energy in a Rose Garden ceremony Thursday, Aug. 4, 1977, at the White House in Washington, D.C. Source:* <https://news.azpm.org/p/news-npr/2024/12/29/223117-jimmy-carter-the-39th-us-president-has-died-at-100/>
 
@@ -41,7 +44,7 @@ Carter’s 1977 visit to Tehran revealed a stark contrast to his promise of trut
 
 The [Camp David Accords](https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/framework-for-peace-in-the-middle-east), brokered by President Jimmy Carter in September 1978, marked a historic milestone in Middle Eastern diplomacy. Over 13 intense days, Carter mediated between Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin, who refused direct meetings.
 
-![Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979.](/images/90-czNz.jpeg)
+![Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979](/images/90-czNz.jpeg)
 
 *source- Egyptian President Anwar Sadat, left, President Jimmy Carter, center, and Israeli Prime Minister Menachem Begin clasp hands to symbolize their agreement after signing the Middle East Peace Treaty at the White House in Washington, March 27, 1979. Source:* <https://www.npr.org/sections/the-picture-show/2024/12/29/1158341137/a-look-back-at-jimmy-carters-presidency>
 
