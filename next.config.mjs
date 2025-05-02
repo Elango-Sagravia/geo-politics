@@ -45,12 +45,32 @@ const nextConfig = {
         destination: "https://geopoliticalsummary.com/:path*", // Redirect to the new domain with path preservation
         permanent: true, // Use a 301 redirect
       },
-      { source: "/sitemap.xml", destination: "/sitemap" },
-      { source: "/sitemap_main.xml", destination: "/sitemap_main" },
-      { source: "/sitemap_blogs.xml", destination: "/sitemap_blogs" },
-      { source: "/sitemap_policies.xml", destination: "/sitemap_policies" },
-      { source: "/sitemap_pages.xml", destination: "/sitemap_pages" },
-      { source: "/sitemap_articles.xml", destination: "/sitemap_articles" },
+      { source: "/sitemap.xml", destination: "/sitemap", permanent: true },
+      {
+        source: "/sitemap_main.xml",
+        destination: "/sitemap_main",
+        permanent: true,
+      },
+      {
+        source: "/sitemap_blogs.xml",
+        destination: "/sitemap_blogs",
+        permanent: true,
+      },
+      {
+        source: "/sitemap_policies.xml",
+        destination: "/sitemap_policies",
+        permanent: true,
+      },
+      {
+        source: "/sitemap_pages.xml",
+        destination: "/sitemap_pages",
+        permanent: true,
+      },
+      {
+        source: "/sitemap_articles.xml",
+        destination: "/sitemap_articles",
+        permanent: true,
+      },
     ];
   },
 };
