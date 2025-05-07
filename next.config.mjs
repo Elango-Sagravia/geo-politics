@@ -67,8 +67,8 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: "/sitemap_articles.xml",
-        destination: "/sitemap_articles",
+        source: "/sitemap_archives.xml",
+        destination: "/sitemap_archives",
         permanent: true,
       },
     ];
