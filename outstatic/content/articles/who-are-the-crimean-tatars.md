@@ -16,15 +16,11 @@ publishedAt: '2025-05-14T14:28:01.606Z'
 
 ### Summary
 
-The Crimean Tatars have called Crimea home for centuries. Once rulers of their own khanate, they were later exiled by Stalin, and today face renewed pressure under Russian control. Many have fled, others have stayed, holding on to their language, culture, and hope. As the world debates who Crimea belongs to, this blog focuses on the people who were there first, and what their future looks like now.
+The Crimean Tatars have called Crimea home for centuries. Once rulers of their own khanate, they were later exiled by Stalin, and today face renewed pressure under Russian control. Many have fled, others have stayed, holding on to their language, culture, and hope.  While Russia and Ukraine continue to dispute Crimea's origins, the real indigenous people of the peninsula are the Tatars. Who are they? And where do they stand regarding the current war?
 
 ![A Crimean Tatar boy in traditional dress holding a Crimean Tatar flag against a blue backdrop.](/images/crimean-tatar-boy-flag-czOD.png)
 
-*source-Source: Iva Zimova/Panos/Re​dux*
-
-May 18th is the 81st anniversary of the mass deportation of Crimea’s Tatars to Central Asia.
-
-While Russia and Ukraine continue to dispute Crimea's origins, the real indigenous people of the peninsula are the Tatars. Who are they? And where do they stand regarding the current war?
+*source-May 18th is the 81st anniversary of the mass deportation of Crimea’s Tatars to Central Asia. Source: Iva Zimova/Panos/Re​dux*
 
 ## Crimean Tatars: The Indigenous People of Crimea Ukraine
 
