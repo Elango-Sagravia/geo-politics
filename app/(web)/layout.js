@@ -70,31 +70,6 @@ const jsonLd = {
   ],
 };
 
-const reviewJsonLd = {
-  "@context": "https://schema.org/",
-  "@type": "Review",
-  itemReviewed: {
-    "@type": "Organization",
-    name: "Newsletters",
-  },
-  reviewRating: {
-    "@type": "Rating",
-    ratingValue: "4.9",
-  },
-  reviewBody:
-    "A concise, fact-checked daily newsletter delivering the most impactful geopolitical and international relations stories, favored by diplomats.",
-  author: {
-    "@type": "Person",
-    name: "Geopolitical Summary",
-  },
-  publisher: {
-    "@type": "Organization",
-    name: "Geopolitical Summary",
-  },
-  name: "Geopolitical Summary Newsletters",
-  datePublished: "2024-09-17",
-};
-
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
@@ -110,11 +85,17 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify(jsonLd),
           }}
         />
-        <Script
-          id="review-schema"
+        <script
+          id="schema-name"
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(reviewJsonLd),
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Geopolitical Summary",
+              alternateName: "Geopolitical Summary",
+              url: "https://www.geopoliticalsummary.com",
+            }),
           }}
         />
         {/* Microsoft Clarity Script */}
@@ -146,6 +127,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </noscript>
     `,
           }}
+        />
+        <meta name="application-name" content="Geopolitical Summary" />
+        <meta property="og:site_name" content="Geopolitical Summary" />
+        <meta
+          name="apple-mobile-web-app-title"
+          content="Geopolitical Summary"
         />
       </head>
       <body>
