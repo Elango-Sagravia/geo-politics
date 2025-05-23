@@ -9,7 +9,7 @@ slug: 'top-10-jimmy-carter-presidential-moments'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/191345410?v=4'
-status: 'published'
+status: 'draft'
 title: 'Top 10 Jimmy Carter Presidential Moments'
 publishedAt: '2025-01-09T11:04:54.114Z'
 ---
