@@ -9,7 +9,7 @@ slug: 'top-10-countries-controlling-the-world-s-natural-resources'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/196736953?v=4'
-status: 'published'
+status: 'draft'
 title: 'Top 10 Countries Controlling The World''s Natural Resources.'
 publishedAt: '2025-02-05T04:04:56.470Z'
 ---
