@@ -96,7 +96,7 @@ export default async function Home({ params }) {
     .replace(/<img /g, `<img class="${customStyles.img}" `)
     .replace(/<a /g, `<a target="_blank" class="${customStyles.a}" `)
     .replace(/<ol>/g, `<ol class="${customStyles.ol}">`)
-    .replace(/<ul>/g, `<ol class="${customStyles.ul}">`)
+    .replace(/<ul>/g, `<ul class="${customStyles.ul}">`)
     .replace(/<li>/g, `<li class="${customStyles.li}">`)
     .replace(/<p class="mb-4"><em>source-/g, `<p class="mb-4 source-link"><em>`)
     .replace(/<p class="mb-4">source-/g, `<p class="mb-4 source-link">`)
