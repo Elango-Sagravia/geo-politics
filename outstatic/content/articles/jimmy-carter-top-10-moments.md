@@ -96,7 +96,7 @@ The hostages were held for 444 days. A failed rescue mission, [**Operation Eagle
 
 ![President Jimmy Carter delivers his televised energy crisis speech from the Oval Office in 1979, shown on a vintage television screen.](/images/jimmy-carter-energy-crisis-speech-tv-AzOD.png)
 
-*President Jimmy Carter delivers a nationally televised address from the Oval Office. Source: Simon Hertnon's Upstream Philosophy*
+source-*President Jimmy Carter delivers a nationally televised address from the Oval Office. Source: Simon Hertnon's Upstream Philosophy*
 
 ### A speech that shaped Jimmy Carter history
 
