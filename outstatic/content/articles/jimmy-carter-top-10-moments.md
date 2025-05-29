@@ -16,7 +16,7 @@ publishedAt: '2025-05-29T15:01:15.244Z'
 
 ## Summary
 
-**Jimmy Carter**, the 39th **President of the United States**, served during one of the most challenging periods in post-war American history. While often overshadowed by economic struggles and foreign crises, his administration featured moments of courage, idealism, and lasting global impact. 
+**Jimmy Carter**, the 39th **President of the United States**, served during one of the most challenging periods in post-war American history. While often overshadowed by economic struggles and foreign crises, his administration featured moments of courage, idealism, and lasting global impact.
 
 From granting amnesty to Vietnam draft dodgers to forging peace in the Middle East, **Jimmy Carter’s history** is a complex mix of moral ambition and political difficulty. And while his post-presidential life, primarily through the **Jimmy Carter Presidential Library and Museum**, has received more praise than his time in office, his leadership moments deserve a closer look.
 
@@ -144,7 +144,7 @@ Carter backed the [Mujahideen](https://www.britannica.com/topic/mujahideen-Afgha
 
 **Jimmy Carter’s history** as president is often remembered for crises and missed opportunities, but that only tells part of the story. He took bold moral stances, emphasized human rights, and made lasting contributions to energy policy and international peace. His efforts at Camp David, his pardon for draft evaders, and his post-presidency humanitarian work (honored through the [**Jimmy Carter Presidential Library and Museum**](https://www.jimmycarterlibrary.gov/)) reveal a leader guided more by values than popularity.
 
-In many ways, Carter was ahead of his time. Although political forces may have constrained his presidency, his post-presidency redefined what leadership looks like beyond the White House. 
+In many ways, Carter was ahead of his time. Although political forces may have constrained his presidency, his post-presidency redefined what leadership looks like beyond the White House.
 
 ## People also ask
 
