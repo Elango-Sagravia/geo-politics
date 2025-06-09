@@ -3,7 +3,7 @@ coverImageAltText: 'An image of Xi Jinping and Lai Ching-teh'
 metaDescription: 'A China-Taiwan conflict could reshape global politics and economics. Explore 10 key consequences of escalating tensions.'
 metaTitle: '10 Major Consequences of a China-Taiwan Conflict'
 readTime: '9'
-coverImage: '/images/xi-jinping-lai-ching-teh-image-Y4ND.png'
+coverImage: '/images/xi-jinping-lai-ching-teh-image-g2MD.png'
 description: 'The China-Taiwan conflict of historical background is projected to bring global impacts ranging from economy and regional security to humanitarian crises.  '
 slug: 'china-taiwan-conflict-consequences'
 author:
