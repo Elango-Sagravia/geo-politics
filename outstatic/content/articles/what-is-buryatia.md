@@ -73,6 +73,7 @@ Another issue is the rural-urban gap in educational quality; schools in Ulan-Ude
 ## What are some unusual cultures in Buryatia, Russia​?
 
 ![Celebration of Surkharbaan, Buryats' main summer festival.](/images/surkharbaan-buryats-summer-festival-U0MT.png)\
+\
 source-*Celebration of Surkharbaan, Buryats' main summer festival. Source: Pavel Kuzmichev, Gateway to Russia*
 
 As Buryatia is home to the Buryats, a Mongolic ethnic group. The Buryats' rich cultural heritage blends indigenous traditions with Mongolian and Tibetan Buddhist influences. Buddhism, along with traditional shamanism, plays a central role in Buryat spiritual life. Historically, the Buryats were a nomadic people related to Mongolians.
