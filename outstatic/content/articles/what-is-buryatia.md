@@ -32,9 +32,9 @@ Lake Baikal has been a [UNESCO World Heritage Site](https://whc.unesco.org/en/li
 
 ### What are some interesting activities in Lake Baikal?
 
-![Sunset over Lake Baikal with silhouetted ships and hills.](/images/lake-baikal-sunset-kwMT.png)\
-\
-source-*Lake Baikal sunset. Source: Igor Puh*
+![Sunset over Lake Baikal with silhouetted ships and hills.](/images/lake-baikal-sunset-kwMT.png)
+
+*source-Lake Baikal sunset. Source: Igor Puh*
 
 Since it is conveniently next to the Trans-Siberian Railway, many tourists take the opportunity to get out at one of the stops to enjoy the lake. Additionally, the lake is completely frozen over in the winter, allowing for activities such as ice skating, dog sledding, and even driving on the frozen surface.
 
@@ -54,7 +54,7 @@ The languages spoken are closely related to Mongolian and share similar traditio
 
 ![Ivolginsky Datsan monastery in Ulan Ude with colorful traditional architecture.](/images/ivolginsky-datsan-monastery-g4OD.png)
 
-source-*Ivolginsky Datsan monastery in Ulan Ude. Source: Igor Puh*
+*source-Ivolginsky Datsan monastery in Ulan Ude. Source: Igor Puh*
 
 The land is a religious smorgasbord of Buddhism, Russian Orthodoxy, and traditional shamanism. At the same time, a sizable number of people also claim to be irreligious. Along with Tuva and Kalmykia, Buryatia is one of the prominent Buddhist regions in Russia.
 
@@ -72,9 +72,9 @@ Another issue is the rural-urban gap in educational quality; schools in Ulan-Ude
 
 ## What are some unusual cultures in Buryatia, Russia​?
 
-![Celebration of Surkharbaan, Buryats' main summer festival.](/images/surkharbaan-buryats-summer-festival-U0MT.png)\
-\
-source-*Celebration of Surkharbaan, Buryats' main summer festival. Source: Pavel Kuzmichev, Gateway to Russia*
+![Celebration of Surkharbaan, Buryats' main summer festival.](/images/surkharbaan-buryats-summer-festival-U0MT.png)
+
+*source-Celebration of Surkharbaan, Buryats' main summer festival. Source: Pavel Kuzmichev, Gateway to Russia*
 
 As Buryatia is home to the Buryats, a Mongolic ethnic group. The Buryats' rich cultural heritage blends indigenous traditions with Mongolian and Tibetan Buddhist influences. Buddhism, along with traditional shamanism, plays a central role in Buryat spiritual life. Historically, the Buryats were a nomadic people related to Mongolians.
 
@@ -88,7 +88,7 @@ Guests are often greeted with a milk tea and are often given a silk scarf. Stran
 
 ![Central stadium of the Buryat capital](/images/central-stadium-buryatia-kwMz.png)
 
-source-*Central stadium of the Buryat capital. Source: Pavel Kuzmichev, Gateway to Russia*
+*source-Central stadium of the Buryat capital. Source: Pavel Kuzmichev, Gateway to Russia*
 
 The Buryat language, written in the Mongolian script for centuries, was switched to the Latin alphabet in the 1920s during the Latinization campaign in the Soviet Union, and again to Cyrillic in the 1930s, which remains in use today.
 
@@ -98,7 +98,7 @@ Schools prioritize the Russian language even in areas that are mainly Buryat. Up
 
 ![The largest Lenin head statue in Ulan Ude.](/images/lenin-statue-ulan-ude-QyOD.png)
 
-source-*​The largest Lenin head statue in Ulan Ude. Source: Igor Puh*
+*source-​The largest Lenin head statue in Ulan Ude. Source: Igor Puh*
 
 ### Soviet Buryatia: Industrialization and Cultural Suppression
 
