@@ -20,8 +20,9 @@ Buryatia, or officially the Republic of Buryatia, is a federal subject of the Ru
 
 The Republic of Buryatia has a population of just under a million. It was created in 1923 and covers a total area of 135,651 square miles. According to the 2010 national census, there are 461,389 Buryats in the Russian Federation. Along with the Kalmyks, the Buryats speak a Mongolic language.
 
-![Map of Russia highlighting the Republic of Buryatia in red.](/images/buryatia-map-location-Q4Mj.png)\
-source-Republic of Buryatia. Source: Wikipedia
+*![Map of Russia highlighting the Republic of Buryatia in red.](/images/buryatia-map-location-Q4Mj.png)*
+
+*source-Republic of Buryatia. Source: Wikipedia*
 
 ## What is Lake Baikal? Why is the Heart of the Republic of Buryatia, Russia?
 
