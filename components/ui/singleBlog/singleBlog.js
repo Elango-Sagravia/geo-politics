@@ -28,6 +28,37 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
       // You can now use the email in your component or for logic
     }
   }, []);
+  useEffect(() => {
+    const hash = window.location.hash;
+    if (hash) {
+      setTimeout(() => {
+        const el = document.querySelector(hash);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      }, 1000); // Delay of 1 second
+    }
+  }, [blog.emailHtml]);
+  // useEffect(() => {
+  //   fetch("https://euir.trckrhst.com/webtag/55680")
+  //     .then((res) => res.text())
+  //     .then((scriptContent) => {
+  //       console.log("Fetched Script:", scriptContent); // ✅ Add this line
+
+  //       const match = scriptContent.match(/document\.write\("(.*)"\);/s);
+  //       if (match && match[1]) {
+  //         const html = match[1].replace(/\\"/g, '"').replace(/\\n/g, "");
+
+  //         const container = document.createElement("div");
+  //         container.innerHTML = html;
+
+  //         const target = document.getElementById("passendo-ad");
+  //         if (target) target.appendChild(container);
+  //       } else {
+  //         console.warn("No document.write match found.");
+  //       }
+  //     });
+  // }, []);
 
   if (message === "" && blog.emailHtml) {
     return (
@@ -50,12 +81,23 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
                   `class="sec-ad-link"`,
                   `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`
                 )
-                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`),
+                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`)
+                .replace(/<h2([^>]*)>(.*?)<\/h2>/gi, (match, attrs, text) => {
+                  const slug = text
+                    .toLowerCase()
+                    .replace(/[^a-z0-9\s]/g, "")
+                    .trim()
+                    .replace(/\s+/g, "-");
+                  // Avoid adding duplicate id if already exists
+                  if (/id\s*=/.test(attrs)) return match;
+                  return `<h2${attrs} id="${slug}">${text}</h2>`;
+                }),
             }}
           />
           <div className="max-w-[600px] mx-auto bg-white py-16">
             <SubscriberForm formClasses="md:w-4/5 flex flex-col gap-2 md:mx-auto bg-white px-4 md:px-0" />
           </div>
+          <div className="max-w-[600px] mx-auto" id="passendo-ad"></div>
         </div>
       </div>
     );
@@ -80,9 +122,20 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
                   `class="sec-ad-link"`,
                   `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`
                 )
-                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`),
+                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`)
+                .replace(/<h2([^>]*)>(.*?)<\/h2>/gi, (match, attrs, text) => {
+                  const slug = text
+                    .toLowerCase()
+                    .replace(/[^a-z0-9\s]/g, "")
+                    .trim()
+                    .replace(/\s+/g, "-");
+                  // Avoid adding duplicate id if already exists
+                  if (/id\s*=/.test(attrs)) return match;
+                  return `<h2${attrs} id="${slug}">${text}</h2>`;
+                }),
             }}
           />
+          <div className="max-w-[600px] mx-auto" id="passendo-ad"></div>
         </div>
       </div>
     );
@@ -101,13 +154,10 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
           <div
             className="archive"
             dangerouslySetInnerHTML={{
-              __html: blog.emailHtml
-                .replaceAll("<a", `<a target="_blank"`)
-                .replaceAll(
-                  `class="sec-ad-link"`,
-                  `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`
-                )
-                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`),
+              __html: blog.emailHtmlPreview.replaceAll(
+                "<a",
+                `<a target="_blank"`
+              ),
             }}
           />
           <div className="max-w-[600px] mx-auto bg-white py-16 text-center">
