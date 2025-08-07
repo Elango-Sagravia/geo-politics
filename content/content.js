@@ -41,7 +41,7 @@ const content = {
           title: "Front desk",
           type: "phone",
           href: "+1 218 500 0099",
-          content: "1 218 500 0099",
+          content: "+1 218 500 0099",
         },
         {
           title: "Advertise with us",
@@ -71,7 +71,7 @@ const content = {
           title: "Front desk",
           type: "phone",
           href: "+1 218 500 0099",
-          content: "1 218 500 0099",
+          content: "+1 218 500 0099",
         },
       ],
     },
